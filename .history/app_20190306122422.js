@@ -1,6 +1,6 @@
 var app = require('express')();
 var http = require('http').Server(app);
-var io = require('socket.io')(http, { origins: '*:*' });
+var io = require('socket.io')(http,{origins:'*:*'});
 var sql = require('mssql');
 var express = require('express');
 var cors = require('cors');
