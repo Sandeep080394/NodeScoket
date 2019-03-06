@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Hello world</title>
+  </head>
+  <script src="/socket.io/socket.io.js"></script>
+  <script>
+    var socket = io();
+
+    // socket.on('testerEvent', function(data) {
+    //   document.write(data.description);
+    // });
+
+    // // send data to server using the event named as clientEvent
+    // socket.emit('clientEvent', 'Sent an event from the client!');
+
+    socket.on('broadcast', function(data) {
+      document.body.innerHTML = '';
+      document.write(data.description);
+    });
+    
+  </script>
+  <body>
+    Hello world
+  </body>
+</html>

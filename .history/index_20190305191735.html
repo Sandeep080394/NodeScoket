@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Hello world</title>
+  </head>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/2.2.0/socket.io.js"></script>
+  <!-- <script src="/socket.io/socket.io.js"></script>
+  <script>
+    //  var socket = io();
+    // socket.on('testerEvent', function(data) {
+    //   document.write(data.description);
+    // });
+
+    // // send data to server using the event named as clientEvent
+    // socket.emit('clientEvent', 'Sent an event from the client!');
+
+    // socket.on('broadcast', function(data) {
+    //   document.body.innerHTML = '';
+    //   document.write(data.description);
+    // });
+
+    // socket.on('newclientconnect',function(data) {
+    //      document.body.innerHTML = '';
+    //      document.write(data.description);
+    //   });
+
+    // var socket = io('/my-namespace');
+    // socket.on('hi', function(data) {
+    //   console.log('comment log', data);
+    //   document.body.innerHTML = '';
+    //   document.write(data);
+    // });
+
+    var socket = io('https://trenderalertsocket.azurewebsites.net/');
+    socket.on('comment', function(data) {
+      console.log('comment log', data);
+      document.body.innerHTML = '';
+      document.write(data);
+    });
+
+    socket.on('connect_failed', function() {
+      document.write('Sorry, there seems to be an issue with the connection!');
+    });
+  </script> -->
+  <body>
+    Hello world
+  </body>
+</html>
