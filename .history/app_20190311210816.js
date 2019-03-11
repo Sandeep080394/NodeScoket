@@ -48,11 +48,10 @@ io.on('connection', function(socket) {
 
   socket.on('disconnect', () => {
     for (let i = 0; i < chatUsers.length; i++) {
-      if (chatUsers[i].subscriptionId === socket.id) {
+      if (chatUsers[i].id === socket.id) {
         chatUsers.splice(i, 1);
       }
     }
-    console.log('chat users after disconnect', chatUsers);
   });
 
   const getTargettedToUser = UserId => {

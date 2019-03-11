@@ -52,7 +52,7 @@ io.on('connection', function(socket) {
         chatUsers.splice(i, 1);
       }
     }
-    console.log('chat users after disconnect', chatUsers);
+    console.log('chat users disconnect', chatUsers);
   });
 
   const getTargettedToUser = UserId => {

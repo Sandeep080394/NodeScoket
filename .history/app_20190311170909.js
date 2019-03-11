@@ -10,59 +10,74 @@ app.get('/', function(req, res) {
 });
 
 app.use(cors());
-
-var chatUsers = [];
+var users = [];
 io.on('connection', function(socket) {
+  // // socket.on('commentconnect', function(trendId) {
+  // //   executeStoredProc(trendId).then(response => {
+  // //     if (response && response.length > 0) {
+  // //       console.log('response comment newcomment', response);
+  // //       io.emit('comment', response[0]);
+  // //       console.log('new comment published: ', trendId);
+  // //     } else {
+  // //       console.log('response comment', 'Error');
+  // //       io.emit('comment', 'Error');
+  // //     }
+  // //   });
+  // // });
+
+  // socket.on('newcomment', function(comment) {
+  //   io.emit('comment', comment);
+  // });
+
   // --------- chat start ----------
+  // socket.on('chatinitiate', userinfo => {
+  //   if (userinfo) {
+  //     executeStoredProc('userchat', userinfo).then(res => {
+  //       console.log('chat data', res);
+  //       var chatDataFuncName = 'chatData' + userinfo.FromUserProfileId;
+  //       console.log('chatDataFuncName', chatDataFuncName);
+  //       io.emit(chatDataFuncName, res[0]);
+  //     });
+  //   }
+  // });
+  // // chat ends
 
-  socket.on('chatinitiate', userinfo => {
-    if (userinfo) {
-      chatUsers.push({ userinfo: userinfo, subscriptionId: socket.id });
-      console.log('chatUsers', chatUsers);
-      socket.emit('chatconnection', socket.id);
-    }
-  });
+  // socket.on('username', userName => {
+  //   users.push({
+  //     id: socket.id,
+  //     userName: userName
+  //   });
 
-  socket.on('sendmessage', data => {
-    console.log('get message data', data);
-    var usersArr = getTargettedToUser(data.toUserProfileId);
+  //   let len = users.length;
+  //   len--;
 
-    // insert the data into DB, regardless of the reciepient is online or not
-    executeStoredProc('chatsave', data).then(res => {
-      if (res) {
-        console.log('inserted', res);
-      }
-    });
-    for (let k = 0; k < usersArr.length; k++) {
-      var user = usersArr[k];
-      var toProfileSubscriptionId = user ? user.subscriptionId : null;
-      console.log('user_' + k, user);
-      console.log('toProfileSubscriptionId', toProfileSubscriptionId);
-      if (toProfileSubscriptionId) {
-        socket.broadcast
-          .to(toProfileSubscriptionId)
-          .emit('getmessage', data.message);
-      }
-    }
-  });
+  //   io.emit('userList', users, users[len].id);
+  // });
 
-  socket.on('disconnect', () => {
-    for (let i = 0; i < chatUsers.length; i++) {
-      if (chatUsers[i].subscriptionId === socket.id) {
-        chatUsers.splice(i, 1);
-      }
-    }
-    console.log('chat users after disconnect', chatUsers);
-  });
+  // socket.on('getMsg', data => {
+  //   console.log('get msg data', data);
+  //   console.log('to id ', data.toid);
+  //   // insert the data into DB
+  //   // regardless of the reciepient is online or not
 
-  const getTargettedToUser = UserId => {
-    var chatUser = chatUsers.filter(user => {
-      return user.userinfo && user.userinfo.fromUserProfileId == UserId;
-    });
-    return chatUser;
-  };
+  //   socket.broadcast.to(data.toid).emit('sendMsg', {
+  //     msg: data.msg,
+  //     name: data.name
+  //   });
+  // });
+
+  // socket.on('disconnect', () => {
+  //   for (let i = 0; i < users.length; i++) {
+  //     if (users[i].id === socket.id) {
+  //       users.splice(i, 1);
+  //     }
+  //   }
+  //   io.emit('exit', users);
+  // });
 
   // --------- chat end ----------
+
+
 
   // --------- comment start ----------
   // var trendDataArr = [];
@@ -92,6 +107,10 @@ io.on('connection', function(socket) {
     }
   });
   // --------- comment end ----------
+
+ 
+
+
 });
 
 http.listen(process.env.PORT || 3000, function() {
@@ -134,11 +153,10 @@ const executeStoredProc = async (purpose, params) => {
       .input('ToUserProfileId', sql.Int, params.ToUserProfileId)
       .execute('UserChatList');
   } else if (purpose == 'chatsave') {
-    console.log('params', params);
     recordset = await request
-      .input('FromUserProfileId', sql.Int, params.fromUserProfileId)
-      .input('ToUserProfileId', sql.Int, params.toUserProfileId)
-      .input('ChatText', sql.VarChar(500), params.message)
+      .input('FromUserProfileId', sql.Int, params.FromUserProfileId)
+      .input('ToUserProfileId', sql.Int, params.ToUserProfileId)
+      .input('ChatText', sql.Int, params.ToUserProfileId)
       .execute('SaveChat');
   }
 

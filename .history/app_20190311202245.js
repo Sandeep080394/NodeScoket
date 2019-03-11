@@ -25,39 +25,37 @@ io.on('connection', function(socket) {
 
   socket.on('sendmessage', data => {
     console.log('get message data', data);
-    var usersArr = getTargettedToUser(data.toUserProfileId);
+    var usersArr = getToUserSubscriptionId(data.toUserProfileId);
+    console.log('usersArr', usersArr);
 
-    // insert the data into DB, regardless of the reciepient is online or not
-    executeStoredProc('chatsave', data).then(res => {
-      if (res) {
-        console.log('inserted', res);
-      }
-    });
     for (let k = 0; k < usersArr.length; k++) {
       var user = usersArr[k];
       var toProfileSubscriptionId = user ? user.subscriptionId : null;
-      console.log('user_' + k, user);
-      console.log('toProfileSubscriptionId', toProfileSubscriptionId);
       if (toProfileSubscriptionId) {
-        socket.broadcast
-          .to(toProfileSubscriptionId)
-          .emit('getmessage', data.message);
+        // insert the data into DB
+        // regardless of the reciepient is online or not
+        executeStoredProc('chatsave', data).then(res => {
+          if (res) {
+            socket.broadcast
+              .to(toProfileSubscriptionId)
+              .emit('getmessage', data.message);
+          }
+        });
       }
     }
   });
 
   socket.on('disconnect', () => {
     for (let i = 0; i < chatUsers.length; i++) {
-      if (chatUsers[i].subscriptionId === socket.id) {
+      if (chatUsers[i].id === socket.id) {
         chatUsers.splice(i, 1);
       }
     }
-    console.log('chat users after disconnect', chatUsers);
   });
 
-  const getTargettedToUser = UserId => {
+  const getToUserSubscriptionId = UserId => {
     var chatUser = chatUsers.filter(user => {
-      return user.userinfo && user.userinfo.fromUserProfileId == UserId;
+      return user.userinfo.toUserProfileId == UserId;
     });
     return chatUser;
   };
@@ -134,11 +132,10 @@ const executeStoredProc = async (purpose, params) => {
       .input('ToUserProfileId', sql.Int, params.ToUserProfileId)
       .execute('UserChatList');
   } else if (purpose == 'chatsave') {
-    console.log('params', params);
     recordset = await request
-      .input('FromUserProfileId', sql.Int, params.fromUserProfileId)
-      .input('ToUserProfileId', sql.Int, params.toUserProfileId)
-      .input('ChatText', sql.VarChar(500), params.message)
+      .input('FromUserProfileId', sql.Int, params.FromUserProfileId)
+      .input('ToUserProfileId', sql.Int, params.ToUserProfileId)
+      .input('ChatText', sql.Int, params.ToUserProfileId)
       .execute('SaveChat');
   }
 

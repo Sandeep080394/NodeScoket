@@ -48,11 +48,10 @@ io.on('connection', function(socket) {
 
   socket.on('disconnect', () => {
     for (let i = 0; i < chatUsers.length; i++) {
-      if (chatUsers[i].subscriptionId === socket.id) {
+      if (chatUsers[i].id === socket.id) {
         chatUsers.splice(i, 1);
       }
     }
-    console.log('chat users after disconnect', chatUsers);
   });
 
   const getTargettedToUser = UserId => {
@@ -138,7 +137,7 @@ const executeStoredProc = async (purpose, params) => {
     recordset = await request
       .input('FromUserProfileId', sql.Int, params.fromUserProfileId)
       .input('ToUserProfileId', sql.Int, params.toUserProfileId)
-      .input('ChatText', sql.VarChar(500), params.message)
+      .input('ChatText', sql.string, params.message)
       .execute('SaveChat');
   }
 
