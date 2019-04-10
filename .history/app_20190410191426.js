@@ -66,7 +66,7 @@ var chatUsers = [];
 var trendDataArr = [];
 var globalUsers = [];
 io.on('connection', function(socket) {
-  // console.log('user connected', socket);
+ // console.log('user connected', socket);
   logger.log({
     level: 'info',
     message: stringify({ socketconnected: socket.id })
@@ -229,9 +229,6 @@ io.on('connection', function(socket) {
           if (res && res.length > 0 && res[0].length > 0) {
             let commentResponseObj = res[0][0];
             commentResponseObj.Replies = [];
-            commentResponseObj.CommentID = parseInt(
-              commentResponseObj.CommentID
-            );
             let commentReponse = {
               commentData: commentResponseObj,
               IsReply: commentInfo.IsReply == 0 ? false : true
@@ -364,7 +361,7 @@ const executeStoredProc = async (purpose, params) => {
       .input('ToUserProfileId', sql.Int, params.toUserProfileId)
       .input('UserId', sql.VarChar(200), params.userId)
       .input('ChatText', sql.VarChar(500), params.message)
-      .input('IsMessage', sql.Bit, 1)
+      .input('IsMessage',sql.Bit,1)
       .execute('SaveChat');
   } else if (purpose == 'getchat') {
     recordset = await request

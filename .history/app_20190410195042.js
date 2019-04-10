@@ -229,9 +229,7 @@ io.on('connection', function(socket) {
           if (res && res.length > 0 && res[0].length > 0) {
             let commentResponseObj = res[0][0];
             commentResponseObj.Replies = [];
-            commentResponseObj.CommentID = parseInt(
-              commentResponseObj.CommentID
-            );
+            commentResponseObj.CommentID=parseInt(commentResponseObj.CommentId);
             let commentReponse = {
               commentData: commentResponseObj,
               IsReply: commentInfo.IsReply == 0 ? false : true

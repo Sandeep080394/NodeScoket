@@ -156,3 +156,116 @@
 2019-04-05 19:37:04 info: {"sendmessage":{"fromUserProfileId":"140079","toUserProfileId":"140084","message":"test","userId":"f10316a6-bff3-4740-a31a-88d42561c604"}}
 2019-04-05 19:37:05 info: {"messagesaved":[[{"Status":1,"data":"5","Message":"Chat inserted successfully."}]]}
 2019-04-05 19:48:23 info: {"socketconnected":"OnoWbktdvuITV-obAAAA"}
+2019-04-10 18:54:33 info: {"socketconnected":"AUlWu3EitI0Gijw8AAAA"}
+2019-04-10 18:54:57 info: {"trendInfo":{"trendId":40185}}
+2019-04-10 18:55:00 info: {"trendInfo":{"trendId":40185}}
+2019-04-10 18:55:30 info: {"comment_trenders_disconnect":[{"trendInfo":{"trendId":40185},"subscriptionId":"AUlWu3EitI0Gijw8AAAA"}]}
+2019-04-10 18:55:45 info: {"socketconnected":"BLMYMatJKkcNX7jXAAAB"}
+2019-04-10 18:58:04 info: {"socketconnected":"2zo2WCggvaHg-v3kAAAC"}
+2019-04-10 18:58:24 info: {"trendInfo":{"trendId":40146}}
+2019-04-10 18:58:24 info: {"trendInfo":{"trendId":40146}}
+2019-04-10 18:58:45 info: {"socketconnected":"Gt0zAasyfDKWxeX9AAAD"}
+2019-04-10 18:58:53 info: {"trendInfo":{"trendId":40146}}
+2019-04-10 18:58:53 info: {"trendInfo":{"trendId":40146}}
+2019-04-10 18:59:00 info: {"commentInfo":{"comment":"Cjehfjej jejfjsjd","chatroom":"comment_40146","Id":50382,"UserProfileId":"140164","IsReply":"false"}}
+2019-04-10 18:59:53 info: {"comment_trenders_disconnect":[{"trendInfo":{"trendId":40185},"subscriptionId":"AUlWu3EitI0Gijw8AAAA"},{"trendInfo":{"trendId":40146},"subscriptionId":"2zo2WCggvaHg-v3kAAAC"},{"trendInfo":{"trendId":40146},"subscriptionId":"Gt0zAasyfDKWxeX9AAAD"},{"trendInfo":{"trendId":40146},"subscriptionId":"Gt0zAasyfDKWxeX9AAAD"}]}
+2019-04-10 19:04:41 info: {"socketconnected":"iqbXQ9axMqQwjscVAAAE"}
+2019-04-10 19:05:33 info: {"loginInfo":{"UserProfileId":"140088"}}
+2019-04-10 19:05:33 info: {"globalUsers":[{"UserProfileId":"140088","subscriptionId":"Gt0zAasyfDKWxeX9AAAD"}]}
+2019-04-10 19:06:05 info: {"trendInfo":{"trendId":40176}}
+2019-04-10 19:06:05 info: {"trendInfo":{"trendId":40176}}
+2019-04-10 19:06:09 info: {"trendInfo":{"trendId":40176}}
+2019-04-10 19:06:10 info: {"trendInfo":{"trendId":40176}}
+2019-04-10 19:06:46 info: {"commentInfo":{"IsReply":"false","UserProfileId":"140164","Id":50384,"comment":"Test socket data","chatroom":"comment_40176"}}
+2019-04-10 19:07:09 info: {"comment_trenders_disconnect":[{"trendInfo":{"trendId":40185},"subscriptionId":"AUlWu3EitI0Gijw8AAAA"},{"trendInfo":{"trendId":40146},"subscriptionId":"2zo2WCggvaHg-v3kAAAC"},{"trendInfo":{"trendId":40146},"subscriptionId":"Gt0zAasyfDKWxeX9AAAD"},{"trendInfo":{"trendId":40146},"subscriptionId":"Gt0zAasyfDKWxeX9AAAD"},{"trendInfo":{"trendId":40176},"subscriptionId":"Gt0zAasyfDKWxeX9AAAD"},{"trendInfo":{"trendId":40176},"subscriptionId":"Gt0zAasyfDKWxeX9AAAD"},{"trendInfo":{"trendId":40176},"subscriptionId":"iqbXQ9axMqQwjscVAAAE"}]}
+2019-04-10 19:08:56 info: {"comment_trenders_disconnect":[{"trendInfo":{"trendId":40185},"subscriptionId":"AUlWu3EitI0Gijw8AAAA"},{"trendInfo":{"trendId":40146},"subscriptionId":"2zo2WCggvaHg-v3kAAAC"},{"trendInfo":{"trendId":40146},"subscriptionId":"Gt0zAasyfDKWxeX9AAAD"},{"trendInfo":{"trendId":40176},"subscriptionId":"Gt0zAasyfDKWxeX9AAAD"},{"trendInfo":{"trendId":40176},"subscriptionId":"Gt0zAasyfDKWxeX9AAAD"},{"trendInfo":{"trendId":40176},"subscriptionId":"iqbXQ9axMqQwjscVAAAE"}]}
+2019-04-10 19:08:56 info: {"comment_trenders_disconnect":[{"trendInfo":{"trendId":40185},"subscriptionId":"AUlWu3EitI0Gijw8AAAA"},{"trendInfo":{"trendId":40146},"subscriptionId":"2zo2WCggvaHg-v3kAAAC"},{"trendInfo":{"trendId":40146},"subscriptionId":"Gt0zAasyfDKWxeX9AAAD"},{"trendInfo":{"trendId":40176},"subscriptionId":"Gt0zAasyfDKWxeX9AAAD"},{"trendInfo":{"trendId":40176},"subscriptionId":"iqbXQ9axMqQwjscVAAAE"}]}
+2019-04-10 19:08:56 info: {"globalUsers":[]}
+2019-04-10 19:09:28 info: {"socketconnected":"6NGv74hNf2piCXrBAAAF"}
+2019-04-10 19:09:34 info: {"socketconnected":"lXdwaYxNTB5r3_bbAAAG"}
+2019-04-10 19:10:06 info: {"socketconnected":"nruIqhlcGzFiMDkkAAAH"}
+2019-04-10 19:10:33 info: {"trendInfo":{"trendId":40176}}
+2019-04-10 19:10:33 info: {"trendInfo":{"trendId":40176}}
+2019-04-10 19:10:46 info: {"trendInfo":{"trendId":40146}}
+2019-04-10 19:10:48 info: {"trendInfo":{"trendId":40146}}
+2019-04-10 19:11:47 info: {"comment_trenders_disconnect":[{"trendInfo":{"trendId":40185},"subscriptionId":"AUlWu3EitI0Gijw8AAAA"},{"trendInfo":{"trendId":40146},"subscriptionId":"2zo2WCggvaHg-v3kAAAC"},{"trendInfo":{"trendId":40146},"subscriptionId":"Gt0zAasyfDKWxeX9AAAD"},{"trendInfo":{"trendId":40176},"subscriptionId":"Gt0zAasyfDKWxeX9AAAD"},{"trendInfo":{"trendId":40176},"subscriptionId":"iqbXQ9axMqQwjscVAAAE"},{"trendInfo":{"trendId":40176},"subscriptionId":"nruIqhlcGzFiMDkkAAAH"},{"trendInfo":{"trendId":40176},"subscriptionId":"nruIqhlcGzFiMDkkAAAH"},{"trendInfo":{"trendId":40146},"subscriptionId":"lXdwaYxNTB5r3_bbAAAG"}]}
+2019-04-10 19:13:27 info: {"socketconnected":"oMh73RC5VzXO90rYAAAI"}
+2019-04-10 19:14:46 info: {"socketconnected":"a0Rb9S5swoQ7lrCWAAAA"}
+2019-04-10 19:14:46 info: {"socketconnected":"U0f1fgF7RByH7q0mAAAB"}
+2019-04-10 19:26:08 info: {"socketconnected":"zgeg1-3R-pEyhJe2AAAC"}
+2019-04-10 19:26:25 info: {"trendInfo":{"trendId":40176}}
+2019-04-10 19:26:26 info: {"trendInfo":{"trendId":40176}}
+2019-04-10 19:26:57 info: {"commentInfo":{"chatroom":"comment_40176","Id":50387,"IsReply":"false","UserProfileId":"140088"}}
+2019-04-10 19:27:15 info: {"comment_trenders_disconnect":[{"trendInfo":{"trendId":40176},"subscriptionId":"zgeg1-3R-pEyhJe2AAAC"}]}
+2019-04-10 19:32:55 info: {"socketconnected":"TB87LRj5QQBKZfiuAAAD"}
+2019-04-10 19:33:56 info: {"socketconnected":"To42iCjQZcU4Tpe-AAAA"}
+2019-04-10 19:34:13 info: {"trendInfo":{"trendId":40176}}
+2019-04-10 19:34:13 info: {"trendInfo":{"trendId":40176}}
+2019-04-10 19:34:26 info: {"commentInfo":{"chatroom":"comment_40176","IsReply":0,"UserProfileId":"140164","Id":50388}}
+2019-04-10 19:34:27 info: {"commentdata":{"commentData":{"CommentID":"50388","CommentText":"Gdydhchc","CommentImage":null,"ProfileImage":null,"UserFirstname":"Ishwar","UserLastname":"Chouhan","Username":"ishwarchouhan","TimeAgo":"5 s","IsLiked":false,"CanDelete":true,"UserProfileId":"140164","CommentAudio":null,"Duration":null,"Replies":[]},"IsReply":false}}
+2019-04-10 19:37:11 info: {"comment_trenders_disconnect":[{"trendInfo":{"trendId":40176},"subscriptionId":"To42iCjQZcU4Tpe-AAAA"}]}
+2019-04-10 19:38:09 info: {"socketconnected":"EzYvE4qQi3c9yI40AAAB"}
+2019-04-10 19:39:51 info: {"socketconnected":"jQQ9tz0liEyL8mNKAAAC"}
+2019-04-10 19:40:07 info: {"loginInfo":{"UserProfileId":"140164"}}
+2019-04-10 19:40:07 info: {"globalUsers":[{"UserProfileId":"140164","subscriptionId":"EzYvE4qQi3c9yI40AAAB"}]}
+2019-04-10 19:40:33 info: {"trendInfo":{"trendId":40146}}
+2019-04-10 19:40:33 info: {"trendInfo":{"trendId":40146}}
+2019-04-10 19:43:58 info: {"socketconnected":"H288ClMoG9eWHWgJAAAD"}
+2019-04-10 19:44:07 info: {"trendInfo":{"trendId":40146}}
+2019-04-10 19:44:07 info: {"trendInfo":{"trendId":40146}}
+2019-04-10 19:44:13 info: {"trendInfo":{"trendId":40146}}
+2019-04-10 19:44:13 info: {"trendInfo":{"trendId":40146}}
+2019-04-10 19:44:20 info: {"commentInfo":{"Id":50389,"IsReply":0,"chatroom":"comment_40146","UserProfileId":"140088"}}
+2019-04-10 19:44:20 info: {"commentdata":{"commentData":{"CommentID":"50389","CommentText":"Jfhffyohgfhikh","CommentImage":null,"ProfileImage":"https://trend-video.azureedge.net/userprofileimages/82dd73e1-a715-4c87-950a-6eea6652345a.jpg","UserFirstname":"jhjh","UserLastname":"123456888","Username":"testtest1111","TimeAgo":"0 s","IsLiked":false,"CanDelete":true,"UserProfileId":"140088","CommentAudio":null,"Duration":null,"Replies":[]},"IsReply":false}}
+2019-04-10 19:44:20 info: {"comment_trenders_disconnect":[{"trendInfo":{"trendId":40176},"subscriptionId":"To42iCjQZcU4Tpe-AAAA"},{"trendInfo":{"trendId":40146},"subscriptionId":"EzYvE4qQi3c9yI40AAAB"},{"trendInfo":{"trendId":40146},"subscriptionId":"H288ClMoG9eWHWgJAAAD"},{"trendInfo":{"trendId":40146},"subscriptionId":"H288ClMoG9eWHWgJAAAD"},{"trendInfo":{"trendId":40146},"subscriptionId":"EzYvE4qQi3c9yI40AAAB"},{"trendInfo":{"trendId":40146},"subscriptionId":"EzYvE4qQi3c9yI40AAAB"}]}
+2019-04-10 19:44:20 info: {"comment_trenders_disconnect":[{"trendInfo":{"trendId":40176},"subscriptionId":"To42iCjQZcU4Tpe-AAAA"},{"trendInfo":{"trendId":40146},"subscriptionId":"EzYvE4qQi3c9yI40AAAB"},{"trendInfo":{"trendId":40146},"subscriptionId":"H288ClMoG9eWHWgJAAAD"},{"trendInfo":{"trendId":40146},"subscriptionId":"H288ClMoG9eWHWgJAAAD"},{"trendInfo":{"trendId":40146},"subscriptionId":"EzYvE4qQi3c9yI40AAAB"}]}
+2019-04-10 19:44:20 info: {"globalUsers":[]}
+2019-04-10 19:44:39 info: {"socketconnected":"SZ0yweE2vG0eusryAAAE"}
+2019-04-10 19:44:53 info: {"trendInfo":{"trendId":40146}}
+2019-04-10 19:44:53 info: {"trendInfo":{"trendId":40146}}
+2019-04-10 19:45:08 info: {"commentInfo":{"chatroom":"comment_40146","Id":50390,"IsReply":0,"UserProfileId":"140164"}}
+2019-04-10 19:45:08 info: {"commentdata":{"commentData":{"CommentID":"50390","CommentText":"Gfhcigigigu","CommentImage":null,"ProfileImage":null,"UserFirstname":"Ishwar","UserLastname":"Chouhan","Username":"ishwarchouhan","TimeAgo":"0 s","IsLiked":false,"CanDelete":true,"UserProfileId":"140164","CommentAudio":null,"Duration":null,"Replies":[]},"IsReply":false}}
+2019-04-10 19:45:19 info: {"comment_trenders_disconnect":[{"trendInfo":{"trendId":40176},"subscriptionId":"To42iCjQZcU4Tpe-AAAA"},{"trendInfo":{"trendId":40146},"subscriptionId":"EzYvE4qQi3c9yI40AAAB"},{"trendInfo":{"trendId":40146},"subscriptionId":"H288ClMoG9eWHWgJAAAD"},{"trendInfo":{"trendId":40146},"subscriptionId":"EzYvE4qQi3c9yI40AAAB"},{"trendInfo":{"trendId":40146},"subscriptionId":"SZ0yweE2vG0eusryAAAE"},{"trendInfo":{"trendId":40146},"subscriptionId":"SZ0yweE2vG0eusryAAAE"}]}
+2019-04-10 19:49:44 info: {"comment_trenders_disconnect":[{"trendInfo":{"trendId":40176},"subscriptionId":"To42iCjQZcU4Tpe-AAAA"},{"trendInfo":{"trendId":40146},"subscriptionId":"EzYvE4qQi3c9yI40AAAB"},{"trendInfo":{"trendId":40146},"subscriptionId":"H288ClMoG9eWHWgJAAAD"},{"trendInfo":{"trendId":40146},"subscriptionId":"EzYvE4qQi3c9yI40AAAB"},{"trendInfo":{"trendId":40146},"subscriptionId":"SZ0yweE2vG0eusryAAAE"}]}
+2019-04-10 19:52:04 info: {"socketconnected":"UTp6sPouhm4ds0kdAAAA"}
+2019-04-10 19:52:04 info: {"loginInfo":{"UserProfileId":"130044"}}
+2019-04-10 19:52:04 info: {"globalUsers":[{"UserProfileId":"130044","subscriptionId":"UTp6sPouhm4ds0kdAAAA"}]}
+2019-04-10 19:52:07 info: {"socketconnected":"8BVxZi0J8R29CeLvAAAB"}
+2019-04-10 19:52:07 info: {"loginInfo":{"UserProfileId":"130044"}}
+2019-04-10 19:52:07 info: {"globalUsers":[{"UserProfileId":"130044","subscriptionId":"UTp6sPouhm4ds0kdAAAA"},{"UserProfileId":"130044","subscriptionId":"8BVxZi0J8R29CeLvAAAB"}]}
+2019-04-10 19:52:14 info: {"chatUsers":[{"userinfo":{"userId":"123"},"subscriptionId":"8BVxZi0J8R29CeLvAAAB"}]}
+2019-04-10 19:52:17 info: {"chatUsers":[{"userinfo":{"userId":"123"},"subscriptionId":"8BVxZi0J8R29CeLvAAAB"},{"userinfo":{"userId":"123"},"subscriptionId":"UTp6sPouhm4ds0kdAAAA"}]}
+2019-04-10 19:52:23 info: {"commentInfo":{"Id":50387,"IsReply":0,"UserProfileId":130044}}
+2019-04-10 19:52:23 info: {"commentdata":{"commentData":{"CommentID":50387,"CommentText":"Teydjfiejvk","CommentImage":null,"ProfileImage":"https://trend-video.azureedge.net/userprofileimages/82dd73e1-a715-4c87-950a-6eea6652345a.jpg","UserFirstname":"jhjh","UserLastname":"123456888","Username":"testtest1111","TimeAgo":"26 m","IsLiked":false,"CanDelete":false,"UserProfileId":"140088","CommentAudio":null,"Duration":null,"Replies":[]},"IsReply":false}}
+2019-04-10 19:53:23 info: {"socketconnected":"F7Boaxb6JN-gcfClAAAC"}
+2019-04-10 19:53:41 info: {"trendInfo":{"trendId":40146}}
+2019-04-10 19:53:42 info: {"trendInfo":{"trendId":40146}}
+2019-04-10 19:54:06 info: {"socketconnected":"Bs32iRiO8P8ckIJ1AAAD"}
+2019-04-10 19:54:21 info: {"trendInfo":{"trendId":40146}}
+2019-04-10 19:54:21 info: {"trendInfo":{"trendId":40146}}
+2019-04-10 19:54:24 info: {"commentInfo":{"UserProfileId":"140164","chatroom":"comment_40146","IsReply":0,"Id":50391}}
+2019-04-10 19:54:24 info: {"commentdata":{"commentData":{"CommentID":50391,"CommentText":"Dqvsbikhcshkckbe","CommentImage":null,"ProfileImage":null,"UserFirstname":"Ishwar","UserLastname":"Chouhan","Username":"ishwarchouhan","TimeAgo":"0 s","IsLiked":false,"CanDelete":true,"UserProfileId":"140164","CommentAudio":null,"Duration":null,"Replies":[]},"IsReply":false}}
+2019-04-10 19:54:30 info: {"comment_trenders_disconnect":[{"trendInfo":{"trendId":40146},"subscriptionId":"F7Boaxb6JN-gcfClAAAC"},{"trendInfo":{"trendId":40146},"subscriptionId":"F7Boaxb6JN-gcfClAAAC"},{"trendInfo":{"trendId":40146},"subscriptionId":"Bs32iRiO8P8ckIJ1AAAD"}]}
+2019-04-10 19:54:49 info: {"comment_trenders_disconnect":[{"trendInfo":{"trendId":40146},"subscriptionId":"F7Boaxb6JN-gcfClAAAC"},{"trendInfo":{"trendId":40146},"subscriptionId":"Bs32iRiO8P8ckIJ1AAAD"}]}
+2019-04-10 19:58:39 info: {"socketconnected":"hSc6GS9ytgLV2rn9AAAE"}
+2019-04-10 19:58:49 info: {"trendInfo":{"trendId":40146}}
+2019-04-10 19:58:50 info: {"trendInfo":{"trendId":40146}}
+2019-04-10 19:59:06 info: {"socketconnected":"Y4pwZyFjsuNzQp_eAAAF"}
+2019-04-10 19:59:09 info: {"commentInfo":{"UserProfileId":"140164","chatroom":"comment_40146","IsReply":0,"Id":50392}}
+2019-04-10 19:59:09 info: {"commentdata":{"commentData":{"CommentID":50392,"CommentText":"Decekbcwhjxshjxkve","CommentImage":null,"ProfileImage":null,"UserFirstname":"Ishwar","UserLastname":"Chouhan","Username":"ishwarchouhan","TimeAgo":"0 s","IsLiked":false,"CanDelete":true,"UserProfileId":"140164","CommentAudio":null,"Duration":null,"Replies":[]},"IsReply":false}}
+2019-04-10 20:00:00 info: {"commentInfo":{"UserProfileId":"140164","chatroom":"comment_40146","IsReply":"true","comment":"Vdbdgebifebkdkbwfkb","Id":20172}}
+2019-04-10 20:00:00 info: {"commentdata":{"commentData":{"ReplyID":"20172","CommentID":50392,"ReplyText":"Vdbdgebifebkdkbwfkb","ReplyImage":null,"ProfileImage":null,"UserFirstname":"Ishwar","UserLastname":"Chouhan","Username":"ishwarchouhan","TimeAgo":"0 s","IsLiked":false,"CanDelete":true,"UserProfileId":"140164","Duration":null,"Replies":[]},"IsReply":true}}
+2019-04-10 20:08:04 info: {"socketconnected":"nVEqTIhKlnbUnXkRAAAG"}
+2019-04-10 20:08:05 info: {"commentInfo":{"UserProfileId":"140164","chatroom":"comment_40146","IsReply":"true","comment":"Frfegcwhkchkwc","Id":20173}}
+2019-04-10 20:08:05 info: {"commentdata":{"commentData":{"ReplyID":"20173","CommentID":50392,"ReplyText":"Frfegcwhkchkwc","ReplyImage":null,"ProfileImage":null,"UserFirstname":"Ishwar","UserLastname":"Chouhan","Username":"ishwarchouhan","TimeAgo":"0 s","IsLiked":false,"CanDelete":true,"UserProfileId":"140164","Duration":null,"Replies":[]},"IsReply":true}}
+2019-04-10 20:10:34 info: {"socketconnected":"AmD4Yj9L6c4wJydoAAAH"}
+2019-04-10 20:10:38 info: {"commentInfo":{"UserProfileId":"140164","chatroom":"comment_40146","IsReply":"true","comment":"Feqvhxwhiwhkcwjkc","Id":20174}}
+2019-04-10 20:10:38 info: {"commentdata":{"commentData":{"ReplyID":"20174","CommentID":50392,"ReplyText":"Feqvhxwhiwhkcwjkc","ReplyImage":null,"ProfileImage":null,"UserFirstname":"Ishwar","UserLastname":"Chouhan","Username":"ishwarchouhan","TimeAgo":"0 s","IsLiked":false,"CanDelete":true,"UserProfileId":"140164","Duration":null,"Replies":[]},"IsReply":true}}
+2019-04-10 20:12:20 info: {"socketconnected":"PUdHxRXsD5RxowYkAAAI"}
+2019-04-10 20:12:24 info: {"commentInfo":{"UserProfileId":"140164","chatroom":"comment_40146","IsReply":"true","comment":"Feeeeeeeee","Id":20175}}
+2019-04-10 20:12:24 info: {"commentdata":{"commentData":{"ReplyID":"20175","CommentID":50392,"ReplyText":"Feeeeeeeee","ReplyImage":null,"ProfileImage":null,"UserFirstname":"Ishwar","UserLastname":"Chouhan","Username":"ishwarchouhan","TimeAgo":"0 s","IsLiked":false,"CanDelete":true,"UserProfileId":"140164","Duration":null,"Replies":[]},"IsReply":true}}
+2019-04-10 20:12:47 info: {"comment_trenders_disconnect":[{"trendInfo":{"trendId":40146},"subscriptionId":"F7Boaxb6JN-gcfClAAAC"},{"trendInfo":{"trendId":40146},"subscriptionId":"Bs32iRiO8P8ckIJ1AAAD"},{"trendInfo":{"trendId":40146},"subscriptionId":"hSc6GS9ytgLV2rn9AAAE"}]}
+2019-04-10 20:42:00 info: {"chat_users_disconnect":[{"userinfo":{"userId":"123"},"subscriptionId":"UTp6sPouhm4ds0kdAAAA"}]}
+2019-04-10 20:42:00 info: {"globalUsers":[{"UserProfileId":"130044","subscriptionId":"UTp6sPouhm4ds0kdAAAA"}]}
+2019-04-10 20:42:01 info: {"chat_users_disconnect":[]}
+2019-04-10 20:42:01 info: {"globalUsers":[]}
