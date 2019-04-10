@@ -269,3 +269,27 @@
 2019-04-10 20:42:00 info: {"globalUsers":[{"UserProfileId":"130044","subscriptionId":"UTp6sPouhm4ds0kdAAAA"}]}
 2019-04-10 20:42:01 info: {"chat_users_disconnect":[]}
 2019-04-10 20:42:01 info: {"globalUsers":[]}
+2019-04-10 21:26:20 info: {"socketconnected":"1FKuUFZ5YoBtlB9XAAAA"}
+2019-04-10 21:26:20 info: {"loginInfo":{"UserProfileId":"130044"}}
+2019-04-10 21:26:20 info: {"globalUsers":[{"UserProfileId":"130044","subscriptionId":"1FKuUFZ5YoBtlB9XAAAA"}]}
+2019-04-10 21:26:22 info: {"socketconnected":"YHbsZ2MVS0FYOlhvAAAB"}
+2019-04-10 21:26:22 info: {"loginInfo":{"UserProfileId":"130044"}}
+2019-04-10 21:26:22 info: {"globalUsers":[{"UserProfileId":"130044","subscriptionId":"1FKuUFZ5YoBtlB9XAAAA"},{"UserProfileId":"130044","subscriptionId":"YHbsZ2MVS0FYOlhvAAAB"}]}
+2019-04-10 21:26:26 info: {"chatUsers":[{"userinfo":{"userId":"123"},"subscriptionId":"1FKuUFZ5YoBtlB9XAAAA"}]}
+2019-04-10 21:26:30 info: {"chatUsers":[{"userinfo":{"userId":"123"},"subscriptionId":"1FKuUFZ5YoBtlB9XAAAA"},{"userinfo":{"userId":"123"},"subscriptionId":"YHbsZ2MVS0FYOlhvAAAB"}]}
+2019-04-10 21:26:36 info: {"commentInfo":{"chatroom":"comment_123","Id":"13","IsReply":0,"UserProfileId":130044}}
+2019-04-10 21:26:37 info: {"commentdata":{"commentData":{"CommentID":13,"CommentText":"find the image below","CommentImage":"https://trend-video.azureedge.net/commentimage/77bc392c-aa13-4562-af97-d9fbcc14f60d.jpeg","ProfileImage":"https://trend-video.azureedge.net/userprofileimages/be1ce3e9-c1ff-4834-8fbf-143832428deb.jpg","UserFirstname":"Gayatri1","UserLastname":"R","Username":"hpl.gayatri@gmail.com","TimeAgo":"9 w","IsLiked":false,"CanDelete":false,"UserProfileId":"130264","CommentAudio":null,"Duration":null,"Replies":[]},"IsReply":false}}
+2019-04-10 21:27:18 info: {"chat_users_disconnect":[{"userinfo":{"userId":"123"},"subscriptionId":"YHbsZ2MVS0FYOlhvAAAB"}]}
+2019-04-10 21:27:18 info: {"globalUsers":[{"UserProfileId":"130044","subscriptionId":"YHbsZ2MVS0FYOlhvAAAB"}]}
+2019-04-10 21:27:18 info: {"socketconnected":"9hS2NS9les6aZ9ArAAAC"}
+2019-04-10 21:27:18 info: {"loginInfo":{"UserProfileId":"130044"}}
+2019-04-10 21:27:18 info: {"globalUsers":[{"UserProfileId":"130044","subscriptionId":"YHbsZ2MVS0FYOlhvAAAB"},{"UserProfileId":"130044","subscriptionId":"9hS2NS9les6aZ9ArAAAC"}]}
+2019-04-10 21:27:20 info: {"chat_users_disconnect":[]}
+2019-04-10 21:27:20 info: {"globalUsers":[{"UserProfileId":"130044","subscriptionId":"9hS2NS9les6aZ9ArAAAC"}]}
+2019-04-10 21:27:20 info: {"socketconnected":"debvvDalpunWYAsNAAAD"}
+2019-04-10 21:27:21 info: {"loginInfo":{"UserProfileId":"130044"}}
+2019-04-10 21:27:21 info: {"globalUsers":[{"UserProfileId":"130044","subscriptionId":"9hS2NS9les6aZ9ArAAAC"},{"UserProfileId":"130044","subscriptionId":"debvvDalpunWYAsNAAAD"}]}
+2019-04-10 21:27:23 info: {"chatUsers":[{"userinfo":{"userId":"54"},"subscriptionId":"9hS2NS9les6aZ9ArAAAC"}]}
+2019-04-10 21:27:26 info: {"chatUsers":[{"userinfo":{"userId":"54"},"subscriptionId":"9hS2NS9les6aZ9ArAAAC"},{"userinfo":{"userId":"54"},"subscriptionId":"debvvDalpunWYAsNAAAD"}]}
+2019-04-10 21:27:31 info: {"commentInfo":{"chatroom":"comment_123","Id":"13","IsReply":0,"UserProfileId":130044}}
+2019-04-10 21:27:33 info: {"commentdata":{"commentData":{"CommentID":13,"CommentText":"find the image below","CommentImage":"https://trend-video.azureedge.net/commentimage/77bc392c-aa13-4562-af97-d9fbcc14f60d.jpeg","ProfileImage":"https://trend-video.azureedge.net/userprofileimages/be1ce3e9-c1ff-4834-8fbf-143832428deb.jpg","UserFirstname":"Gayatri1","UserLastname":"R","Username":"hpl.gayatri@gmail.com","TimeAgo":"9 w","IsLiked":false,"CanDelete":false,"UserProfileId":"130264","CommentAudio":null,"Duration":null,"Replies":[]},"IsReply":false}}
