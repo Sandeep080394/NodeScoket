@@ -108,16 +108,7 @@ io.on('connection', function(socket) {
   // --------- chat start ---------- //
   socket.on('chatinitiate', userinfo => {
     if (userinfo) {
-      let insertRequired = true;
-      for (let i = 0; i < chatUsers.length; i++) {
-        if (chatUsers[i].subscriptionId == socket.id) {
-          insertRequired = false;
-        }
-      }
-      if (insertRequired) {
-        chatUsers.push({ userinfo: userinfo, subscriptionId: socket.id });
-      }
-
+      chatUsers.push({ userinfo: userinfo, subscriptionId: socket.id });
       console.log('chatUsers', chatUsers);
 
       logger.log({
@@ -136,7 +127,7 @@ io.on('connection', function(socket) {
     });
 
     var usersArr = getTargettedToUser(data.toUserProfileId);
-    console.log('userarray', usersArr);
+
     if (usersArr && usersArr.length > 0) {
       // insert the data into DB, regardless of the reciepient is online or not
       executeStoredProc('chatsave', data).then(
@@ -148,20 +139,17 @@ io.on('connection', function(socket) {
             });
 
             console.log('inserted', res);
-            if (res.length > 0 && res[0].length > 0) {
-              // after insertion to db send the message to recipient
-              for (let k = 0; k < usersArr.length; k++) {
-                var user = usersArr[k];
-                var toProfileSubscriptionId = user ? user.subscriptionId : null;
-                console.log('user_' + k, user);
-                console.log('toProfileSubscriptionId', toProfileSubscriptionId);
-                if (toProfileSubscriptionId) {
-                  if (res[0][0].Status) {
-                    socket.broadcast
-                      .to(toProfileSubscriptionId)
-                      .emit('getmessage', res[1][0]);
-                  }
-                }
+
+            // after insertion to db send the message to recipient
+            for (let k = 0; k < usersArr.length; k++) {
+              var user = usersArr[k];
+              var toProfileSubscriptionId = user ? user.subscriptionId : null;
+              console.log('user_' + k, user);
+              console.log('toProfileSubscriptionId', toProfileSubscriptionId);
+              if (toProfileSubscriptionId) {
+                socket.broadcast
+                  .to(toProfileSubscriptionId)
+                  .emit('getmessage', data.message);
               }
             }
           }
@@ -311,24 +299,24 @@ http.listen(process.env.PORT || 3100, function() {
   console.log('listening on *:3100');
 });
 
-// var config = {
-//   server: 'trenderalert.database.windows.net',
-//   database: 'trendalertappdb',
-//   user: 'trenderalertadmin',
-//   password: 'Newalert190',
-//   port: 1433,
-//   options: {
-//     encrypt: true
-//   }
-// };
-
 var config = {
-  server: '172.16.1.2',
+  server: 'trenderalert.database.windows.net',
   database: 'trendalertappdb',
-  user: 'dotnet',
-  password: '@sp@2020',
-  port: 1433
+  user: 'trenderalertadmin',
+  password: 'Newalert190',
+  port: 1433,
+  options: {
+    encrypt: true
+  }
 };
+
+// var config = {
+//   server: '172.16.1.2',
+//   database: 'trendalertappdb',
+//   user: 'dotnet',
+//   password: '@sp@2020',
+//   port: 1433
+// };
 
 const executeStoredProc = async (purpose, params) => {
   var dbConn = new sql.Connection(config);

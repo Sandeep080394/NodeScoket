@@ -108,14 +108,10 @@ io.on('connection', function(socket) {
   // --------- chat start ---------- //
   socket.on('chatinitiate', userinfo => {
     if (userinfo) {
-      let insertRequired = true;
       for (let i = 0; i < chatUsers.length; i++) {
-        if (chatUsers[i].subscriptionId == socket.id) {
-          insertRequired = false;
+        if (chatUsers[i].indexOf(socket.id) == -1) {
+          chatUsers.push({ userinfo: userinfo, subscriptionId: socket.id });
         }
-      }
-      if (insertRequired) {
-        chatUsers.push({ userinfo: userinfo, subscriptionId: socket.id });
       }
 
       console.log('chatUsers', chatUsers);

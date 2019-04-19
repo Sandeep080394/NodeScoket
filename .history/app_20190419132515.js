@@ -108,17 +108,14 @@ io.on('connection', function(socket) {
   // --------- chat start ---------- //
   socket.on('chatinitiate', userinfo => {
     if (userinfo) {
-      let insertRequired = true;
-      for (let i = 0; i < chatUsers.length; i++) {
-        if (chatUsers[i].subscriptionId == socket.id) {
-          insertRequired = false;
-        }
+      console.log('chatUsers before obj push', chatUsers);
+      let obj = { userinfo: userinfo, subscriptionId: socket.id };
+      console.log('obj user chat', obj);
+      if (chatUsers.indexOf(obj) == -1) {
+        chatUsers.push(obj);
       }
-      if (insertRequired) {
-        chatUsers.push({ userinfo: userinfo, subscriptionId: socket.id });
-      }
-
-      console.log('chatUsers', chatUsers);
+     
+      console.log('chatUsers after obj push', chatUsers);
 
       logger.log({
         level: 'info',

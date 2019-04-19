@@ -110,7 +110,7 @@ io.on('connection', function(socket) {
     if (userinfo) {
       let insertRequired = true;
       for (let i = 0; i < chatUsers.length; i++) {
-        if (chatUsers[i].subscriptionId == socket.id) {
+        if (chatUsers[i].socket.id == socket.id) {
           insertRequired = false;
         }
       }
