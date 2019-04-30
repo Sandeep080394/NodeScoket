@@ -1,66 +1,10 @@
-2019-04-19 13:26:28 info: {"socketconnected":"60Ttl9ul8HhWqyXxAAAA"}
-2019-04-19 13:26:29 info: {"socketconnected":"MuXKQ_uul8Bqy_JrAAAB"}
-2019-04-19 13:26:32 info: {"socketconnected":"E1q_mdbfSS5gKblPAAAC"}
-2019-04-19 13:26:39 info: {"socketconnected":"T8F-dOv1nToK2y7rAAAD"}
-2019-04-19 13:26:39 info: {"socketconnected":"_1Rc85nUzX-47SAkAAAE"}
-2019-04-19 13:26:41 info: {"chatUsers":[{"userinfo":{"fromUserProfileId":"140092","toUserProfileId":"140091","userId":"3f900ff9-6b13-4488-864f-4e31739d91ab"},"subscriptionId":"E1q_mdbfSS5gKblPAAAC"}]}
-2019-04-19 13:26:44 info: {"chatUsers":[{"userinfo":{"fromUserProfileId":"140092","toUserProfileId":"140091","userId":"3f900ff9-6b13-4488-864f-4e31739d91ab"},"subscriptionId":"E1q_mdbfSS5gKblPAAAC"},{"userinfo":{"fromUserProfileId":"140091","toUserProfileId":"140092","userId":"9e815085-7ff3-4239-bcb6-a0f2b45459cc"},"subscriptionId":"MuXKQ_uul8Bqy_JrAAAB"}]}
-2019-04-19 13:26:45 info: {"chatUsers":[{"userinfo":{"fromUserProfileId":"140092","toUserProfileId":"140091","userId":"3f900ff9-6b13-4488-864f-4e31739d91ab"},"subscriptionId":"E1q_mdbfSS5gKblPAAAC"},{"userinfo":{"fromUserProfileId":"140091","toUserProfileId":"140092","userId":"9e815085-7ff3-4239-bcb6-a0f2b45459cc"},"subscriptionId":"MuXKQ_uul8Bqy_JrAAAB"},{"userinfo":{"fromUserProfileId":"140091","toUserProfileId":"140092","userId":"9e815085-7ff3-4239-bcb6-a0f2b45459cc"},"subscriptionId":"60Ttl9ul8HhWqyXxAAAA"}]}
-2019-04-19 13:26:47 info: {"sendmessage":{"fromUserProfileId":"140092","toUserProfileId":"140091","message":"test","userId":"3f900ff9-6b13-4488-864f-4e31739d91ab"}}
-2019-04-19 13:26:48 info: {"chatsaved":[[{"Status":1,"data":"74","Message":"Chat inserted successfully."}],[{"Id":"74","FromUserProfileId":"140092","ToUserProfileId":"140091","ChatText":"test","ParentMediaId":null,"CreatedDate":"2019-04-19T07:54:42.306Z","IsDeleted":false,"IsMessage":false,"IsNotificationSend":false,"IsMedia":false,"MediaType":"TEXT","MediaPath":null}]]}
-2019-04-19 13:26:52 info: {"chatUsers":[{"userinfo":{"fromUserProfileId":"140092","toUserProfileId":"140091","userId":"3f900ff9-6b13-4488-864f-4e31739d91ab"},"subscriptionId":"E1q_mdbfSS5gKblPAAAC"},{"userinfo":{"fromUserProfileId":"140091","toUserProfileId":"140092","userId":"9e815085-7ff3-4239-bcb6-a0f2b45459cc"},"subscriptionId":"MuXKQ_uul8Bqy_JrAAAB"},{"userinfo":{"fromUserProfileId":"140091","toUserProfileId":"140092","userId":"9e815085-7ff3-4239-bcb6-a0f2b45459cc"},"subscriptionId":"60Ttl9ul8HhWqyXxAAAA"},{"userinfo":{"fromUserProfileId":"140091","toUserProfileId":"140092","userId":"9e815085-7ff3-4239-bcb6-a0f2b45459cc"},"subscriptionId":"60Ttl9ul8HhWqyXxAAAA"}]}
-2019-04-19 13:26:54 info: {"sendmessage":{"fromUserProfileId":"140092","toUserProfileId":"140091","message":"test","userId":"3f900ff9-6b13-4488-864f-4e31739d91ab"}}
-2019-04-19 13:26:54 info: {"chatsaved":[[{"Status":1,"data":"75","Message":"Chat inserted successfully."}],[{"Id":"75","FromUserProfileId":"140092","ToUserProfileId":"140091","ChatText":"test","ParentMediaId":null,"CreatedDate":"2019-04-19T07:54:48.706Z","IsDeleted":false,"IsMessage":false,"IsNotificationSend":false,"IsMedia":false,"MediaType":"TEXT","MediaPath":null}]]}
-2019-04-19 13:29:29 info: {"socketconnected":"DzSf0ejvSZ9CMpMJAAAA"}
-2019-04-19 13:29:29 info: {"socketconnected":"TMrKxwSihb8uTzm5AAAB"}
-2019-04-19 13:29:30 info: {"socketconnected":"OoEWHXzF6FnT2ndiAAAC"}
-2019-04-19 13:29:30 info: {"socketconnected":"6CvvyfuTp_V4BR8CAAAD"}
-2019-04-19 13:29:32 info: {"socketconnected":"GSz63pg8TtH9WWDpAAAA"}
-2019-04-19 13:29:32 info: {"socketconnected":"kU5Syg3x-zL8TCfQAAAB"}
-2019-04-19 13:29:32 info: {"socketconnected":"1pLeG4elItGwfUl8AAAC"}
-2019-04-19 13:29:33 info: {"socketconnected":"IX06RTvhIxclxSGxAAAD"}
-2019-04-19 13:29:45 info: {"socketconnected":"24Kuy1R44_2UK0HmAAAE"}
-2019-04-19 13:29:49 info: {"chatUsers":[{"userinfo":{"fromUserProfileId":"140092","toUserProfileId":"140091","userId":"3f900ff9-6b13-4488-864f-4e31739d91ab"},"subscriptionId":"IX06RTvhIxclxSGxAAAD"}]}
-2019-04-19 13:29:51 info: {"chatUsers":[{"userinfo":{"fromUserProfileId":"140092","toUserProfileId":"140091","userId":"3f900ff9-6b13-4488-864f-4e31739d91ab"},"subscriptionId":"IX06RTvhIxclxSGxAAAD"},{"userinfo":{"fromUserProfileId":"140091","toUserProfileId":"140092","userId":"9e815085-7ff3-4239-bcb6-a0f2b45459cc"},"subscriptionId":"kU5Syg3x-zL8TCfQAAAB"}]}
-2019-04-19 13:29:52 info: {"chatUsers":[{"userinfo":{"fromUserProfileId":"140092","toUserProfileId":"140091","userId":"3f900ff9-6b13-4488-864f-4e31739d91ab"},"subscriptionId":"IX06RTvhIxclxSGxAAAD"},{"userinfo":{"fromUserProfileId":"140091","toUserProfileId":"140092","userId":"9e815085-7ff3-4239-bcb6-a0f2b45459cc"},"subscriptionId":"kU5Syg3x-zL8TCfQAAAB"},{"userinfo":{"fromUserProfileId":"140091","toUserProfileId":"140092","userId":"9e815085-7ff3-4239-bcb6-a0f2b45459cc"},"subscriptionId":"GSz63pg8TtH9WWDpAAAA"}]}
-2019-04-19 13:29:54 info: {"sendmessage":{"fromUserProfileId":"140092","toUserProfileId":"140091","message":"test","userId":"3f900ff9-6b13-4488-864f-4e31739d91ab"}}
-2019-04-19 13:29:55 info: {"chatsaved":[[{"Status":1,"data":"76","Message":"Chat inserted successfully."}],[{"Id":"76","FromUserProfileId":"140092","ToUserProfileId":"140091","ChatText":"test","ParentMediaId":null,"CreatedDate":"2019-04-19T07:57:49.346Z","IsDeleted":false,"IsMessage":false,"IsNotificationSend":false,"IsMedia":false,"MediaType":"TEXT","MediaPath":null}]]}
-2019-04-19 13:29:58 info: {"chatUsers":[{"userinfo":{"fromUserProfileId":"140092","toUserProfileId":"140091","userId":"3f900ff9-6b13-4488-864f-4e31739d91ab"},"subscriptionId":"IX06RTvhIxclxSGxAAAD"},{"userinfo":{"fromUserProfileId":"140091","toUserProfileId":"140092","userId":"9e815085-7ff3-4239-bcb6-a0f2b45459cc"},"subscriptionId":"kU5Syg3x-zL8TCfQAAAB"},{"userinfo":{"fromUserProfileId":"140091","toUserProfileId":"140092","userId":"9e815085-7ff3-4239-bcb6-a0f2b45459cc"},"subscriptionId":"GSz63pg8TtH9WWDpAAAA"},{"userinfo":{"fromUserProfileId":"140091","toUserProfileId":"140092","userId":"9e815085-7ff3-4239-bcb6-a0f2b45459cc"},"subscriptionId":"kU5Syg3x-zL8TCfQAAAB"}]}
-2019-04-19 13:29:59 info: {"sendmessage":{"fromUserProfileId":"140092","toUserProfileId":"140091","message":"test","userId":"3f900ff9-6b13-4488-864f-4e31739d91ab"}}
-2019-04-19 13:30:00 info: {"chatsaved":[[{"Status":1,"data":"77","Message":"Chat inserted successfully."}],[{"Id":"77","FromUserProfileId":"140092","ToUserProfileId":"140091","ChatText":"test","ParentMediaId":null,"CreatedDate":"2019-04-19T07:57:54.390Z","IsDeleted":false,"IsMessage":false,"IsNotificationSend":false,"IsMedia":false,"MediaType":"TEXT","MediaPath":null}]]}
-2019-04-19 13:43:02 info: {"socketconnected":"Ua0dWmrLPiFlU4fCAAAA"}
-2019-04-19 13:43:02 info: {"socketconnected":"NKgRBmcyy1N6asy3AAAB"}
-2019-04-19 13:43:03 info: {"socketconnected":"JFMAB8ADA1xjNArlAAAC"}
-2019-04-19 13:43:03 info: {"socketconnected":"9OsKlrVfJz0C9TBhAAAD"}
-2019-04-19 13:43:21 info: {"socketconnected":"BMOXrHHfvgOjwROXAAAE"}
-2019-04-19 13:49:41 info: {"socketconnected":"IIely4G2GyZ-UHUVAAAA"}
-2019-04-19 13:49:41 info: {"socketconnected":"O0-nDcq0j_quZkWPAAAB"}
-2019-04-19 13:49:41 info: {"socketconnected":"_Rq1tfFpJUinSjHEAAAC"}
-2019-04-19 13:49:42 info: {"socketconnected":"VFstnecbWVeaqGDPAAAD"}
-2019-04-19 13:49:58 info: {"socketconnected":"TnbDUJbqiEKJWrDlAAAA"}
-2019-04-19 13:49:59 info: {"socketconnected":"KQdii45gBw1hfwJtAAAB"}
-2019-04-19 13:49:59 info: {"socketconnected":"CUzVhH1r1ios9rgWAAAC"}
-2019-04-19 13:49:59 info: {"socketconnected":"kBHZZ6d68KHQDe7FAAAD"}
-2019-04-19 13:50:02 info: {"socketconnected":"Z7axU-PQTBvvn6k5AAAE"}
-2019-04-19 13:50:16 info: {"chatUsers":[{"userinfo":{"fromUserProfileId":"140092","toUserProfileId":"140091","userId":"3f900ff9-6b13-4488-864f-4e31739d91ab"},"subscriptionId":"kBHZZ6d68KHQDe7FAAAD"}]}
-2019-04-19 13:50:39 info: {"socketconnected":"wGk4yyP1pKtPw8DBAAAA"}
-2019-04-19 13:50:39 info: {"socketconnected":"DyateTrTua24_mndAAAB"}
-2019-04-19 13:50:41 info: {"socketconnected":"90h4amPxJpyfiYnIAAAA"}
-2019-04-19 13:50:41 info: {"socketconnected":"CgDq_oYao4ET8HJdAAAB"}
-2019-04-19 13:50:43 info: {"socketconnected":"aOgqp61DyDt_FSrVAAAC"}
-2019-04-19 13:50:43 info: {"chatUsers":[{"userinfo":{"fromUserProfileId":"140091","toUserProfileId":"140092","userId":"9e815085-7ff3-4239-bcb6-a0f2b45459cc"},"subscriptionId":"aOgqp61DyDt_FSrVAAAC"}]}
-2019-04-19 13:50:43 info: {"socketconnected":"uGDpNW1iJTtWp3xnAAAD"}
-2019-04-19 13:50:52 info: {"chatUsers":[{"userinfo":{"fromUserProfileId":"140091","toUserProfileId":"140092","userId":"9e815085-7ff3-4239-bcb6-a0f2b45459cc"},"subscriptionId":"aOgqp61DyDt_FSrVAAAC"},{"userinfo":{"fromUserProfileId":"140092","toUserProfileId":"140091","userId":"3f900ff9-6b13-4488-864f-4e31739d91ab"},"subscriptionId":"uGDpNW1iJTtWp3xnAAAD"}]}
-2019-04-19 13:50:54 info: {"chatUsers":[{"userinfo":{"fromUserProfileId":"140091","toUserProfileId":"140092","userId":"9e815085-7ff3-4239-bcb6-a0f2b45459cc"},"subscriptionId":"aOgqp61DyDt_FSrVAAAC"},{"userinfo":{"fromUserProfileId":"140092","toUserProfileId":"140091","userId":"3f900ff9-6b13-4488-864f-4e31739d91ab"},"subscriptionId":"uGDpNW1iJTtWp3xnAAAD"},{"userinfo":{"fromUserProfileId":"140091","toUserProfileId":"140092","userId":"9e815085-7ff3-4239-bcb6-a0f2b45459cc"},"subscriptionId":"90h4amPxJpyfiYnIAAAA"}]}
-2019-04-19 13:50:56 info: {"chatUsers":[{"userinfo":{"fromUserProfileId":"140091","toUserProfileId":"140092","userId":"9e815085-7ff3-4239-bcb6-a0f2b45459cc"},"subscriptionId":"aOgqp61DyDt_FSrVAAAC"},{"userinfo":{"fromUserProfileId":"140092","toUserProfileId":"140091","userId":"3f900ff9-6b13-4488-864f-4e31739d91ab"},"subscriptionId":"uGDpNW1iJTtWp3xnAAAD"},{"userinfo":{"fromUserProfileId":"140091","toUserProfileId":"140092","userId":"9e815085-7ff3-4239-bcb6-a0f2b45459cc"},"subscriptionId":"90h4amPxJpyfiYnIAAAA"}]}
-2019-04-19 13:50:57 info: {"socketconnected":"UE9rJset40U1aZt-AAAE"}
-2019-04-19 13:50:57 info: {"sendmessage":{"fromUserProfileId":"140092","toUserProfileId":"140091","message":"test","userId":"3f900ff9-6b13-4488-864f-4e31739d91ab"}}
-2019-04-19 13:50:58 info: {"chatsaved":[[{"Status":1,"data":"78","Message":"Chat inserted successfully."}],[{"Id":"78","FromUserProfileId":"140092","ToUserProfileId":"140091","ChatText":"test","ParentMediaId":null,"CreatedDate":"2019-04-19T08:18:52.446Z","IsDeleted":false,"IsMessage":false,"IsNotificationSend":false,"IsMedia":false,"MediaType":"TEXT","MediaPath":null}]]}
-2019-04-19 13:51:00 info: {"sendmessage":{"fromUserProfileId":"140092","toUserProfileId":"140091","message":"test","userId":"3f900ff9-6b13-4488-864f-4e31739d91ab"}}
-2019-04-19 13:51:00 info: {"chatsaved":[[{"Status":1,"data":"79","Message":"Chat inserted successfully."}],[{"Id":"79","FromUserProfileId":"140092","ToUserProfileId":"140091","ChatText":"test","ParentMediaId":null,"CreatedDate":"2019-04-19T08:18:54.716Z","IsDeleted":false,"IsMessage":false,"IsNotificationSend":false,"IsMedia":false,"MediaType":"TEXT","MediaPath":null}]]}
-2019-04-19 13:51:02 info: {"chatUsers":[{"userinfo":{"fromUserProfileId":"140091","toUserProfileId":"140092","userId":"9e815085-7ff3-4239-bcb6-a0f2b45459cc"},"subscriptionId":"aOgqp61DyDt_FSrVAAAC"},{"userinfo":{"fromUserProfileId":"140092","toUserProfileId":"140091","userId":"3f900ff9-6b13-4488-864f-4e31739d91ab"},"subscriptionId":"uGDpNW1iJTtWp3xnAAAD"},{"userinfo":{"fromUserProfileId":"140091","toUserProfileId":"140092","userId":"9e815085-7ff3-4239-bcb6-a0f2b45459cc"},"subscriptionId":"90h4amPxJpyfiYnIAAAA"}]}
-2019-04-19 13:51:04 info: {"sendmessage":{"fromUserProfileId":"140092","toUserProfileId":"140091","message":"test","userId":"3f900ff9-6b13-4488-864f-4e31739d91ab"}}
-2019-04-19 13:51:04 info: {"chatsaved":[[{"Status":1,"data":"80","Message":"Chat inserted successfully."}],[{"Id":"80","FromUserProfileId":"140092","ToUserProfileId":"140091","ChatText":"test","ParentMediaId":null,"CreatedDate":"2019-04-19T08:18:58.690Z","IsDeleted":false,"IsMessage":false,"IsNotificationSend":false,"IsMedia":false,"MediaType":"TEXT","MediaPath":null}]]}
-2019-04-19 13:51:12 info: {"chat_users_disconnect":[{"userinfo":{"fromUserProfileId":"140091","toUserProfileId":"140092","userId":"9e815085-7ff3-4239-bcb6-a0f2b45459cc"},"subscriptionId":"aOgqp61DyDt_FSrVAAAC"},{"userinfo":{"fromUserProfileId":"140091","toUserProfileId":"140092","userId":"9e815085-7ff3-4239-bcb6-a0f2b45459cc"},"subscriptionId":"90h4amPxJpyfiYnIAAAA"}]}
-2019-04-19 13:51:18 info: {"chat_users_disconnect":[{"userinfo":{"fromUserProfileId":"140091","toUserProfileId":"140092","userId":"9e815085-7ff3-4239-bcb6-a0f2b45459cc"},"subscriptionId":"90h4amPxJpyfiYnIAAAA"}]}
-2019-04-19 13:51:19 info: {"chat_users_disconnect":[]}
+2019-04-19 13:58:49 info: {"socketconnected":"YU6I-M_iLz0JwJbiAAAA"}
+2019-04-19 13:58:53 info: {"socketconnected":"2D5Vy8uYWUOcz1wGAAAB"}
+2019-04-30 11:39:38 info: {"socketconnected":"r_-f3Zec-O_d4_m2AAAA"}
+2019-04-30 12:30:17 info: {"socketconnected":"WFco-XRqmf53irHYAAAB"}
+2019-04-30 12:47:52 info: {"socketconnected":"D94C0CaiN41f1ZQVAAAC"}
+2019-04-30 12:48:19 info: {"chatUsers":[{"userinfo":{"fromUserProfileId":"130044","toUserProfileId":140177,"userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"},"subscriptionId":"D94C0CaiN41f1ZQVAAAC"}]}
+2019-04-30 12:48:44 info: {"chatUsers":[{"userinfo":{"fromUserProfileId":"130044","toUserProfileId":140177,"userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"},"subscriptionId":"D94C0CaiN41f1ZQVAAAC"}]}
+2019-04-30 12:49:52 info: {"sendmessage":{"userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b","fromUserProfileId":"130044","toUserProfileId":140177,"message":"Hi"}}
+2019-04-30 12:49:53 info: {"messagesaved":[[{"Status":1,"data":"81","Message":"Chat inserted successfully."}],[{"Id":"81","FromUserProfileId":"130044","ToUserProfileId":"140177","ChatText":"Hi","ParentMediaId":null,"CreatedDate":"2019-04-30T07:17:01.070Z","IsDeleted":false,"IsMessage":true,"IsNotificationSend":false,"IsMedia":false,"MediaType":"TEXT","MediaPath":null}]]}
+2019-04-30 12:50:57 info: {"socketconnected":"Mqb5XKUpWao327XDAAAA"}
