@@ -163,7 +163,6 @@ io.on('connection', function(socket) {
                   }
                 }
               }
-              socket.emit('getmessage', res[1][0]);
             }
           }
         },
