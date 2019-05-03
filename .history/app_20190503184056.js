@@ -312,7 +312,6 @@ http.listen(process.env.PORT || 3100, function() {
   console.log('listening on *:3100');
 });
 
-// Live
 var config = {
   server: 'trenderalert.database.windows.net',
   database: 'trendalertappdb',
@@ -324,7 +323,6 @@ var config = {
   }
 };
 
-// Local
 // var config = {
 //   server: '172.16.1.2',
 //   database: 'trendalertappdb',
