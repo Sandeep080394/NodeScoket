@@ -312,24 +312,24 @@ http.listen(process.env.PORT || 3100, function() {
   console.log('listening on *:3100');
 });
 
-var config = {
-  server: 'trenderalert.database.windows.net',
-  database: 'trendalertappdb',
-  user: 'trenderalertadmin',
-  password: 'Newalert190',
-  port: 1433,
-  options: {
-    encrypt: true
-  }
-};
-
 // var config = {
-//   server: '172.16.1.2',
+//   server: 'trenderalert.database.windows.net',
 //   database: 'trendalertappdb',
-//   user: 'dotnet',
-//   password: '@sp@2020',
-//   port: 1433
+//   user: 'trenderalertadmin',
+//   password: 'Newalert190',
+//   port: 1433,
+//   options: {
+//     encrypt: true
+//   }
 // };
+
+var config = {
+  server: '172.16.1.2',
+  database: 'trendalertappdb',
+  user: 'dotnet',
+  password: '@sp@2020',
+  port: 1433
+};
 
 const executeStoredProc = async (purpose, params) => {
   var dbConn = new sql.Connection(config);
@@ -340,44 +340,43 @@ const executeStoredProc = async (purpose, params) => {
 
   if (purpose == 'commentsbytrends') {
     recordset = await request
-      .input('trend_id', sql.BigInt, params.trendId)
+      .input('trend_id', sql.Int, params.trendId)
       .execute('usp_getcommentsbytrends');
   } else if (purpose == 'userchat') {
     recordset = await request
-      .input('FromUserProfileId', sql.BigInt, params.FromUserProfileId)
-      .input('ToUserProfileId', sql.BigInt, params.ToUserProfileId)
+      .input('FromUserProfileId', sql.Int, params.FromUserProfileId)
+      .input('ToUserProfileId', sql.Int, params.ToUserProfileId)
       .execute('UserChatList');
   } else if (purpose == 'chatsave') {
     recordset = await request
-      .input('FromUserProfileId', sql.BigInt, params.fromUserProfileId)
-      .input('ToUserProfileId', sql.BigInt, params.toUserProfileId)
+      .input('FromUserProfileId', sql.Int, params.fromUserProfileId)
+      .input('ToUserProfileId', sql.Int, params.toUserProfileId)
       .input('UserId', sql.VarChar(200), params.userId)
-      .input('ChatText', sql.NVarChar(500), params.message)
-      .input('ParentMediaId',sql.BigInt,params.ParentMediaId)
+      .input('ChatText', sql.VarChar(500), params.message)
       .execute('SaveChat');
   } else if (purpose == 'commentreply') {
     recordset = await request
-      .input('Id', sql.BigInt, params.Id)
-      .input('UserProfileId', sql.BigInt, params.UserProfileId)
+      .input('Id', sql.Int, params.Id)
+      .input('UserProfileId', sql.Int, params.UserProfileId)
       .input('IsReply', sql.Bit, params.IsReply)
       .execute('GetCommentReply');
   } else if (purpose == 'updateuseronlinestatus') {
     recordset = await request
-      .input('UserProfileId', sql.BigInt, params.UserProfileId)
+      .input('UserProfileId', sql.Int, params.UserProfileId)
       .input('IsOnline', sql.Bit, params.IsOnline)
       .execute('SetUserOnlineStatus');
   } else if (purpose == 'messagesave') {
     recordset = await request
-      .input('FromUserProfileId', sql.BigInt, params.fromUserProfileId)
-      .input('ToUserProfileId', sql.BigInt, params.toUserProfileId)
+      .input('FromUserProfileId', sql.Int, params.fromUserProfileId)
+      .input('ToUserProfileId', sql.Int, params.toUserProfileId)
       .input('UserId', sql.VarChar(200), params.userId)
       .input('ChatText', sql.VarChar(500), params.message)
       .input('IsMessage', sql.Bit, 1)
       .execute('SaveChat');
   } else if (purpose == 'getchat') {
     recordset = await request
-      .input('FromUserProfileId', sql.BigInt, params.fromUserProfileId)
-      .input('ToUserProfileId', sql.BigInt, params.toUserProfileId)
+      .input('FromUserProfileId', sql.Int, params.fromUserProfileId)
+      .input('ToUserProfileId', sql.Int, params.toUserProfileId)
       .input('UserId', sql.VarChar(200), params.userId)
       .execute('GetChat');
   }

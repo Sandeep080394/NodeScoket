@@ -312,24 +312,24 @@ http.listen(process.env.PORT || 3100, function() {
   console.log('listening on *:3100');
 });
 
-var config = {
-  server: 'trenderalert.database.windows.net',
-  database: 'trendalertappdb',
-  user: 'trenderalertadmin',
-  password: 'Newalert190',
-  port: 1433,
-  options: {
-    encrypt: true
-  }
-};
-
 // var config = {
-//   server: '172.16.1.2',
+//   server: 'trenderalert.database.windows.net',
 //   database: 'trendalertappdb',
-//   user: 'dotnet',
-//   password: '@sp@2020',
-//   port: 1433
+//   user: 'trenderalertadmin',
+//   password: 'Newalert190',
+//   port: 1433,
+//   options: {
+//     encrypt: true
+//   }
 // };
+
+var config = {
+  server: '172.16.1.2',
+  database: 'trendalertappdb',
+  user: 'dotnet',
+  password: '@sp@2020',
+  port: 1433
+};
 
 const executeStoredProc = async (purpose, params) => {
   var dbConn = new sql.Connection(config);
@@ -352,7 +352,7 @@ const executeStoredProc = async (purpose, params) => {
       .input('FromUserProfileId', sql.BigInt, params.fromUserProfileId)
       .input('ToUserProfileId', sql.BigInt, params.toUserProfileId)
       .input('UserId', sql.VarChar(200), params.userId)
-      .input('ChatText', sql.NVarChar(500), params.message)
+      .input('ChatText', sql.VarChar(500), params.message)
       .input('ParentMediaId',sql.BigInt,params.ParentMediaId)
       .execute('SaveChat');
   } else if (purpose == 'commentreply') {
