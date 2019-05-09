@@ -66,7 +66,7 @@ var chatUsers = [];
 var trendDataArr = [];
 var globalUsers = [];
 io.on('connection', function(socket) {
-  console.log('user connected', socket);
+  // console.log('user connected', socket);
   logger.log({
     level: 'info',
     message: stringify({ socketconnected: socket.id })
@@ -108,24 +108,22 @@ io.on('connection', function(socket) {
   // --------- chat start ---------- //
   socket.on('chatinitiate', userinfo => {
     if (userinfo) {
-      chatUsers.push({ userinfo: userinfo, subscriptionId: socket.id });
+      let insertRequired = true;
+      for (let i = 0; i < chatUsers.length; i++) {
+        if (chatUsers[i].subscriptionId == socket.id) {
+          insertRequired = false;
+        }
+      }
+      if (insertRequired) {
+        chatUsers.push({ userinfo: userinfo, subscriptionId: socket.id });
+      }
+
       console.log('chatUsers', chatUsers);
 
       logger.log({
         level: 'info',
         message: stringify({ chatUsers: chatUsers })
       });
-
-      executeStoredProc('getchat', data).then(
-        res => {
-          if (res && res.length > 0) {
-            socket.emit('chatconnection', res[0]);
-          }
-        },
-        err => {
-          socket.emit('chatconnection', err);
-        }
-      );
     }
   });
 
@@ -138,7 +136,9 @@ io.on('connection', function(socket) {
     });
 
     var usersArr = getTargettedToUser(data.toUserProfileId);
+    var usersArrFrom = getTargettedFromUser(data.fromUserProfileId);
 
+    console.log('userarray', usersArr);
     if (usersArr && usersArr.length > 0) {
       // insert the data into DB, regardless of the reciepient is online or not
       executeStoredProc('chatsave', data).then(
@@ -150,18 +150,52 @@ io.on('connection', function(socket) {
             });
 
             console.log('inserted', res);
-
-            // after insertion to db send the message to recipient
-            for (let k = 0; k < usersArr.length; k++) {
-              var user = usersArr[k];
-              var toProfileSubscriptionId = user ? user.subscriptionId : null;
-              console.log('user_' + k, user);
-              console.log('toProfileSubscriptionId', toProfileSubscriptionId);
-              if (toProfileSubscriptionId) {
-                socket.broadcast
-                  .to(toProfileSubscriptionId)
-                  .emit('getmessage', data.message);
+            if (res.length > 0 && res[0].length > 0) {
+              // after insertion to db send the message to recipient
+              for (let k = 0; k < usersArr.length; k++) {
+                var user = usersArr[k];
+                var toProfileSubscriptionId = user ? user.subscriptionId : null;
+                console.log('user_' + k, user);
+                console.log('toProfileSubscriptionId', toProfileSubscriptionId);
+                if (toProfileSubscriptionId) {
+                  if (res[0][0].Status) {
+                    socket.broadcast
+                      .to(toProfileSubscriptionId)
+                      .emit('getmessage', res[1][0]);
+                  }
+                }
               }
+              
+              console.log('send to self', socket.id);
+              socket.emit('getmessage', res[1][0]);
+
+
+
+              // console.log('usersArrFrom', usersArrFrom);
+             
+              //   // after insertion to db send the message to sender itself other then current sending device
+              //   for (let k = 0; k < usersArrFrom.length; k++) {
+              //     var user = usersArrFrom[k];
+              //     var fromProfileSubscriptionId = user
+              //       ? user.subscriptionId
+              //       : null;
+              //     console.log('user_' + k, user);
+              //     console.log(
+              //       'fromProfileSubscriptionId',
+              //       fromProfileSubscriptionId
+              //     );
+              //     if (fromProfileSubscriptionId) {
+              //       if (res[0][0].Status) {
+              //         socket.broadcast
+              //           .to(fromProfileSubscriptionId)
+              //           .emit('getmessage', res[1][0]);
+              //       }
+              //     }
+              //   }
+              
+
+
+
             }
           }
         },
@@ -180,6 +214,36 @@ io.on('connection', function(socket) {
               level: 'info',
               message: stringify({ messagesaved: res })
             });
+
+
+            
+            console.log('send to self', socket.id);
+            socket.emit('getmessage', res[1][0]);
+
+            // // modify here send a basic message
+            // console.log('usersArrFrom', usersArrFrom);
+            // if (res.length > 0 && res[0].length > 0) {
+            //   // after insertion to db send the message to recipient
+            //   for (let k = 0; k < usersArrFrom.length; k++) {
+            //     var user = usersArrFrom[k];
+            //     var fromProfileSubscriptionId = user
+            //       ? user.subscriptionId
+            //       : null;
+            //     console.log('user_' + k, user);
+            //     console.log(
+            //       'fromProfileSubscriptionId',
+            //       fromProfileSubscriptionId
+            //     );
+            //     if (fromProfileSubscriptionId) {
+            //       if (res[0][0].Status) {
+            //         socket.broadcast
+            //           .to(fromProfileSubscriptionId)
+            //           .emit('getmessage', res[1][0]);
+            //       }
+            //     }
+            //   }
+            // }
+
           }
         },
         err => {
@@ -198,6 +262,14 @@ io.on('connection', function(socket) {
     });
     return chatUser;
   };
+
+  const getTargettedFromUser = UserId => {
+    var chatUser = chatUsers.filter(user => {
+      return user.userinfo && user.userinfo.fromUserProfileId == UserId;
+    });
+    return chatUser;
+  };
+
   // --------- chat end ----------
 
   // --------- comment start ----------
@@ -229,6 +301,14 @@ io.on('connection', function(socket) {
           if (res && res.length > 0 && res[0].length > 0) {
             let commentResponseObj = res[0][0];
             commentResponseObj.Replies = [];
+            commentResponseObj.CommentID = parseInt(
+              commentResponseObj.CommentID
+            );
+
+            if (commentInfo.IsReply == 1 || commentResponseObj.ReplyID) {
+              commentResponseObj.ReplyID = parseInt(commentResponseObj.ReplyID);
+            }
+
             let commentReponse = {
               commentData: commentResponseObj,
               IsReply: commentInfo.IsReply == 0 ? false : true
@@ -302,24 +382,26 @@ http.listen(process.env.PORT || 3100, function() {
   console.log('listening on *:3100');
 });
 
-// var config = {
-//   server: 'trenderalert.database.windows.net',
-//   database: 'trendalertappdb',
-//   user: 'trenderalertadmin',
-//   password: 'Newalert190',
-//   port: 1433,
-//   options: {
-//     encrypt: true
-//   }
-// };
-
+// Live
 var config = {
-  server: '172.16.1.2',
+  server: 'trenderalert.database.windows.net',
   database: 'trendalertappdb',
-  user: 'dotnet',
-  password: '@sp@2020',
-  port: 1433
+  user: 'trenderalertadmin',
+  password: 'Newalert190',
+  port: 1433,
+  options: {
+    encrypt: true
+  }
 };
+
+// // Local
+// var config = {
+//   server: '172.16.1.2',
+//   database: 'trendalertappdb',
+//   user: 'dotnet',
+//   password: '@sp@2020',
+//   port: 1433
+// };
 
 const executeStoredProc = async (purpose, params) => {
   var dbConn = new sql.Connection(config);
@@ -330,42 +412,44 @@ const executeStoredProc = async (purpose, params) => {
 
   if (purpose == 'commentsbytrends') {
     recordset = await request
-      .input('trend_id', sql.Int, params.trendId)
+      .input('trend_id', sql.BigInt, params.trendId)
       .execute('usp_getcommentsbytrends');
   } else if (purpose == 'userchat') {
     recordset = await request
-      .input('FromUserProfileId', sql.Int, params.FromUserProfileId)
-      .input('ToUserProfileId', sql.Int, params.ToUserProfileId)
+      .input('FromUserProfileId', sql.BigInt, params.FromUserProfileId)
+      .input('ToUserProfileId', sql.BigInt, params.ToUserProfileId)
       .execute('UserChatList');
   } else if (purpose == 'chatsave') {
     recordset = await request
-      .input('FromUserProfileId', sql.Int, params.fromUserProfileId)
-      .input('ToUserProfileId', sql.Int, params.toUserProfileId)
+      .input('FromUserProfileId', sql.BigInt, params.fromUserProfileId)
+      .input('ToUserProfileId', sql.BigInt, params.toUserProfileId)
       .input('UserId', sql.VarChar(200), params.userId)
-      .input('ChatText', sql.VarChar(500), params.message)
+      .input('ChatText', sql.NVarChar(500), params.message)
+      .input('ParentMediaId', sql.BigInt, params.ParentMediaId)
       .execute('SaveChat');
   } else if (purpose == 'commentreply') {
     recordset = await request
-      .input('Id', sql.Int, params.Id)
-      .input('UserProfileId', sql.Int, params.UserProfileId)
+      .input('Id', sql.BigInt, params.Id)
+      .input('UserProfileId', sql.BigInt, params.UserProfileId)
       .input('IsReply', sql.Bit, params.IsReply)
       .execute('GetCommentReply');
   } else if (purpose == 'updateuseronlinestatus') {
     recordset = await request
-      .input('UserProfileId', sql.Int, params.UserProfileId)
+      .input('UserProfileId', sql.BigInt, params.UserProfileId)
       .input('IsOnline', sql.Bit, params.IsOnline)
       .execute('SetUserOnlineStatus');
   } else if (purpose == 'messagesave') {
     recordset = await request
-      .input('FromUserProfileId', sql.Int, params.fromUserProfileId)
-      .input('ToUserProfileId', sql.Int, params.toUserProfileId)
+      .input('FromUserProfileId', sql.BigInt, params.fromUserProfileId)
+      .input('ToUserProfileId', sql.BigInt, params.toUserProfileId)
       .input('UserId', sql.VarChar(200), params.userId)
       .input('ChatText', sql.VarChar(500), params.message)
-      .execute('SaveMessage');
+      .input('IsMessage', sql.Bit, 1)
+      .execute('SaveChat');
   } else if (purpose == 'getchat') {
     recordset = await request
-      .input('FromUserProfileId', sql.Int, params.fromUserProfileId)
-      .input('ToUserProfileId', sql.Int, params.toUserProfileId)
+      .input('FromUserProfileId', sql.BigInt, params.fromUserProfileId)
+      .input('ToUserProfileId', sql.BigInt, params.toUserProfileId)
       .input('UserId', sql.VarChar(200), params.userId)
       .execute('GetChat');
   }

@@ -691,3 +691,570 @@
 2019-05-03 19:38:26 info: {"socketconnected":"_dpDiSDB7tarEcZHAAAL"}
 2019-05-03 19:43:05 info: {"socketconnected":"Ss56VcjEiT1DDNR-AAAA"}
 2019-05-03 19:43:08 info: {"socketconnected":"DIiO0_SjyzSgfvCVAAAA"}
+2019-05-03 19:58:27 info: {"socketconnected":"oWe_dKgS-WucWZhzAAAA"}
+2019-05-03 19:58:29 info: {"socketconnected":"ZQChP1xKFqCgizKOAAAB"}
+2019-05-03 19:58:35 info: {"socketconnected":"LlpqzMYDLxZzePNWAAAC"}
+2019-05-03 20:01:28 info: {"socketconnected":"1QpG8-iHyFOf-Ao3AAAD"}
+2019-05-03 20:01:37 info: {"chatUsers":[{"userinfo":{"fromUserProfileId":"130044","toUserProfileId":"140177","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"},"subscriptionId":"1QpG8-iHyFOf-Ao3AAAD"}]}
+2019-05-03 20:01:41 info: {"sendmessage":{"fromUserProfileId":"130044","toUserProfileId":"140177","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b","message":"Hsbx"}}
+2019-05-03 20:01:41 info: {"messagesaved":[[{"Status":1,"data":"205","Message":"Chat inserted successfully."}],[{"Id":"205","FromUserProfileId":"130044","ToUserProfileId":"140177","ChatText":"Hsbx","ParentMediaId":null,"CreatedDate":"2019-05-03T14:28:41.360Z","IsDeleted":false,"IsMessage":true,"IsNotificationSend":false,"IsMedia":false,"MediaType":"TEXT","MediaPath":null}]]}
+2019-05-03 20:01:46 info: {"chatUsers":[{"userinfo":{"fromUserProfileId":"130044","toUserProfileId":"140177","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"},"subscriptionId":"1QpG8-iHyFOf-Ao3AAAD"}]}
+2019-05-03 20:01:51 info: {"sendmessage":{"fromUserProfileId":"130044","toUserProfileId":"140177","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b","message":"Hxbxbx"}}
+2019-05-03 20:01:51 info: {"messagesaved":[[{"Status":1,"data":"206","Message":"Chat inserted successfully."}],[{"Id":"206","FromUserProfileId":"130044","ToUserProfileId":"140177","ChatText":"Hxbxbx","ParentMediaId":null,"CreatedDate":"2019-05-03T14:28:51.380Z","IsDeleted":false,"IsMessage":true,"IsNotificationSend":false,"IsMedia":false,"MediaType":"TEXT","MediaPath":null}]]}
+2019-05-03 20:01:51 info: {"sendmessage":{"fromUserProfileId":"130044","toUserProfileId":"140177","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b","message":"Hxbxbx"}}
+2019-05-03 20:01:51 info: {"messagesaved":[[{"Status":1,"data":"207","Message":"Chat inserted successfully."}],[{"Id":"207","FromUserProfileId":"130044","ToUserProfileId":"140177","ChatText":"Hxbxbx","ParentMediaId":null,"CreatedDate":"2019-05-03T14:28:51.980Z","IsDeleted":false,"IsMessage":true,"IsNotificationSend":false,"IsMedia":false,"MediaType":"TEXT","MediaPath":null}]]}
+2019-05-03 20:01:52 info: {"sendmessage":{"fromUserProfileId":"130044","toUserProfileId":"140177","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b","message":"Hxbxbx"}}
+2019-05-03 20:01:52 info: {"messagesaved":[[{"Status":1,"data":"208","Message":"Chat inserted successfully."}],[{"Id":"208","FromUserProfileId":"130044","ToUserProfileId":"140177","ChatText":"Hxbxbx","ParentMediaId":null,"CreatedDate":"2019-05-03T14:28:52.510Z","IsDeleted":false,"IsMessage":true,"IsNotificationSend":false,"IsMedia":false,"MediaType":"TEXT","MediaPath":null}]]}
+2019-05-03 20:01:52 info: {"sendmessage":{"fromUserProfileId":"130044","toUserProfileId":"140177","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b","message":"Hxbxbx"}}
+2019-05-03 20:01:52 info: {"messagesaved":[[{"Status":1,"data":"209","Message":"Chat inserted successfully."}],[{"Id":"209","FromUserProfileId":"130044","ToUserProfileId":"140177","ChatText":"Hxbxbx","ParentMediaId":null,"CreatedDate":"2019-05-03T14:28:53.033Z","IsDeleted":false,"IsMessage":true,"IsNotificationSend":false,"IsMedia":false,"MediaType":"TEXT","MediaPath":null}]]}
+2019-05-03 20:01:54 info: {"sendmessage":{"fromUserProfileId":"130044","toUserProfileId":"140177","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b","message":"Hxbxbx"}}
+2019-05-03 20:01:54 info: {"messagesaved":[[{"Status":1,"data":"210","Message":"Chat inserted successfully."}],[{"Id":"210","FromUserProfileId":"130044","ToUserProfileId":"140177","ChatText":"Hxbxbx","ParentMediaId":null,"CreatedDate":"2019-05-03T14:28:54.840Z","IsDeleted":false,"IsMessage":true,"IsNotificationSend":false,"IsMedia":false,"MediaType":"TEXT","MediaPath":null}]]}
+2019-05-03 20:02:06 info: {"sendmessage":{"fromUserProfileId":"130044","toUserProfileId":"140177","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b","message":"Hxbxbx"}}
+2019-05-03 20:02:06 info: {"messagesaved":[[{"Status":1,"data":"211","Message":"Chat inserted successfully."}],[{"Id":"211","FromUserProfileId":"130044","ToUserProfileId":"140177","ChatText":"Hxbxbx","ParentMediaId":null,"CreatedDate":"2019-05-03T14:29:06.153Z","IsDeleted":false,"IsMessage":true,"IsNotificationSend":false,"IsMedia":false,"MediaType":"TEXT","MediaPath":null}]]}
+2019-05-03 20:02:06 info: {"sendmessage":{"fromUserProfileId":"130044","toUserProfileId":"140177","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b","message":"Hxbxbx"}}
+2019-05-03 20:02:06 info: {"messagesaved":[[{"Status":1,"data":"212","Message":"Chat inserted successfully."}],[{"Id":"212","FromUserProfileId":"130044","ToUserProfileId":"140177","ChatText":"Hxbxbx","ParentMediaId":null,"CreatedDate":"2019-05-03T14:29:06.616Z","IsDeleted":false,"IsMessage":true,"IsNotificationSend":false,"IsMedia":false,"MediaType":"TEXT","MediaPath":null}]]}
+2019-05-03 20:02:06 info: {"sendmessage":{"fromUserProfileId":"130044","toUserProfileId":"140177","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b","message":"Hxbxbx"}}
+2019-05-03 20:02:06 info: {"messagesaved":[[{"Status":1,"data":"213","Message":"Chat inserted successfully."}],[{"Id":"213","FromUserProfileId":"130044","ToUserProfileId":"140177","ChatText":"Hxbxbx","ParentMediaId":null,"CreatedDate":"2019-05-03T14:29:07.040Z","IsDeleted":false,"IsMessage":true,"IsNotificationSend":false,"IsMedia":false,"MediaType":"TEXT","MediaPath":null}]]}
+2019-05-03 20:05:33 info: {"socketconnected":"vJofgPCdb9tMdGALAAAE"}
+2019-05-03 20:11:33 info: {"chat_users_disconnect":[]}
+2019-05-03 20:11:34 info: {"chatUsers":[{"userinfo":{"fromUserProfileId":"140177","toUserProfileId":"130044","userId":"633e5224-f829-40fe-9ed3-758ec58b00fc"},"subscriptionId":"vJofgPCdb9tMdGALAAAE"}]}
+2019-05-03 20:11:37 info: {"socketconnected":"rprQ2HdjUShVgTnaAAAF"}
+2019-05-03 20:12:02 info: {"sendmessage":{"fromUserProfileId":"140177","toUserProfileId":"130044","userId":"633e5224-f829-40fe-9ed3-758ec58b00fc","message":"test"}}
+2019-05-03 20:12:03 info: {"messagesaved":[[{"Status":1,"data":"214","Message":"Chat inserted successfully."}],[{"Id":"214","FromUserProfileId":"140177","ToUserProfileId":"130044","ChatText":"test","ParentMediaId":null,"CreatedDate":"2019-05-03T14:39:03.066Z","IsDeleted":false,"IsMessage":true,"IsNotificationSend":false,"IsMedia":false,"MediaType":"TEXT","MediaPath":null}]]}
+2019-05-03 20:12:04 info: {"sendmessage":{"fromUserProfileId":"140177","toUserProfileId":"130044","userId":"633e5224-f829-40fe-9ed3-758ec58b00fc","message":"test"}}
+2019-05-03 20:12:04 info: {"messagesaved":[[{"Status":1,"data":"215","Message":"Chat inserted successfully."}],[{"Id":"215","FromUserProfileId":"140177","ToUserProfileId":"130044","ChatText":"test","ParentMediaId":null,"CreatedDate":"2019-05-03T14:39:04.500Z","IsDeleted":false,"IsMessage":true,"IsNotificationSend":false,"IsMedia":false,"MediaType":"TEXT","MediaPath":null}]]}
+2019-05-03 20:12:05 info: {"sendmessage":{"fromUserProfileId":"140177","toUserProfileId":"130044","userId":"633e5224-f829-40fe-9ed3-758ec58b00fc","message":"test"}}
+2019-05-03 20:12:05 info: {"messagesaved":[[{"Status":1,"data":"216","Message":"Chat inserted successfully."}],[{"Id":"216","FromUserProfileId":"140177","ToUserProfileId":"130044","ChatText":"test","ParentMediaId":null,"CreatedDate":"2019-05-03T14:39:05.443Z","IsDeleted":false,"IsMessage":true,"IsNotificationSend":false,"IsMedia":false,"MediaType":"TEXT","MediaPath":null}]]}
+2019-05-03 20:12:06 info: {"sendmessage":{"fromUserProfileId":"140177","toUserProfileId":"130044","userId":"633e5224-f829-40fe-9ed3-758ec58b00fc","message":"test"}}
+2019-05-03 20:12:06 info: {"messagesaved":[[{"Status":1,"data":"217","Message":"Chat inserted successfully."}],[{"Id":"217","FromUserProfileId":"140177","ToUserProfileId":"130044","ChatText":"test","ParentMediaId":null,"CreatedDate":"2019-05-03T14:39:06.093Z","IsDeleted":false,"IsMessage":true,"IsNotificationSend":false,"IsMedia":false,"MediaType":"TEXT","MediaPath":null}]]}
+2019-05-03 20:12:06 info: {"sendmessage":{"fromUserProfileId":"140177","toUserProfileId":"130044","userId":"633e5224-f829-40fe-9ed3-758ec58b00fc","message":"test"}}
+2019-05-03 20:12:06 info: {"messagesaved":[[{"Status":1,"data":"218","Message":"Chat inserted successfully."}],[{"Id":"218","FromUserProfileId":"140177","ToUserProfileId":"130044","ChatText":"test","ParentMediaId":null,"CreatedDate":"2019-05-03T14:39:06.646Z","IsDeleted":false,"IsMessage":true,"IsNotificationSend":false,"IsMedia":false,"MediaType":"TEXT","MediaPath":null}]]}
+2019-05-03 20:12:06 info: {"sendmessage":{"fromUserProfileId":"140177","toUserProfileId":"130044","userId":"633e5224-f829-40fe-9ed3-758ec58b00fc","message":"test"}}
+2019-05-03 20:12:06 info: {"messagesaved":[[{"Status":1,"data":"219","Message":"Chat inserted successfully."}],[{"Id":"219","FromUserProfileId":"140177","ToUserProfileId":"130044","ChatText":"test","ParentMediaId":null,"CreatedDate":"2019-05-03T14:39:06.976Z","IsDeleted":false,"IsMessage":true,"IsNotificationSend":false,"IsMedia":false,"MediaType":"TEXT","MediaPath":null}]]}
+2019-05-03 20:12:07 info: {"sendmessage":{"fromUserProfileId":"140177","toUserProfileId":"130044","userId":"633e5224-f829-40fe-9ed3-758ec58b00fc","message":"test"}}
+2019-05-03 20:12:07 info: {"messagesaved":[[{"Status":1,"data":"220","Message":"Chat inserted successfully."}],[{"Id":"220","FromUserProfileId":"140177","ToUserProfileId":"130044","ChatText":"test","ParentMediaId":null,"CreatedDate":"2019-05-03T14:39:07.180Z","IsDeleted":false,"IsMessage":true,"IsNotificationSend":false,"IsMedia":false,"MediaType":"TEXT","MediaPath":null}]]}
+2019-05-03 20:12:07 info: {"sendmessage":{"fromUserProfileId":"140177","toUserProfileId":"130044","userId":"633e5224-f829-40fe-9ed3-758ec58b00fc","message":"test"}}
+2019-05-03 20:12:07 info: {"messagesaved":[[{"Status":1,"data":"221","Message":"Chat inserted successfully."}],[{"Id":"221","FromUserProfileId":"140177","ToUserProfileId":"130044","ChatText":"test","ParentMediaId":null,"CreatedDate":"2019-05-03T14:39:07.360Z","IsDeleted":false,"IsMessage":true,"IsNotificationSend":false,"IsMedia":false,"MediaType":"TEXT","MediaPath":null}]]}
+2019-05-03 20:12:07 info: {"sendmessage":{"fromUserProfileId":"140177","toUserProfileId":"130044","userId":"633e5224-f829-40fe-9ed3-758ec58b00fc","message":"test"}}
+2019-05-03 20:12:07 info: {"messagesaved":[[{"Status":1,"data":"222","Message":"Chat inserted successfully."}],[{"Id":"222","FromUserProfileId":"140177","ToUserProfileId":"130044","ChatText":"test","ParentMediaId":null,"CreatedDate":"2019-05-03T14:39:07.566Z","IsDeleted":false,"IsMessage":true,"IsNotificationSend":false,"IsMedia":false,"MediaType":"TEXT","MediaPath":null}]]}
+2019-05-03 20:12:08 info: {"sendmessage":{"fromUserProfileId":"140177","toUserProfileId":"130044","userId":"633e5224-f829-40fe-9ed3-758ec58b00fc","message":"test"}}
+2019-05-03 20:12:08 info: {"messagesaved":[[{"Status":1,"data":"223","Message":"Chat inserted successfully."}],[{"Id":"223","FromUserProfileId":"140177","ToUserProfileId":"130044","ChatText":"test","ParentMediaId":null,"CreatedDate":"2019-05-03T14:39:08.343Z","IsDeleted":false,"IsMessage":true,"IsNotificationSend":false,"IsMedia":false,"MediaType":"TEXT","MediaPath":null}]]}
+2019-05-03 20:12:08 info: {"sendmessage":{"fromUserProfileId":"140177","toUserProfileId":"130044","userId":"633e5224-f829-40fe-9ed3-758ec58b00fc","message":"test"}}
+2019-05-03 20:12:08 info: {"messagesaved":[[{"Status":1,"data":"224","Message":"Chat inserted successfully."}],[{"Id":"224","FromUserProfileId":"140177","ToUserProfileId":"130044","ChatText":"test","ParentMediaId":null,"CreatedDate":"2019-05-03T14:39:08.540Z","IsDeleted":false,"IsMessage":true,"IsNotificationSend":false,"IsMedia":false,"MediaType":"TEXT","MediaPath":null}]]}
+2019-05-03 20:12:10 info: {"sendmessage":{"fromUserProfileId":"140177","toUserProfileId":"130044","userId":"633e5224-f829-40fe-9ed3-758ec58b00fc","message":"test"}}
+2019-05-03 20:12:10 info: {"messagesaved":[[{"Status":1,"data":"225","Message":"Chat inserted successfully."}],[{"Id":"225","FromUserProfileId":"140177","ToUserProfileId":"130044","ChatText":"test","ParentMediaId":null,"CreatedDate":"2019-05-03T14:39:10.110Z","IsDeleted":false,"IsMessage":true,"IsNotificationSend":false,"IsMedia":false,"MediaType":"TEXT","MediaPath":null}]]}
+2019-05-03 20:12:10 info: {"sendmessage":{"fromUserProfileId":"140177","toUserProfileId":"130044","userId":"633e5224-f829-40fe-9ed3-758ec58b00fc","message":"test"}}
+2019-05-03 20:12:10 info: {"messagesaved":[[{"Status":1,"data":"226","Message":"Chat inserted successfully."}],[{"Id":"226","FromUserProfileId":"140177","ToUserProfileId":"130044","ChatText":"test","ParentMediaId":null,"CreatedDate":"2019-05-03T14:39:10.283Z","IsDeleted":false,"IsMessage":true,"IsNotificationSend":false,"IsMedia":false,"MediaType":"TEXT","MediaPath":null}]]}
+2019-05-03 20:13:44 info: {"sendmessage":{"fromUserProfileId":"140177","toUserProfileId":"130044","userId":"633e5224-f829-40fe-9ed3-758ec58b00fc","message":"test"}}
+2019-05-03 20:13:45 info: {"messagesaved":[[{"Status":1,"data":"227","Message":"Chat inserted successfully."}],[{"Id":"227","FromUserProfileId":"140177","ToUserProfileId":"130044","ChatText":"test","ParentMediaId":null,"CreatedDate":"2019-05-03T14:40:45.050Z","IsDeleted":false,"IsMessage":true,"IsNotificationSend":false,"IsMedia":false,"MediaType":"TEXT","MediaPath":null}]]}
+2019-05-03 20:14:57 info: {"sendmessage":{"fromUserProfileId":"140177","toUserProfileId":"130044","userId":"633e5224-f829-40fe-9ed3-758ec58b00fc","message":"test"}}
+2019-05-03 20:14:57 info: {"messagesaved":[[{"Status":1,"data":"228","Message":"Chat inserted successfully."}],[{"Id":"228","FromUserProfileId":"140177","ToUserProfileId":"130044","ChatText":"test","ParentMediaId":null,"CreatedDate":"2019-05-03T14:41:57.740Z","IsDeleted":false,"IsMessage":true,"IsNotificationSend":false,"IsMedia":false,"MediaType":"TEXT","MediaPath":null}]]}
+2019-05-03 20:16:42 info: {"chat_users_disconnect":[]}
+2019-05-03 20:16:44 info: {"socketconnected":"ixTEtO7OapeEFmY6AAAG"}
+2019-05-03 20:17:41 info: {"socketconnected":"0aLBNs1N4vXFYmEPAAAH"}
+2019-05-03 20:19:16 info: {"socketconnected":"KzrtXsF3if7rvCNHAAAI"}
+2019-05-03 20:22:36 info: {"socketconnected":"AHKkBLaR5Fex6582AAAJ"}
+2019-05-03 20:24:41 info: {"socketconnected":"SsP0MZCiojD9kUf4AAAK"}
+2019-05-03 20:25:07 info: {"socketconnected":"8VAlrCn-uTitSUwFAAAL"}
+2019-05-03 20:27:49 info: {"socketconnected":"v0_bCaklsrHxN-vyAAAM"}
+2019-05-03 20:28:13 info: {"socketconnected":"g8x3-QhfHjAVaniiAAAN"}
+2019-05-03 20:28:17 info: {"socketconnected":"BLJXEhpjS8i3BEpPAAAO"}
+2019-05-03 20:28:41 info: {"socketconnected":"VOv3BSMWj0xtHU5DAAAP"}
+2019-05-03 20:29:11 info: {"socketconnected":"uHPC9uvwEyYqz8qvAAAQ"}
+2019-05-03 20:31:09 info: {"socketconnected":"0doNpXb4pFZRHH0oAAAR"}
+2019-05-03 20:31:44 info: {"chatUsers":[{"userinfo":{"fromUserProfileId":"130044","toUserProfileId":"140177","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"},"subscriptionId":"0doNpXb4pFZRHH0oAAAR"}]}
+2019-05-03 20:32:09 info: {"sendmessage":{"fromUserProfileId":"130044","toUserProfileId":"140177","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b","message":"test"}}
+2019-05-03 20:32:09 info: {"messagesaved":[[{"Status":1,"data":"229","Message":"Chat inserted successfully."}],[{"Id":"229","FromUserProfileId":"130044","ToUserProfileId":"140177","ChatText":"test","ParentMediaId":null,"CreatedDate":"2019-05-03T14:59:09.786Z","IsDeleted":false,"IsMessage":true,"IsNotificationSend":false,"IsMedia":false,"MediaType":"TEXT","MediaPath":null}]]}
+2019-05-03 20:32:11 info: {"sendmessage":{"fromUserProfileId":"130044","toUserProfileId":"140177","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b","message":"test"}}
+2019-05-03 20:32:11 info: {"messagesaved":[[{"Status":1,"data":"230","Message":"Chat inserted successfully."}],[{"Id":"230","FromUserProfileId":"130044","ToUserProfileId":"140177","ChatText":"test","ParentMediaId":null,"CreatedDate":"2019-05-03T14:59:11.043Z","IsDeleted":false,"IsMessage":true,"IsNotificationSend":false,"IsMedia":false,"MediaType":"TEXT","MediaPath":null}]]}
+2019-05-03 20:32:11 info: {"sendmessage":{"fromUserProfileId":"130044","toUserProfileId":"140177","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b","message":"test"}}
+2019-05-03 20:32:11 info: {"messagesaved":[[{"Status":1,"data":"231","Message":"Chat inserted successfully."}],[{"Id":"231","FromUserProfileId":"130044","ToUserProfileId":"140177","ChatText":"test","ParentMediaId":null,"CreatedDate":"2019-05-03T14:59:11.793Z","IsDeleted":false,"IsMessage":true,"IsNotificationSend":false,"IsMedia":false,"MediaType":"TEXT","MediaPath":null}]]}
+2019-05-03 20:32:12 info: {"sendmessage":{"fromUserProfileId":"130044","toUserProfileId":"140177","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b","message":"test"}}
+2019-05-03 20:32:12 info: {"messagesaved":[[{"Status":1,"data":"232","Message":"Chat inserted successfully."}],[{"Id":"232","FromUserProfileId":"130044","ToUserProfileId":"140177","ChatText":"test","ParentMediaId":null,"CreatedDate":"2019-05-03T14:59:12.243Z","IsDeleted":false,"IsMessage":true,"IsNotificationSend":false,"IsMedia":false,"MediaType":"TEXT","MediaPath":null}]]}
+2019-05-03 20:32:12 info: {"sendmessage":{"fromUserProfileId":"130044","toUserProfileId":"140177","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b","message":"test"}}
+2019-05-03 20:32:12 info: {"messagesaved":[[{"Status":1,"data":"233","Message":"Chat inserted successfully."}],[{"Id":"233","FromUserProfileId":"130044","ToUserProfileId":"140177","ChatText":"test","ParentMediaId":null,"CreatedDate":"2019-05-03T14:59:12.540Z","IsDeleted":false,"IsMessage":true,"IsNotificationSend":false,"IsMedia":false,"MediaType":"TEXT","MediaPath":null}]]}
+2019-05-03 20:32:12 info: {"sendmessage":{"fromUserProfileId":"130044","toUserProfileId":"140177","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b","message":"test"}}
+2019-05-03 20:32:12 info: {"messagesaved":[[{"Status":1,"data":"234","Message":"Chat inserted successfully."}],[{"Id":"234","FromUserProfileId":"130044","ToUserProfileId":"140177","ChatText":"test","ParentMediaId":null,"CreatedDate":"2019-05-03T14:59:12.820Z","IsDeleted":false,"IsMessage":true,"IsNotificationSend":false,"IsMedia":false,"MediaType":"TEXT","MediaPath":null}]]}
+2019-05-03 20:32:12 info: {"sendmessage":{"fromUserProfileId":"130044","toUserProfileId":"140177","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b","message":"test"}}
+2019-05-03 20:32:13 info: {"messagesaved":[[{"Status":1,"data":"235","Message":"Chat inserted successfully."}],[{"Id":"235","FromUserProfileId":"130044","ToUserProfileId":"140177","ChatText":"test","ParentMediaId":null,"CreatedDate":"2019-05-03T14:59:13.023Z","IsDeleted":false,"IsMessage":true,"IsNotificationSend":false,"IsMedia":false,"MediaType":"TEXT","MediaPath":null}]]}
+2019-05-03 20:32:13 info: {"sendmessage":{"fromUserProfileId":"130044","toUserProfileId":"140177","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b","message":"test"}}
+2019-05-03 20:32:13 info: {"messagesaved":[[{"Status":1,"data":"236","Message":"Chat inserted successfully."}],[{"Id":"236","FromUserProfileId":"130044","ToUserProfileId":"140177","ChatText":"test","ParentMediaId":null,"CreatedDate":"2019-05-03T14:59:13.613Z","IsDeleted":false,"IsMessage":true,"IsNotificationSend":false,"IsMedia":false,"MediaType":"TEXT","MediaPath":null}]]}
+2019-05-03 20:32:13 info: {"sendmessage":{"fromUserProfileId":"130044","toUserProfileId":"140177","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b","message":"test"}}
+2019-05-03 20:32:14 info: {"messagesaved":[[{"Status":1,"data":"237","Message":"Chat inserted successfully."}],[{"Id":"237","FromUserProfileId":"130044","ToUserProfileId":"140177","ChatText":"test","ParentMediaId":null,"CreatedDate":"2019-05-03T14:59:13.986Z","IsDeleted":false,"IsMessage":true,"IsNotificationSend":false,"IsMedia":false,"MediaType":"TEXT","MediaPath":null}]]}
+2019-05-03 20:32:14 info: {"sendmessage":{"fromUserProfileId":"130044","toUserProfileId":"140177","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b","message":"test"}}
+2019-05-03 20:32:14 info: {"messagesaved":[[{"Status":1,"data":"238","Message":"Chat inserted successfully."}],[{"Id":"238","FromUserProfileId":"130044","ToUserProfileId":"140177","ChatText":"test","ParentMediaId":null,"CreatedDate":"2019-05-03T14:59:14.750Z","IsDeleted":false,"IsMessage":true,"IsNotificationSend":false,"IsMedia":false,"MediaType":"TEXT","MediaPath":null}]]}
+2019-05-03 20:32:15 info: {"sendmessage":{"fromUserProfileId":"130044","toUserProfileId":"140177","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b","message":"test"}}
+2019-05-03 20:32:15 info: {"messagesaved":[[{"Status":1,"data":"239","Message":"Chat inserted successfully."}],[{"Id":"239","FromUserProfileId":"130044","ToUserProfileId":"140177","ChatText":"test","ParentMediaId":null,"CreatedDate":"2019-05-03T14:59:15.033Z","IsDeleted":false,"IsMessage":true,"IsNotificationSend":false,"IsMedia":false,"MediaType":"TEXT","MediaPath":null}]]}
+2019-05-03 20:32:15 info: {"sendmessage":{"fromUserProfileId":"130044","toUserProfileId":"140177","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b","message":"test"}}
+2019-05-03 20:32:15 info: {"messagesaved":[[{"Status":1,"data":"240","Message":"Chat inserted successfully."}],[{"Id":"240","FromUserProfileId":"130044","ToUserProfileId":"140177","ChatText":"test","ParentMediaId":null,"CreatedDate":"2019-05-03T14:59:15.280Z","IsDeleted":false,"IsMessage":true,"IsNotificationSend":false,"IsMedia":false,"MediaType":"TEXT","MediaPath":null}]]}
+2019-05-03 20:32:15 info: {"sendmessage":{"fromUserProfileId":"130044","toUserProfileId":"140177","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b","message":"test"}}
+2019-05-03 20:32:15 info: {"messagesaved":[[{"Status":1,"data":"241","Message":"Chat inserted successfully."}],[{"Id":"241","FromUserProfileId":"130044","ToUserProfileId":"140177","ChatText":"test","ParentMediaId":null,"CreatedDate":"2019-05-03T14:59:15.566Z","IsDeleted":false,"IsMessage":true,"IsNotificationSend":false,"IsMedia":false,"MediaType":"TEXT","MediaPath":null}]]}
+2019-05-03 20:32:15 info: {"sendmessage":{"fromUserProfileId":"130044","toUserProfileId":"140177","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b","message":"test"}}
+2019-05-03 20:32:15 info: {"messagesaved":[[{"Status":1,"data":"242","Message":"Chat inserted successfully."}],[{"Id":"242","FromUserProfileId":"130044","ToUserProfileId":"140177","ChatText":"test","ParentMediaId":null,"CreatedDate":"2019-05-03T14:59:15.816Z","IsDeleted":false,"IsMessage":true,"IsNotificationSend":false,"IsMedia":false,"MediaType":"TEXT","MediaPath":null}]]}
+2019-05-03 20:32:16 info: {"sendmessage":{"fromUserProfileId":"130044","toUserProfileId":"140177","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b","message":"test"}}
+2019-05-03 20:32:16 info: {"messagesaved":[[{"Status":1,"data":"243","Message":"Chat inserted successfully."}],[{"Id":"243","FromUserProfileId":"130044","ToUserProfileId":"140177","ChatText":"test","ParentMediaId":null,"CreatedDate":"2019-05-03T14:59:16.086Z","IsDeleted":false,"IsMessage":true,"IsNotificationSend":false,"IsMedia":false,"MediaType":"TEXT","MediaPath":null}]]}
+2019-05-03 20:32:16 info: {"sendmessage":{"fromUserProfileId":"130044","toUserProfileId":"140177","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b","message":"test"}}
+2019-05-03 20:32:16 info: {"messagesaved":[[{"Status":1,"data":"244","Message":"Chat inserted successfully."}],[{"Id":"244","FromUserProfileId":"130044","ToUserProfileId":"140177","ChatText":"test","ParentMediaId":null,"CreatedDate":"2019-05-03T14:59:16.406Z","IsDeleted":false,"IsMessage":true,"IsNotificationSend":false,"IsMedia":false,"MediaType":"TEXT","MediaPath":null}]]}
+2019-05-03 20:32:18 info: {"sendmessage":{"fromUserProfileId":"130044","toUserProfileId":"140177","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b","message":"test"}}
+2019-05-03 20:32:18 info: {"messagesaved":[[{"Status":1,"data":"245","Message":"Chat inserted successfully."}],[{"Id":"245","FromUserProfileId":"130044","ToUserProfileId":"140177","ChatText":"test","ParentMediaId":null,"CreatedDate":"2019-05-03T14:59:18.593Z","IsDeleted":false,"IsMessage":true,"IsNotificationSend":false,"IsMedia":false,"MediaType":"TEXT","MediaPath":null}]]}
+2019-05-03 20:32:19 info: {"sendmessage":{"fromUserProfileId":"130044","toUserProfileId":"140177","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b","message":"test"}}
+2019-05-03 20:32:19 info: {"messagesaved":[[{"Status":1,"data":"246","Message":"Chat inserted successfully."}],[{"Id":"246","FromUserProfileId":"130044","ToUserProfileId":"140177","ChatText":"test","ParentMediaId":null,"CreatedDate":"2019-05-03T14:59:19.153Z","IsDeleted":false,"IsMessage":true,"IsNotificationSend":false,"IsMedia":false,"MediaType":"TEXT","MediaPath":null}]]}
+2019-05-03 20:32:19 info: {"sendmessage":{"fromUserProfileId":"130044","toUserProfileId":"140177","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b","message":"test"}}
+2019-05-03 20:32:19 info: {"messagesaved":[[{"Status":1,"data":"247","Message":"Chat inserted successfully."}],[{"Id":"247","FromUserProfileId":"130044","ToUserProfileId":"140177","ChatText":"test","ParentMediaId":null,"CreatedDate":"2019-05-03T14:59:19.523Z","IsDeleted":false,"IsMessage":true,"IsNotificationSend":false,"IsMedia":false,"MediaType":"TEXT","MediaPath":null}]]}
+2019-05-03 20:32:19 info: {"sendmessage":{"fromUserProfileId":"130044","toUserProfileId":"140177","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b","message":"test"}}
+2019-05-03 20:32:19 info: {"messagesaved":[[{"Status":1,"data":"248","Message":"Chat inserted successfully."}],[{"Id":"248","FromUserProfileId":"130044","ToUserProfileId":"140177","ChatText":"test","ParentMediaId":null,"CreatedDate":"2019-05-03T14:59:19.850Z","IsDeleted":false,"IsMessage":true,"IsNotificationSend":false,"IsMedia":false,"MediaType":"TEXT","MediaPath":null}]]}
+2019-05-03 20:32:44 info: {"sendmessage":{"fromUserProfileId":"130044","toUserProfileId":"140177","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b","message":"test"}}
+2019-05-03 20:32:44 info: {"messagesaved":[[{"Status":1,"data":"249","Message":"Chat inserted successfully."}],[{"Id":"249","FromUserProfileId":"130044","ToUserProfileId":"140177","ChatText":"test","ParentMediaId":null,"CreatedDate":"2019-05-03T14:59:44.426Z","IsDeleted":false,"IsMessage":true,"IsNotificationSend":false,"IsMedia":false,"MediaType":"TEXT","MediaPath":null}]]}
+2019-05-03 20:32:44 info: {"sendmessage":{"fromUserProfileId":"130044","toUserProfileId":"140177","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b","message":"test"}}
+2019-05-03 20:32:44 info: {"messagesaved":[[{"Status":1,"data":"250","Message":"Chat inserted successfully."}],[{"Id":"250","FromUserProfileId":"130044","ToUserProfileId":"140177","ChatText":"test","ParentMediaId":null,"CreatedDate":"2019-05-03T14:59:44.660Z","IsDeleted":false,"IsMessage":true,"IsNotificationSend":false,"IsMedia":false,"MediaType":"TEXT","MediaPath":null}]]}
+2019-05-03 20:32:44 info: {"sendmessage":{"fromUserProfileId":"130044","toUserProfileId":"140177","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b","message":"test"}}
+2019-05-03 20:32:44 info: {"messagesaved":[[{"Status":1,"data":"251","Message":"Chat inserted successfully."}],[{"Id":"251","FromUserProfileId":"130044","ToUserProfileId":"140177","ChatText":"test","ParentMediaId":null,"CreatedDate":"2019-05-03T14:59:44.930Z","IsDeleted":false,"IsMessage":true,"IsNotificationSend":false,"IsMedia":false,"MediaType":"TEXT","MediaPath":null}]]}
+2019-05-03 20:32:45 info: {"sendmessage":{"fromUserProfileId":"130044","toUserProfileId":"140177","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b","message":"test"}}
+2019-05-03 20:32:45 info: {"messagesaved":[[{"Status":1,"data":"252","Message":"Chat inserted successfully."}],[{"Id":"252","FromUserProfileId":"130044","ToUserProfileId":"140177","ChatText":"test","ParentMediaId":null,"CreatedDate":"2019-05-03T14:59:45.693Z","IsDeleted":false,"IsMessage":true,"IsNotificationSend":false,"IsMedia":false,"MediaType":"TEXT","MediaPath":null}]]}
+2019-05-03 20:32:52 info: {"chatUsers":[{"userinfo":{"fromUserProfileId":"130044","toUserProfileId":"140177","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"},"subscriptionId":"0doNpXb4pFZRHH0oAAAR"}]}
+2019-05-03 20:33:11 info: {"chatUsers":[{"userinfo":{"fromUserProfileId":"130044","toUserProfileId":"140177","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"},"subscriptionId":"0doNpXb4pFZRHH0oAAAR"}]}
+2019-05-03 20:33:14 info: {"chat_users_disconnect":[]}
+2019-05-03 20:33:15 info: {"socketconnected":"urQwSXDFfvIW4-btAAAS"}
+2019-05-03 20:33:23 info: {"chatUsers":[{"userinfo":{"fromUserProfileId":"130044","toUserProfileId":"140177","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"},"subscriptionId":"urQwSXDFfvIW4-btAAAS"}]}
+2019-05-03 20:33:27 info: {"chat_users_disconnect":[]}
+2019-05-03 20:33:48 info: {"socketconnected":"-ZvpLiRbdWPqbJNiAAAT"}
+2019-05-03 20:34:01 info: {"socketconnected":"AlCeBR9peKgZW-auAAAU"}
+2019-05-03 20:34:06 info: {"chatUsers":[{"userinfo":{"fromUserProfileId":"140177","toUserProfileId":"130044","userId":"633e5224-f829-40fe-9ed3-758ec58b00fc"},"subscriptionId":"SsP0MZCiojD9kUf4AAAK"}]}
+2019-05-03 20:34:08 info: {"chatUsers":[{"userinfo":{"fromUserProfileId":"140177","toUserProfileId":"130044","userId":"633e5224-f829-40fe-9ed3-758ec58b00fc"},"subscriptionId":"SsP0MZCiojD9kUf4AAAK"},{"userinfo":{"fromUserProfileId":"130044","toUserProfileId":"140177","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"},"subscriptionId":"-ZvpLiRbdWPqbJNiAAAT"}]}
+2019-05-03 20:34:13 info: {"sendmessage":{"fromUserProfileId":"130044","toUserProfileId":"140177","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b","message":"abc huyt"}}
+2019-05-03 20:34:13 info: {"chatsaved":[[{"Status":1,"data":"253","Message":"Chat inserted successfully."}],[{"Id":"253","FromUserProfileId":"130044","ToUserProfileId":"140177","ChatText":"abc huyt","ParentMediaId":null,"CreatedDate":"2019-05-03T15:01:13.903Z","IsDeleted":false,"IsMessage":false,"IsNotificationSend":false,"IsMedia":false,"MediaType":"TEXT","MediaPath":null}]]}
+2019-05-03 20:34:34 info: {"sendmessage":{"fromUserProfileId":"130044","toUserProfileId":"140177","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b","message":"wer"}}
+2019-05-03 20:34:34 info: {"chatsaved":[[{"Status":1,"data":"254","Message":"Chat inserted successfully."}],[{"Id":"254","FromUserProfileId":"130044","ToUserProfileId":"140177","ChatText":"wer","ParentMediaId":null,"CreatedDate":"2019-05-03T15:01:34.286Z","IsDeleted":false,"IsMessage":false,"IsNotificationSend":false,"IsMedia":false,"MediaType":"TEXT","MediaPath":null}]]}
+2019-05-03 20:35:04 info: {"chatUsers":[{"userinfo":{"fromUserProfileId":"140177","toUserProfileId":"130044","userId":"633e5224-f829-40fe-9ed3-758ec58b00fc"},"subscriptionId":"SsP0MZCiojD9kUf4AAAK"},{"userinfo":{"fromUserProfileId":"130044","toUserProfileId":"140177","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"},"subscriptionId":"-ZvpLiRbdWPqbJNiAAAT"}]}
+2019-05-03 20:35:27 info: {"sendmessage":{"fromUserProfileId":"140177","toUserProfileId":"130044","userId":"633e5224-f829-40fe-9ed3-758ec58b00fc","message":"hello"}}
+2019-05-03 20:35:27 info: {"chatsaved":[[{"Status":1,"data":"255","Message":"Chat inserted successfully."}],[{"Id":"255","FromUserProfileId":"140177","ToUserProfileId":"130044","ChatText":"hello","ParentMediaId":null,"CreatedDate":"2019-05-03T15:02:27.803Z","IsDeleted":false,"IsMessage":false,"IsNotificationSend":false,"IsMedia":false,"MediaType":"TEXT","MediaPath":null}]]}
+2019-05-03 20:35:36 info: {"sendmessage":{"fromUserProfileId":"140177","toUserProfileId":"130044","userId":"633e5224-f829-40fe-9ed3-758ec58b00fc","message":"test"}}
+2019-05-03 20:35:36 info: {"chatsaved":[[{"Status":1,"data":"256","Message":"Chat inserted successfully."}],[{"Id":"256","FromUserProfileId":"140177","ToUserProfileId":"130044","ChatText":"test","ParentMediaId":null,"CreatedDate":"2019-05-03T15:02:36.910Z","IsDeleted":false,"IsMessage":false,"IsNotificationSend":false,"IsMedia":false,"MediaType":"TEXT","MediaPath":null}]]}
+2019-05-03 20:36:48 info: {"chat_users_disconnect":[{"userinfo":{"fromUserProfileId":"140177","toUserProfileId":"130044","userId":"633e5224-f829-40fe-9ed3-758ec58b00fc"},"subscriptionId":"SsP0MZCiojD9kUf4AAAK"}]}
+2019-05-03 20:36:56 info: {"chat_users_disconnect":[]}
+2019-05-03 20:37:25 info: {"socketconnected":"MbZcfCnleOYpbuhQAAAV"}
+2019-05-03 20:38:49 info: {"socketconnected":"Nj5n6P0lZZdhL3NOAAAW"}
+2019-05-03 20:45:17 info: {"socketconnected":"BZ31o-j0iqiO6ctgAAAX"}
+2019-05-03 20:53:19 info: {"socketconnected":"1z4XC1WcWT4HqCJYAAAA"}
+2019-05-03 20:53:36 info: {"socketconnected":"R85Gn7T3075E81YNAAAB"}
+2019-05-06 21:17:29 info: {"socketconnected":"7alwrRawFoGsk94IAAAA"}
+2019-05-06 21:19:35 info: {"socketconnected":"vxGaHpAysJEnnA95AAAA"}
+2019-05-07 03:09:03 info: {"socketconnected":"HH_GmSvv_WxrZWzCAAAB"}
+2019-05-07 03:34:47 info: {"socketconnected":"BAz98ny43yO9qck7AAAC"}
+2019-05-07 03:53:46 info: {"socketconnected":"bZvDgGPt00ncNJr8AAAD"}
+2019-05-07 07:09:43 info: {"socketconnected":"Hvpses-Ht6gyNLwjAAAE"}
+2019-05-07 07:10:23 info: {"socketconnected":"Beji4d17HVv9DRjPAAAF"}
+2019-05-07 10:49:16 info: {"socketconnected":"h-Bk_D4Li5FuakD2AAAG"}
+2019-05-07 10:50:03 info: {"chatUsers":[{"userinfo":{"fromUserProfileId":"130044","toUserProfileId":140177,"userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"},"subscriptionId":"h-Bk_D4Li5FuakD2AAAG"}]}
+2019-05-07 10:55:43 info: {"chat_users_disconnect":[]}
+2019-05-07 10:57:24 info: {"socketconnected":"ldos6-EmTaQWk_bdAAAH"}
+2019-05-07 11:22:40 info: {"socketconnected":"Yeh9_JY9LYsqxiEHAAAI"}
+2019-05-07 11:23:13 info: {"chatUsers":[{"userinfo":{"toUserProfileId":140177,"fromUserProfileId":"130044","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"},"subscriptionId":"Yeh9_JY9LYsqxiEHAAAI"}]}
+2019-05-07 11:33:13 info: {"chat_users_disconnect":[]}
+2019-05-07 11:38:49 info: {"socketconnected":"lboAabwiXJenBzmeAAAJ"}
+2019-05-07 11:40:05 info: {"chatUsers":[{"userinfo":{"fromUserProfileId":"130044","toUserProfileId":140177,"userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"},"subscriptionId":"lboAabwiXJenBzmeAAAJ"}]}
+2019-05-07 11:41:38 info: {"sendmessage":{"userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b","toUserProfileId":140177,"fromUserProfileId":"130044","message":"18"}}
+2019-05-07 11:41:39 info: {"messagesaved":[[{"Status":1,"data":"257","Message":"Chat inserted successfully."}],[{"Id":"257","FromUserProfileId":"130044","ToUserProfileId":"140177","ChatText":"18","ParentMediaId":null,"CreatedDate":"2019-05-07T06:08:33.890Z","IsDeleted":false,"IsMessage":true,"IsNotificationSend":false,"IsMedia":false,"MediaType":"TEXT","MediaPath":null}]]}
+2019-05-07 11:42:13 info: {"chatUsers":[{"userinfo":{"fromUserProfileId":"130044","toUserProfileId":140177,"userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"},"subscriptionId":"lboAabwiXJenBzmeAAAJ"}]}
+2019-05-07 11:42:42 info: {"chat_users_disconnect":[]}
+2019-05-07 11:43:27 info: {"socketconnected":"qebEyUNxgta-vpa_AAAK"}
+2019-05-07 11:44:05 info: {"chatUsers":[{"userinfo":{"fromUserProfileId":"130044","toUserProfileId":140177,"userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"},"subscriptionId":"qebEyUNxgta-vpa_AAAK"}]}
+2019-05-07 11:44:41 info: {"sendmessage":{"message":"19","toUserProfileId":140177,"fromUserProfileId":"130044","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"}}
+2019-05-07 11:44:41 info: {"messagesaved":[[{"Status":1,"data":"258","Message":"Chat inserted successfully."}],[{"Id":"258","FromUserProfileId":"130044","ToUserProfileId":"140177","ChatText":"19","ParentMediaId":null,"CreatedDate":"2019-05-07T06:11:36.193Z","IsDeleted":false,"IsMessage":true,"IsNotificationSend":false,"IsMedia":false,"MediaType":"TEXT","MediaPath":null}]]}
+2019-05-07 12:13:44 info: {"chat_users_disconnect":[]}
+2019-05-07 12:14:56 info: {"socketconnected":"Ds5VnZQWDlvn5D78AAAL"}
+2019-05-07 12:15:21 info: {"chatUsers":[{"userinfo":{"toUserProfileId":140177,"fromUserProfileId":"130044","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"},"subscriptionId":"Ds5VnZQWDlvn5D78AAAL"}]}
+2019-05-07 12:16:10 info: {"sendmessage":{"userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b","toUserProfileId":140177,"fromUserProfileId":"130044","ParentMediaId":"20"}}
+2019-05-07 12:16:10 info: {"messagesaved":[[{"Status":1,"data":"259","Message":"Chat inserted successfully."}],[{"Id":"259","FromUserProfileId":"130044","ToUserProfileId":"140177","ChatText":null,"ParentMediaId":null,"CreatedDate":"2019-05-07T06:43:04.720Z","IsDeleted":false,"IsMessage":true,"IsNotificationSend":false,"IsMedia":false,"MediaType":"TEXT","MediaPath":null}]]}
+2019-05-07 12:16:22 info: {"chatUsers":[{"userinfo":{"toUserProfileId":140177,"fromUserProfileId":"130044","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"},"subscriptionId":"Ds5VnZQWDlvn5D78AAAL"}]}
+2019-05-07 12:16:52 info: {"chat_users_disconnect":[]}
+2019-05-07 12:32:16 info: {"socketconnected":"vWOZPeSXAcS2Cbo9AAAM"}
+2019-05-07 12:33:04 info: {"chatUsers":[{"userinfo":{"userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b","toUserProfileId":140177,"fromUserProfileId":"130044"},"subscriptionId":"vWOZPeSXAcS2Cbo9AAAM"}]}
+2019-05-07 12:38:38 info: {"chat_users_disconnect":[]}
+2019-05-07 12:39:47 info: {"socketconnected":"D-njeudHmz-NW8gHAAAN"}
+2019-05-07 12:46:36 info: {"chatUsers":[{"userinfo":{"userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b","fromUserProfileId":"130044","toUserProfileId":140177},"subscriptionId":"D-njeudHmz-NW8gHAAAN"}]}
+2019-05-07 12:47:06 info: {"chat_users_disconnect":[]}
+2019-05-07 12:49:04 info: {"socketconnected":"50gzQ2p_9qMsDBBEAAAO"}
+2019-05-07 12:50:12 info: {"chatUsers":[{"userinfo":{"fromUserProfileId":"130044","toUserProfileId":140177,"userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"},"subscriptionId":"50gzQ2p_9qMsDBBEAAAO"}]}
+2019-05-07 12:56:23 info: {"chat_users_disconnect":[]}
+2019-05-07 12:57:28 info: {"socketconnected":"rsUkd7MGzVwpThzvAAAP"}
+2019-05-07 12:57:54 info: {"chatUsers":[{"userinfo":{"fromUserProfileId":"130044","toUserProfileId":140177,"userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"},"subscriptionId":"rsUkd7MGzVwpThzvAAAP"}]}
+2019-05-07 12:59:15 info: {"chat_users_disconnect":[]}
+2019-05-07 13:00:00 info: {"socketconnected":"4MmYf1_8eZAwP_lJAAAQ"}
+2019-05-07 13:00:28 info: {"chatUsers":[{"userinfo":{"fromUserProfileId":"130044","toUserProfileId":140177,"userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"},"subscriptionId":"4MmYf1_8eZAwP_lJAAAQ"}]}
+2019-05-07 13:02:39 info: {"chat_users_disconnect":[]}
+2019-05-07 13:03:13 info: {"socketconnected":"_7kYV28OKrrzx4CxAAAR"}
+2019-05-07 13:05:12 info: {"socketconnected":"_5VfTrQfXq-ejk8VAAAS"}
+2019-05-07 15:07:05 info: {"socketconnected":"Jz4qsZLjd-wL8-i3AAAT"}
+2019-05-07 15:08:05 info: {"chatUsers":[{"userinfo":{"userId":"633e5224-f829-40fe-9ed3-758ec58b00fc","toUserProfileId":130044,"fromUserProfileId":"140177"},"subscriptionId":"Jz4qsZLjd-wL8-i3AAAT"}]}
+2019-05-07 15:09:11 info: {"socketconnected":"TvQh9m1rZda3Uar2AAAU"}
+2019-05-07 15:09:38 info: {"chatUsers":[{"userinfo":{"userId":"633e5224-f829-40fe-9ed3-758ec58b00fc","toUserProfileId":130044,"fromUserProfileId":"140177"},"subscriptionId":"Jz4qsZLjd-wL8-i3AAAT"},{"userinfo":{"fromUserProfileId":"130044","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b","toUserProfileId":140177},"subscriptionId":"TvQh9m1rZda3Uar2AAAU"}]}
+2019-05-07 15:10:11 info: {"sendmessage":{"toUserProfileId":140177,"fromUserProfileId":"130044","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b","message":"Hi"}}
+2019-05-07 15:10:12 info: {"chatsaved":[[{"Status":1,"data":"265","Message":"Chat inserted successfully."}],[{"Id":"265","FromUserProfileId":"130044","ToUserProfileId":"140177","ChatText":"Hi","ParentMediaId":null,"CreatedDate":"2019-05-07T09:37:09.133Z","IsDeleted":false,"IsMessage":false,"IsNotificationSend":false,"IsMedia":false,"MediaType":"TEXT","MediaPath":null}]]}
+2019-05-07 15:10:23 info: {"sendmessage":{"userId":"633e5224-f829-40fe-9ed3-758ec58b00fc","fromUserProfileId":"140177","message":"Hello","toUserProfileId":130044}}
+2019-05-07 15:10:23 info: {"chatsaved":[[{"Status":1,"data":"266","Message":"Chat inserted successfully."}],[{"Id":"266","FromUserProfileId":"140177","ToUserProfileId":"130044","ChatText":"Hello","ParentMediaId":null,"CreatedDate":"2019-05-07T09:37:20.393Z","IsDeleted":false,"IsMessage":false,"IsNotificationSend":false,"IsMedia":false,"MediaType":"TEXT","MediaPath":null}]]}
+2019-05-07 15:11:01 info: {"sendmessage":{"fromUserProfileId":"130044","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b","ParentMediaId":"21","toUserProfileId":140177}}
+2019-05-07 15:11:01 info: {"chatsaved":[[{"Status":1,"data":"267","Message":"Chat inserted successfully."}],[{"Id":"267","FromUserProfileId":"130044","ToUserProfileId":"140177","ChatText":null,"ParentMediaId":"21","CreatedDate":"2019-05-07T09:37:57.990Z","IsDeleted":false,"IsMessage":false,"IsNotificationSend":false,"IsMedia":true,"MediaType":"IMAGE","MediaPath":"https://trend-video.azureedge.net/chat/image/from_130044/to_140177/21/d9658b5b-3496-4c4e-84ab-ea8b397cebff.jpg"}]]}
+2019-05-07 15:11:31 info: {"chat_users_disconnect":[{"userinfo":{"fromUserProfileId":"130044","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b","toUserProfileId":140177},"subscriptionId":"TvQh9m1rZda3Uar2AAAU"}]}
+2019-05-07 15:19:57 info: {"socketconnected":"D_kQdfVy1Qk8ywOlAAAV"}
+2019-05-07 15:20:05 info: {"chatUsers":[{"userinfo":{"fromUserProfileId":"130044","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b","toUserProfileId":140177},"subscriptionId":"TvQh9m1rZda3Uar2AAAU"},{"userinfo":{"fromUserProfileId":"140177","toUserProfileId":130044,"userId":"633e5224-f829-40fe-9ed3-758ec58b00fc"},"subscriptionId":"D_kQdfVy1Qk8ywOlAAAV"}]}
+2019-05-07 15:20:12 info: {"chatUsers":[{"userinfo":{"fromUserProfileId":"130044","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b","toUserProfileId":140177},"subscriptionId":"TvQh9m1rZda3Uar2AAAU"},{"userinfo":{"fromUserProfileId":"140177","toUserProfileId":130044,"userId":"633e5224-f829-40fe-9ed3-758ec58b00fc"},"subscriptionId":"D_kQdfVy1Qk8ywOlAAAV"}]}
+2019-05-07 15:23:22 info: {"sendmessage":{"toUserProfileId":140177,"fromUserProfileId":"130044","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b","message":"Yes"}}
+2019-05-07 15:23:22 info: {"chatsaved":[[{"Status":1,"data":"268","Message":"Chat inserted successfully."}],[{"Id":"268","FromUserProfileId":"130044","ToUserProfileId":"140177","ChatText":"Yes","ParentMediaId":null,"CreatedDate":"2019-05-07T09:50:19.620Z","IsDeleted":false,"IsMessage":false,"IsNotificationSend":false,"IsMedia":false,"MediaType":"TEXT","MediaPath":null}]]}
+2019-05-07 15:23:42 info: {"sendmessage":{"toUserProfileId":140177,"fromUserProfileId":"130044","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b","message":"Hi"}}
+2019-05-07 15:23:42 info: {"chatsaved":[[{"Status":1,"data":"269","Message":"Chat inserted successfully."}],[{"Id":"269","FromUserProfileId":"130044","ToUserProfileId":"140177","ChatText":"Hi","ParentMediaId":null,"CreatedDate":"2019-05-07T09:50:39.380Z","IsDeleted":false,"IsMessage":false,"IsNotificationSend":false,"IsMedia":false,"MediaType":"TEXT","MediaPath":null}]]}
+2019-05-07 15:23:53 info: {"sendmessage":{"toUserProfileId":130044,"userId":"633e5224-f829-40fe-9ed3-758ec58b00fc","fromUserProfileId":"140177","message":"Hey"}}
+2019-05-07 15:23:53 info: {"chatsaved":[[{"Status":1,"data":"270","Message":"Chat inserted successfully."}],[{"Id":"270","FromUserProfileId":"140177","ToUserProfileId":"130044","ChatText":"Hey","ParentMediaId":null,"CreatedDate":"2019-05-07T09:50:50.710Z","IsDeleted":false,"IsMessage":false,"IsNotificationSend":false,"IsMedia":false,"MediaType":"TEXT","MediaPath":null}]]}
+2019-05-07 15:24:27 info: {"sendmessage":{"fromUserProfileId":"130044","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b","ParentMediaId":"22","toUserProfileId":140177}}
+2019-05-07 15:24:27 info: {"chatsaved":[[{"Status":1,"data":"271","Message":"Chat inserted successfully."}],[{"Id":"271","FromUserProfileId":"130044","ToUserProfileId":"140177","ChatText":null,"ParentMediaId":"22","CreatedDate":"2019-05-07T09:51:23.876Z","IsDeleted":false,"IsMessage":false,"IsNotificationSend":false,"IsMedia":true,"MediaType":"IMAGE","MediaPath":"https://trend-video.azureedge.net/chat/image/from_130044/to_140177/22/f3ccb45b-1927-47a4-b948-8b29fbeebda2.jpg"}]]}
+2019-05-07 15:25:10 info: {"chatUsers":[{"userinfo":{"fromUserProfileId":"130044","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b","toUserProfileId":140177},"subscriptionId":"TvQh9m1rZda3Uar2AAAU"},{"userinfo":{"fromUserProfileId":"140177","toUserProfileId":130044,"userId":"633e5224-f829-40fe-9ed3-758ec58b00fc"},"subscriptionId":"D_kQdfVy1Qk8ywOlAAAV"}]}
+2019-05-07 15:26:05 info: {"chatUsers":[{"userinfo":{"fromUserProfileId":"130044","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b","toUserProfileId":140177},"subscriptionId":"TvQh9m1rZda3Uar2AAAU"},{"userinfo":{"fromUserProfileId":"140177","toUserProfileId":130044,"userId":"633e5224-f829-40fe-9ed3-758ec58b00fc"},"subscriptionId":"D_kQdfVy1Qk8ywOlAAAV"}]}
+2019-05-07 15:28:05 info: {"socketconnected":"DgMz6UtRMz_k1up5AAAA"}
+2019-05-07 15:28:06 info: {"socketconnected":"8b_uCAriE3QsWzISAAAB"}
+2019-05-07 15:28:09 info: {"chatUsers":[{"userinfo":{"fromUserProfileId":"140177","toUserProfileId":130044,"userId":"633e5224-f829-40fe-9ed3-758ec58b00fc"},"subscriptionId":"8b_uCAriE3QsWzISAAAB"}]}
+2019-05-07 15:28:20 info: {"chat_users_disconnect":[]}
+2019-05-07 15:29:01 info: {"socketconnected":"0vtQ1lVSWf-YNArdAAAC"}
+2019-05-07 15:29:44 info: {"chatUsers":[{"userinfo":{"fromUserProfileId":"140177","toUserProfileId":130044,"userId":"633e5224-f829-40fe-9ed3-758ec58b00fc"},"subscriptionId":"0vtQ1lVSWf-YNArdAAAC"}]}
+2019-05-07 15:29:48 info: {"chatUsers":[{"userinfo":{"fromUserProfileId":"140177","toUserProfileId":130044,"userId":"633e5224-f829-40fe-9ed3-758ec58b00fc"},"subscriptionId":"0vtQ1lVSWf-YNArdAAAC"},{"userinfo":{"fromUserProfileId":"130044","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b","toUserProfileId":140177},"subscriptionId":"DgMz6UtRMz_k1up5AAAA"}]}
+2019-05-07 15:29:53 info: {"sendmessage":{"toUserProfileId":140177,"fromUserProfileId":"130044","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b","message":"Test"}}
+2019-05-07 15:29:54 info: {"chatsaved":[[{"Status":1,"data":"272","Message":"Chat inserted successfully."}],[{"Id":"272","FromUserProfileId":"130044","ToUserProfileId":"140177","ChatText":"Test","ParentMediaId":null,"CreatedDate":"2019-05-07T09:56:51.113Z","IsDeleted":false,"IsMessage":false,"IsNotificationSend":false,"IsMedia":false,"MediaType":"TEXT","MediaPath":null}]]}
+2019-05-07 15:31:11 info: {"sendmessage":{"fromUserProfileId":"130044","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b","ParentMediaId":"24","toUserProfileId":140177}}
+2019-05-07 15:31:11 info: {"chatsaved":[[{"Status":1,"data":"273","Message":"Chat inserted successfully."}],[{"Id":"273","FromUserProfileId":"130044","ToUserProfileId":"140177","ChatText":null,"ParentMediaId":"24","CreatedDate":"2019-05-07T09:58:08.436Z","IsDeleted":false,"IsMessage":false,"IsNotificationSend":false,"IsMedia":true,"MediaType":"IMAGE","MediaPath":"https://trend-video.azureedge.net/chat/image/from_130044/to_140177/24/8b9204eb-23bd-43ec-8292-faea60151281.jpg"}]]}
+2019-05-07 15:31:33 info: {"sendmessage":{"toUserProfileId":140177,"fromUserProfileId":"130044","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b","message":"Test"}}
+2019-05-07 15:31:33 info: {"chatsaved":[[{"Status":1,"data":"274","Message":"Chat inserted successfully."}],[{"Id":"274","FromUserProfileId":"130044","ToUserProfileId":"140177","ChatText":"Test","ParentMediaId":null,"CreatedDate":"2019-05-07T09:58:30.380Z","IsDeleted":false,"IsMessage":false,"IsNotificationSend":false,"IsMedia":false,"MediaType":"TEXT","MediaPath":null}]]}
+2019-05-07 15:31:37 info: {"sendmessage":{"fromUserProfileId":"140177","userId":"633e5224-f829-40fe-9ed3-758ec58b00fc","toUserProfileId":130044,"message":"Oh"}}
+2019-05-07 15:31:37 info: {"chatsaved":[[{"Status":1,"data":"275","Message":"Chat inserted successfully."}],[{"Id":"275","FromUserProfileId":"140177","ToUserProfileId":"130044","ChatText":"Oh","ParentMediaId":null,"CreatedDate":"2019-05-07T09:58:34.586Z","IsDeleted":false,"IsMessage":false,"IsNotificationSend":false,"IsMedia":false,"MediaType":"TEXT","MediaPath":null}]]}
+2019-05-07 15:31:46 info: {"sendmessage":{"fromUserProfileId":"140177","userId":"633e5224-f829-40fe-9ed3-758ec58b00fc","toUserProfileId":130044,"message":"Hey"}}
+2019-05-07 15:31:46 info: {"chatsaved":[[{"Status":1,"data":"276","Message":"Chat inserted successfully."}],[{"Id":"276","FromUserProfileId":"140177","ToUserProfileId":"130044","ChatText":"Hey","ParentMediaId":null,"CreatedDate":"2019-05-07T09:58:43.216Z","IsDeleted":false,"IsMessage":false,"IsNotificationSend":false,"IsMedia":false,"MediaType":"TEXT","MediaPath":null}]]}
+2019-05-07 15:31:54 info: {"sendmessage":{"toUserProfileId":140177,"fromUserProfileId":"130044","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b","message":"Test"}}
+2019-05-07 15:31:54 info: {"chatsaved":[[{"Status":1,"data":"277","Message":"Chat inserted successfully."}],[{"Id":"277","FromUserProfileId":"130044","ToUserProfileId":"140177","ChatText":"Test","ParentMediaId":null,"CreatedDate":"2019-05-07T09:58:50.910Z","IsDeleted":false,"IsMessage":false,"IsNotificationSend":false,"IsMedia":false,"MediaType":"TEXT","MediaPath":null}]]}
+2019-05-07 15:31:59 info: {"chat_users_disconnect":[{"userinfo":{"fromUserProfileId":"130044","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b","toUserProfileId":140177},"subscriptionId":"DgMz6UtRMz_k1up5AAAA"}]}
+2019-05-07 15:36:09 info: {"chatUsers":[{"userinfo":{"fromUserProfileId":"130044","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b","toUserProfileId":140177},"subscriptionId":"DgMz6UtRMz_k1up5AAAA"}]}
+2019-05-07 15:36:30 info: {"chat_users_disconnect":[]}
+2019-05-07 15:39:19 info: {"socketconnected":"VvbjSft1B10lKe8dAAAD"}
+2019-05-07 15:41:56 info: {"socketconnected":"SV8jorgNLDqG02iIAAAE"}
+2019-05-07 15:42:34 info: {"chatUsers":[{"userinfo":{"fromUserProfileId":"130044","toUserProfileId":140177,"userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"},"subscriptionId":"SV8jorgNLDqG02iIAAAE"}]}
+2019-05-07 15:42:37 info: {"socketconnected":"V1rDrH40CWDbkbdfAAAF"}
+2019-05-07 15:43:02 info: {"chatUsers":[{"userinfo":{"fromUserProfileId":"130044","toUserProfileId":140177,"userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"},"subscriptionId":"SV8jorgNLDqG02iIAAAE"},{"userinfo":{"userId":"633e5224-f829-40fe-9ed3-758ec58b00fc","fromUserProfileId":"140177","toUserProfileId":130044},"subscriptionId":"V1rDrH40CWDbkbdfAAAF"}]}
+2019-05-07 15:43:09 info: {"sendmessage":{"fromUserProfileId":"140177","message":"Hey","userId":"633e5224-f829-40fe-9ed3-758ec58b00fc","toUserProfileId":130044}}
+2019-05-07 15:43:09 info: {"chatsaved":[[{"Status":1,"data":"278","Message":"Chat inserted successfully."}],[{"Id":"278","FromUserProfileId":"140177","ToUserProfileId":"130044","ChatText":"Hey","ParentMediaId":null,"CreatedDate":"2019-05-07T10:10:05.783Z","IsDeleted":false,"IsMessage":false,"IsNotificationSend":false,"IsMedia":false,"MediaType":"TEXT","MediaPath":null}]]}
+2019-05-07 15:43:20 info: {"sendmessage":{"userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b","fromUserProfileId":"130044","toUserProfileId":140177,"message":"Hello"}}
+2019-05-07 15:43:20 info: {"chatsaved":[[{"Status":1,"data":"279","Message":"Chat inserted successfully."}],[{"Id":"279","FromUserProfileId":"130044","ToUserProfileId":"140177","ChatText":"Hello","ParentMediaId":null,"CreatedDate":"2019-05-07T10:10:17.440Z","IsDeleted":false,"IsMessage":false,"IsNotificationSend":false,"IsMedia":false,"MediaType":"TEXT","MediaPath":null}]]}
+2019-05-07 15:43:45 info: {"sendmessage":{"fromUserProfileId":"140177","toUserProfileId":130044,"userId":"633e5224-f829-40fe-9ed3-758ec58b00fc","ParentMediaId":"25"}}
+2019-05-07 15:43:45 info: {"chatsaved":[[{"Status":1,"data":"280","Message":"Chat inserted successfully."}],[{"Id":"280","FromUserProfileId":"140177","ToUserProfileId":"130044","ChatText":null,"ParentMediaId":"25","CreatedDate":"2019-05-07T10:10:41.786Z","IsDeleted":false,"IsMessage":false,"IsNotificationSend":false,"IsMedia":true,"MediaType":"IMAGE","MediaPath":"https://trend-video.azureedge.net/chat/image/from_140177/to_130044/25/9e8ce4f6-dd88-4c3e-aee3-006cdbe53886.jpg"}]]}
+2019-05-07 15:43:57 info: {"sendmessage":{"userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b","fromUserProfileId":"130044","toUserProfileId":140177,"message":"Test"}}
+2019-05-07 15:43:57 info: {"chatsaved":[[{"Status":1,"data":"281","Message":"Chat inserted successfully."}],[{"Id":"281","FromUserProfileId":"130044","ToUserProfileId":"140177","ChatText":"Test","ParentMediaId":null,"CreatedDate":"2019-05-07T10:10:54.476Z","IsDeleted":false,"IsMessage":false,"IsNotificationSend":false,"IsMedia":false,"MediaType":"TEXT","MediaPath":null}]]}
+2019-05-07 15:44:20 info: {"chatUsers":[{"userinfo":{"fromUserProfileId":"130044","toUserProfileId":140177,"userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"},"subscriptionId":"SV8jorgNLDqG02iIAAAE"},{"userinfo":{"userId":"633e5224-f829-40fe-9ed3-758ec58b00fc","fromUserProfileId":"140177","toUserProfileId":130044},"subscriptionId":"V1rDrH40CWDbkbdfAAAF"}]}
+2019-05-07 15:44:49 info: {"sendmessage":{"userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b","fromUserProfileId":"130044","toUserProfileId":140177,"message":"Hello"}}
+2019-05-07 15:44:49 info: {"chatsaved":[[{"Status":1,"data":"282","Message":"Chat inserted successfully."}],[{"Id":"282","FromUserProfileId":"130044","ToUserProfileId":"140177","ChatText":"Hello","ParentMediaId":null,"CreatedDate":"2019-05-07T10:11:46.306Z","IsDeleted":false,"IsMessage":false,"IsNotificationSend":false,"IsMedia":false,"MediaType":"TEXT","MediaPath":null}]]}
+2019-05-07 15:44:57 info: {"sendmessage":{"fromUserProfileId":"140177","message":"Test","userId":"633e5224-f829-40fe-9ed3-758ec58b00fc","toUserProfileId":130044}}
+2019-05-07 15:44:57 info: {"chatsaved":[[{"Status":1,"data":"283","Message":"Chat inserted successfully."}],[{"Id":"283","FromUserProfileId":"140177","ToUserProfileId":"130044","ChatText":"Test","ParentMediaId":null,"CreatedDate":"2019-05-07T10:11:54.136Z","IsDeleted":false,"IsMessage":false,"IsNotificationSend":false,"IsMedia":false,"MediaType":"TEXT","MediaPath":null}]]}
+2019-05-07 15:46:04 info: {"sendmessage":{"userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b","ParentMediaId":"26","fromUserProfileId":"130044","toUserProfileId":140177}}
+2019-05-07 15:46:04 info: {"chatsaved":[[{"Status":1,"data":"284","Message":"Chat inserted successfully."}],[{"Id":"284","FromUserProfileId":"130044","ToUserProfileId":"140177","ChatText":null,"ParentMediaId":"26","CreatedDate":"2019-05-07T10:13:00.990Z","IsDeleted":false,"IsMessage":false,"IsNotificationSend":false,"IsMedia":true,"MediaType":"IMAGE","MediaPath":"https://trend-video.azureedge.net/chat/image/from_130044/to_140177/26/adfa97bd-5294-4f26-82ed-040bbc072913.jpg"}]]}
+2019-05-07 15:48:58 info: {"sendmessage":{"userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b","fromUserProfileId":"130044","toUserProfileId":140177,"message":"Test"}}
+2019-05-07 15:48:58 info: {"chatsaved":[[{"Status":1,"data":"285","Message":"Chat inserted successfully."}],[{"Id":"285","FromUserProfileId":"130044","ToUserProfileId":"140177","ChatText":"Test","ParentMediaId":null,"CreatedDate":"2019-05-07T10:15:55.066Z","IsDeleted":false,"IsMessage":false,"IsNotificationSend":false,"IsMedia":false,"MediaType":"TEXT","MediaPath":null}]]}
+2019-05-07 15:49:31 info: {"sendmessage":{"userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b","fromUserProfileId":"130044","toUserProfileId":140177,"message":"Hello"}}
+2019-05-07 15:49:31 info: {"chatsaved":[[{"Status":1,"data":"286","Message":"Chat inserted successfully."}],[{"Id":"286","FromUserProfileId":"130044","ToUserProfileId":"140177","ChatText":"Hello","ParentMediaId":null,"CreatedDate":"2019-05-07T10:16:28.550Z","IsDeleted":false,"IsMessage":false,"IsNotificationSend":false,"IsMedia":false,"MediaType":"TEXT","MediaPath":null}]]}
+2019-05-07 15:50:01 info: {"chat_users_disconnect":[{"userinfo":{"userId":"633e5224-f829-40fe-9ed3-758ec58b00fc","fromUserProfileId":"140177","toUserProfileId":130044},"subscriptionId":"V1rDrH40CWDbkbdfAAAF"}]}
+2019-05-07 15:52:43 info: {"socketconnected":"Gad8nnVwuZwqjzBIAAAG"}
+2019-05-07 15:53:19 info: {"chatUsers":[{"userinfo":{"userId":"633e5224-f829-40fe-9ed3-758ec58b00fc","fromUserProfileId":"140177","toUserProfileId":130044},"subscriptionId":"V1rDrH40CWDbkbdfAAAF"},{"userinfo":{"toUserProfileId":140177,"userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b","fromUserProfileId":"130044"},"subscriptionId":"Gad8nnVwuZwqjzBIAAAG"}]}
+2019-05-07 15:53:23 info: {"chatUsers":[{"userinfo":{"userId":"633e5224-f829-40fe-9ed3-758ec58b00fc","fromUserProfileId":"140177","toUserProfileId":130044},"subscriptionId":"V1rDrH40CWDbkbdfAAAF"},{"userinfo":{"toUserProfileId":140177,"userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b","fromUserProfileId":"130044"},"subscriptionId":"Gad8nnVwuZwqjzBIAAAG"}]}
+2019-05-07 15:53:25 info: {"sendmessage":{"fromUserProfileId":"140177","message":"Oh","userId":"633e5224-f829-40fe-9ed3-758ec58b00fc","toUserProfileId":130044}}
+2019-05-07 15:53:26 info: {"chatsaved":[[{"Status":1,"data":"287","Message":"Chat inserted successfully."}],[{"Id":"287","FromUserProfileId":"140177","ToUserProfileId":"130044","ChatText":"Oh","ParentMediaId":null,"CreatedDate":"2019-05-07T10:20:22.710Z","IsDeleted":false,"IsMessage":false,"IsNotificationSend":false,"IsMedia":false,"MediaType":"TEXT","MediaPath":null}]]}
+2019-05-07 15:53:42 info: {"sendmessage":{"fromUserProfileId":"140177","toUserProfileId":130044,"userId":"633e5224-f829-40fe-9ed3-758ec58b00fc","ParentMediaId":"27"}}
+2019-05-07 15:53:42 info: {"chatsaved":[[{"Status":1,"data":"288","Message":"Chat inserted successfully."}],[{"Id":"288","FromUserProfileId":"140177","ToUserProfileId":"130044","ChatText":null,"ParentMediaId":"27","CreatedDate":"2019-05-07T10:20:39.180Z","IsDeleted":false,"IsMessage":false,"IsNotificationSend":false,"IsMedia":true,"MediaType":"IMAGE","MediaPath":"https://trend-video.azureedge.net/chat/image/from_140177/to_130044/27/c37fd92c-f03b-4610-a32c-1443ee2f00fd.jpg"}]]}
+2019-05-07 15:53:57 info: {"sendmessage":{"userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b","message":"Hello","fromUserProfileId":"130044","toUserProfileId":140177}}
+2019-05-07 15:53:57 info: {"chatsaved":[[{"Status":1,"data":"289","Message":"Chat inserted successfully."}],[{"Id":"289","FromUserProfileId":"130044","ToUserProfileId":"140177","ChatText":"Hello","ParentMediaId":null,"CreatedDate":"2019-05-07T10:20:53.773Z","IsDeleted":false,"IsMessage":false,"IsNotificationSend":false,"IsMedia":false,"MediaType":"TEXT","MediaPath":null}]]}
+2019-05-07 15:54:14 info: {"sendmessage":{"fromUserProfileId":"140177","message":"Oh","userId":"633e5224-f829-40fe-9ed3-758ec58b00fc","toUserProfileId":130044}}
+2019-05-07 15:54:14 info: {"chatsaved":[[{"Status":1,"data":"290","Message":"Chat inserted successfully."}],[{"Id":"290","FromUserProfileId":"140177","ToUserProfileId":"130044","ChatText":"Oh","ParentMediaId":null,"CreatedDate":"2019-05-07T10:21:10.863Z","IsDeleted":false,"IsMessage":false,"IsNotificationSend":false,"IsMedia":false,"MediaType":"TEXT","MediaPath":null}]]}
+2019-05-07 15:54:55 info: {"sendmessage":{"ParentMediaId":"28","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b","fromUserProfileId":"130044","toUserProfileId":140177}}
+2019-05-07 15:54:55 info: {"chatsaved":[[{"Status":1,"data":"291","Message":"Chat inserted successfully."}],[{"Id":"291","FromUserProfileId":"130044","ToUserProfileId":"140177","ChatText":null,"ParentMediaId":"28","CreatedDate":"2019-05-07T10:21:52.080Z","IsDeleted":false,"IsMessage":false,"IsNotificationSend":false,"IsMedia":true,"MediaType":"IMAGE","MediaPath":"https://trend-video.azureedge.net/chat/image/from_130044/to_140177/28/00a32a9b-c38c-4c66-b3bb-82bb794cc610.jpg"}]]}
+2019-05-07 15:55:02 info: {"chatUsers":[{"userinfo":{"userId":"633e5224-f829-40fe-9ed3-758ec58b00fc","fromUserProfileId":"140177","toUserProfileId":130044},"subscriptionId":"V1rDrH40CWDbkbdfAAAF"},{"userinfo":{"toUserProfileId":140177,"userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b","fromUserProfileId":"130044"},"subscriptionId":"Gad8nnVwuZwqjzBIAAAG"}]}
+2019-05-07 15:56:07 info: {"loginInfo":{"UserProfileId":"140177"}}
+2019-05-07 15:56:07 info: {"globalUsers":[{"UserProfileId":"140177","subscriptionId":"V1rDrH40CWDbkbdfAAAF"}]}
+2019-05-07 16:39:38 info: {"chatUsers":[{"userinfo":{"userId":"633e5224-f829-40fe-9ed3-758ec58b00fc","fromUserProfileId":"140177","toUserProfileId":130044},"subscriptionId":"V1rDrH40CWDbkbdfAAAF"},{"userinfo":{"toUserProfileId":140177,"userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b","fromUserProfileId":"130044"},"subscriptionId":"Gad8nnVwuZwqjzBIAAAG"}]}
+2019-05-07 16:40:13 info: {"chat_users_disconnect":[{"userinfo":{"userId":"633e5224-f829-40fe-9ed3-758ec58b00fc","fromUserProfileId":"140177","toUserProfileId":130044},"subscriptionId":"V1rDrH40CWDbkbdfAAAF"}]}
+2019-05-07 16:41:19 info: {"socketconnected":"Nz3VrFjLtmJAlGNGAAAH"}
+2019-05-07 16:49:50 info: {"chat_users_disconnect":[]}
+2019-05-07 16:49:50 info: {"globalUsers":[]}
+2019-05-07 16:50:32 info: {"socketconnected":"4KeH8in5RziSlPqrAAAI"}
+2019-05-07 16:51:51 info: {"socketconnected":"xb3uol27cqwgQWhxAAAJ"}
+2019-05-07 16:57:49 info: {"chatUsers":[{"userinfo":{"fromUserProfileId":"140177","toUserProfileId":130044,"userId":"633e5224-f829-40fe-9ed3-758ec58b00fc"},"subscriptionId":"xb3uol27cqwgQWhxAAAJ"}]}
+2019-05-07 16:58:12 info: {"socketconnected":"DctvZYEqpspSZX99AAAK"}
+2019-05-07 17:03:11 info: {"chatUsers":[{"userinfo":{"fromUserProfileId":"140177","toUserProfileId":130044,"userId":"633e5224-f829-40fe-9ed3-758ec58b00fc"},"subscriptionId":"xb3uol27cqwgQWhxAAAJ"},{"userinfo":{"toUserProfileId":140177,"fromUserProfileId":"130044","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"},"subscriptionId":"DctvZYEqpspSZX99AAAK"}]}
+2019-05-07 17:17:06 info: {"chat_users_disconnect":[{"userinfo":{"toUserProfileId":140177,"fromUserProfileId":"130044","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"},"subscriptionId":"DctvZYEqpspSZX99AAAK"}]}
+2019-05-07 17:57:08 info: {"chat_users_disconnect":[]}
+2019-05-07 17:58:47 info: {"socketconnected":"Ax8dFYmsxD7D9kl4AAAL"}
+2019-05-08 11:28:31 info: {"socketconnected":"Y9AnyAnmAl2zWMfwAAAM"}
+2019-05-08 11:30:59 info: {"chatUsers":[{"userinfo":{"fromUserProfileId":"130044","toUserProfileId":140177,"userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"},"subscriptionId":"Y9AnyAnmAl2zWMfwAAAM"}]}
+2019-05-08 11:36:08 info: {"chat_users_disconnect":[]}
+2019-05-08 11:38:27 info: {"socketconnected":"IolFfEdnXVJb9gFlAAAN"}
+2019-05-08 11:49:10 info: {"socketconnected":"3E1Wyai7onO0oU5YAAAO"}
+2019-05-08 11:52:18 info: {"chatUsers":[{"userinfo":{"toUserProfileId":130044,"userId":"633e5224-f829-40fe-9ed3-758ec58b00fc","fromUserProfileId":"140177"},"subscriptionId":"3E1Wyai7onO0oU5YAAAO"}]}
+2019-05-08 11:52:27 info: {"sendmessage":{"userId":"633e5224-f829-40fe-9ed3-758ec58b00fc","message":"Hey","toUserProfileId":130044,"fromUserProfileId":"140177"}}
+2019-05-08 11:52:27 info: {"messagesaved":[[{"Status":1,"data":"292","Message":"Chat inserted successfully."}],[{"Id":"292","FromUserProfileId":"140177","ToUserProfileId":"130044","ChatText":"Hey","ParentMediaId":null,"CreatedDate":"2019-05-08T06:19:20.646Z","IsDeleted":false,"IsMessage":true,"IsNotificationSend":false,"IsMedia":false,"MediaType":"TEXT","MediaPath":null}]]}
+2019-05-08 11:52:38 info: {"chatUsers":[{"userinfo":{"toUserProfileId":130044,"userId":"633e5224-f829-40fe-9ed3-758ec58b00fc","fromUserProfileId":"140177"},"subscriptionId":"3E1Wyai7onO0oU5YAAAO"},{"userinfo":{"fromUserProfileId":"130044","toUserProfileId":140177,"userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"},"subscriptionId":"IolFfEdnXVJb9gFlAAAN"}]}
+2019-05-08 11:53:09 info: {"sendmessage":{"toUserProfileId":140177,"message":"Hi","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b","fromUserProfileId":"130044"}}
+2019-05-08 11:53:10 info: {"chatsaved":[[{"Status":1,"data":"293","Message":"Chat inserted successfully."}],[{"Id":"293","FromUserProfileId":"130044","ToUserProfileId":"140177","ChatText":"Hi","ParentMediaId":null,"CreatedDate":"2019-05-08T06:20:03.353Z","IsDeleted":false,"IsMessage":false,"IsNotificationSend":false,"IsMedia":false,"MediaType":"TEXT","MediaPath":null}]]}
+2019-05-08 11:53:15 info: {"sendmessage":{"userId":"633e5224-f829-40fe-9ed3-758ec58b00fc","message":"Oh","toUserProfileId":130044,"fromUserProfileId":"140177"}}
+2019-05-08 11:53:15 info: {"chatsaved":[[{"Status":1,"data":"294","Message":"Chat inserted successfully."}],[{"Id":"294","FromUserProfileId":"140177","ToUserProfileId":"130044","ChatText":"Oh","ParentMediaId":null,"CreatedDate":"2019-05-08T06:20:09.073Z","IsDeleted":false,"IsMessage":false,"IsNotificationSend":false,"IsMedia":false,"MediaType":"TEXT","MediaPath":null}]]}
+2019-05-08 11:53:21 info: {"sendmessage":{"userId":"633e5224-f829-40fe-9ed3-758ec58b00fc","message":"Hi","toUserProfileId":130044,"fromUserProfileId":"140177"}}
+2019-05-08 11:53:21 info: {"chatsaved":[[{"Status":1,"data":"295","Message":"Chat inserted successfully."}],[{"Id":"295","FromUserProfileId":"140177","ToUserProfileId":"130044","ChatText":"Hi","ParentMediaId":null,"CreatedDate":"2019-05-08T06:20:15.133Z","IsDeleted":false,"IsMessage":false,"IsNotificationSend":false,"IsMedia":false,"MediaType":"TEXT","MediaPath":null}]]}
+2019-05-08 11:55:28 info: {"sendmessage":{"userId":"633e5224-f829-40fe-9ed3-758ec58b00fc","ParentMediaId":"29","toUserProfileId":130044,"fromUserProfileId":"140177"}}
+2019-05-08 11:55:28 info: {"chatsaved":[[{"Status":1,"data":"296","Message":"Chat inserted successfully."}],[{"Id":"296","FromUserProfileId":"140177","ToUserProfileId":"130044","ChatText":null,"ParentMediaId":"29","CreatedDate":"2019-05-08T06:22:22.220Z","IsDeleted":false,"IsMessage":false,"IsNotificationSend":false,"IsMedia":true,"MediaType":"IMAGE","MediaPath":"https://trend-video.azureedge.net/chat/image/from_140177/to_130044/29/7e27977f-b31b-49a3-80d5-6b3b5f5aa995.jpg"}]]}
+2019-05-08 12:03:43 info: {"chat_users_disconnect":[{"userinfo":{"fromUserProfileId":"130044","toUserProfileId":140177,"userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"},"subscriptionId":"IolFfEdnXVJb9gFlAAAN"}]}
+2019-05-08 12:05:52 info: {"socketconnected":"qa02zaQHGbAns3XWAAAP"}
+2019-05-08 12:07:21 info: {"chatUsers":[{"userinfo":{"fromUserProfileId":"130044","toUserProfileId":140177,"userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"},"subscriptionId":"IolFfEdnXVJb9gFlAAAN"},{"userinfo":{"fromUserProfileId":"140177","toUserProfileId":130044,"userId":"633e5224-f829-40fe-9ed3-758ec58b00fc"},"subscriptionId":"qa02zaQHGbAns3XWAAAP"}]}
+2019-05-08 12:08:32 info: {"chat_users_disconnect":[{"userinfo":{"fromUserProfileId":"130044","toUserProfileId":140177,"userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"},"subscriptionId":"IolFfEdnXVJb9gFlAAAN"}]}
+2019-05-08 12:10:08 info: {"socketconnected":"3Cr-NICO-o-hR-7ZAAAQ"}
+2019-05-08 12:11:15 info: {"chatUsers":[{"userinfo":{"fromUserProfileId":"130044","toUserProfileId":140177,"userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"},"subscriptionId":"IolFfEdnXVJb9gFlAAAN"},{"userinfo":{"fromUserProfileId":"140177","userId":"633e5224-f829-40fe-9ed3-758ec58b00fc","toUserProfileId":130044},"subscriptionId":"3Cr-NICO-o-hR-7ZAAAQ"}]}
+2019-05-08 12:11:58 info: {"loginInfo":{"UserProfileId":"140177"}}
+2019-05-08 12:11:58 info: {"globalUsers":[{"UserProfileId":"140177","subscriptionId":"3Cr-NICO-o-hR-7ZAAAQ"}]}
+2019-05-08 12:13:23 info: {"chat_users_disconnect":[{"userinfo":{"fromUserProfileId":"130044","toUserProfileId":140177,"userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"},"subscriptionId":"IolFfEdnXVJb9gFlAAAN"}]}
+2019-05-08 12:13:23 info: {"globalUsers":[]}
+2019-05-08 12:13:27 info: {"socketconnected":"Ru0i9d_tfowaJAJUAAAR"}
+2019-05-08 12:14:28 info: {"socketconnected":"12FgT4-TRdVEc1WVAAAS"}
+2019-05-08 12:34:05 info: {"socketconnected":"qWCKTKUhr87PfokPAAAT"}
+2019-05-08 12:37:59 info: {"chat_users_disconnect":[]}
+2019-05-08 12:39:09 info: {"socketconnected":"v_WmU8CCWEvS9gTNAAAU"}
+2019-05-08 12:39:31 info: {"chatUsers":[{"userinfo":{"fromUserProfileId":"130044","toUserProfileId":140177,"userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"},"subscriptionId":"v_WmU8CCWEvS9gTNAAAU"}]}
+2019-05-08 12:41:13 info: {"chat_users_disconnect":[]}
+2019-05-08 12:42:11 info: {"socketconnected":"BHrp9Vhl_CAMhoBrAAAV"}
+2019-05-08 12:42:38 info: {"chatUsers":[{"userinfo":{"fromUserProfileId":"130044","toUserProfileId":140177,"userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"},"subscriptionId":"BHrp9Vhl_CAMhoBrAAAV"}]}
+2019-05-08 12:44:16 info: {"chat_users_disconnect":[]}
+2019-05-08 12:44:38 info: {"socketconnected":"srmYpQWiLis56vOpAAAW"}
+2019-05-08 12:44:49 info: {"socketconnected":"tkUcSLBO9PJ3FKj_AAAX"}
+2019-05-08 12:45:04 info: {"chatUsers":[{"userinfo":{"toUserProfileId":130044,"userId":"633e5224-f829-40fe-9ed3-758ec58b00fc","fromUserProfileId":"140177"},"subscriptionId":"srmYpQWiLis56vOpAAAW"}]}
+2019-05-08 12:45:20 info: {"chatUsers":[{"userinfo":{"toUserProfileId":130044,"userId":"633e5224-f829-40fe-9ed3-758ec58b00fc","fromUserProfileId":"140177"},"subscriptionId":"srmYpQWiLis56vOpAAAW"},{"userinfo":{"userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b","toUserProfileId":140177,"fromUserProfileId":"130044"},"subscriptionId":"tkUcSLBO9PJ3FKj_AAAX"}]}
+2019-05-08 12:46:44 info: {"chat_users_disconnect":[{"userinfo":{"toUserProfileId":130044,"userId":"633e5224-f829-40fe-9ed3-758ec58b00fc","fromUserProfileId":"140177"},"subscriptionId":"srmYpQWiLis56vOpAAAW"}]}
+2019-05-08 12:47:23 info: {"socketconnected":"xxstdpCDDMVxmSICAAAY"}
+2019-05-08 12:47:53 info: {"chatUsers":[{"userinfo":{"toUserProfileId":130044,"userId":"633e5224-f829-40fe-9ed3-758ec58b00fc","fromUserProfileId":"140177"},"subscriptionId":"srmYpQWiLis56vOpAAAW"},{"userinfo":{"toUserProfileId":140177,"userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b","fromUserProfileId":"130044"},"subscriptionId":"xxstdpCDDMVxmSICAAAY"}]}
+2019-05-08 12:48:28 info: {"chat_users_disconnect":[{"userinfo":{"toUserProfileId":130044,"userId":"633e5224-f829-40fe-9ed3-758ec58b00fc","fromUserProfileId":"140177"},"subscriptionId":"srmYpQWiLis56vOpAAAW"}]}
+2019-05-08 12:48:53 info: {"socketconnected":"og8gxdGneuiWhRClAAAZ"}
+2019-05-08 12:49:19 info: {"chatUsers":[{"userinfo":{"toUserProfileId":130044,"userId":"633e5224-f829-40fe-9ed3-758ec58b00fc","fromUserProfileId":"140177"},"subscriptionId":"srmYpQWiLis56vOpAAAW"},{"userinfo":{"toUserProfileId":140177,"fromUserProfileId":"130044","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"},"subscriptionId":"og8gxdGneuiWhRClAAAZ"}]}
+2019-05-08 12:50:00 info: {"chat_users_disconnect":[{"userinfo":{"toUserProfileId":130044,"userId":"633e5224-f829-40fe-9ed3-758ec58b00fc","fromUserProfileId":"140177"},"subscriptionId":"srmYpQWiLis56vOpAAAW"}]}
+2019-05-08 12:50:22 info: {"socketconnected":"sGBjciSnq9-mba5pAAAa"}
+2019-05-08 12:50:58 info: {"chatUsers":[{"userinfo":{"toUserProfileId":130044,"userId":"633e5224-f829-40fe-9ed3-758ec58b00fc","fromUserProfileId":"140177"},"subscriptionId":"srmYpQWiLis56vOpAAAW"},{"userinfo":{"toUserProfileId":140177,"userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b","fromUserProfileId":"130044"},"subscriptionId":"sGBjciSnq9-mba5pAAAa"}]}
+2019-05-08 12:52:10 info: {"chat_users_disconnect":[{"userinfo":{"toUserProfileId":130044,"userId":"633e5224-f829-40fe-9ed3-758ec58b00fc","fromUserProfileId":"140177"},"subscriptionId":"srmYpQWiLis56vOpAAAW"}]}
+2019-05-08 12:52:53 info: {"socketconnected":"0-Q-PlBDS9nNhfcpAAAb"}
+2019-05-08 12:53:23 info: {"chatUsers":[{"userinfo":{"toUserProfileId":130044,"userId":"633e5224-f829-40fe-9ed3-758ec58b00fc","fromUserProfileId":"140177"},"subscriptionId":"srmYpQWiLis56vOpAAAW"},{"userinfo":{"toUserProfileId":140177,"fromUserProfileId":"130044","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"},"subscriptionId":"0-Q-PlBDS9nNhfcpAAAb"}]}
+2019-05-08 12:54:06 info: {"chat_users_disconnect":[{"userinfo":{"toUserProfileId":130044,"userId":"633e5224-f829-40fe-9ed3-758ec58b00fc","fromUserProfileId":"140177"},"subscriptionId":"srmYpQWiLis56vOpAAAW"}]}
+2019-05-08 12:54:31 info: {"socketconnected":"_v78x-j7VUkW3FIlAAAc"}
+2019-05-08 12:54:57 info: {"chatUsers":[{"userinfo":{"toUserProfileId":130044,"userId":"633e5224-f829-40fe-9ed3-758ec58b00fc","fromUserProfileId":"140177"},"subscriptionId":"srmYpQWiLis56vOpAAAW"},{"userinfo":{"userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b","fromUserProfileId":"130044","toUserProfileId":140177},"subscriptionId":"_v78x-j7VUkW3FIlAAAc"}]}
+2019-05-08 12:57:11 info: {"chat_users_disconnect":[{"userinfo":{"toUserProfileId":130044,"userId":"633e5224-f829-40fe-9ed3-758ec58b00fc","fromUserProfileId":"140177"},"subscriptionId":"srmYpQWiLis56vOpAAAW"}]}
+2019-05-08 12:57:39 info: {"socketconnected":"mW2CMqTTjj_cqAJlAAAd"}
+2019-05-08 12:58:04 info: {"chatUsers":[{"userinfo":{"toUserProfileId":130044,"userId":"633e5224-f829-40fe-9ed3-758ec58b00fc","fromUserProfileId":"140177"},"subscriptionId":"srmYpQWiLis56vOpAAAW"},{"userinfo":{"fromUserProfileId":"130044","toUserProfileId":140177,"userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"},"subscriptionId":"mW2CMqTTjj_cqAJlAAAd"}]}
+2019-05-08 12:59:21 info: {"chat_users_disconnect":[{"userinfo":{"toUserProfileId":130044,"userId":"633e5224-f829-40fe-9ed3-758ec58b00fc","fromUserProfileId":"140177"},"subscriptionId":"srmYpQWiLis56vOpAAAW"}]}
+2019-05-08 12:59:51 info: {"socketconnected":"hoB21hoGdyVyF5JOAAAe"}
+2019-05-08 13:00:17 info: {"chatUsers":[{"userinfo":{"toUserProfileId":130044,"userId":"633e5224-f829-40fe-9ed3-758ec58b00fc","fromUserProfileId":"140177"},"subscriptionId":"srmYpQWiLis56vOpAAAW"},{"userinfo":{"fromUserProfileId":"130044","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b","toUserProfileId":140177},"subscriptionId":"hoB21hoGdyVyF5JOAAAe"}]}
+2019-05-08 13:02:08 info: {"chat_users_disconnect":[{"userinfo":{"toUserProfileId":130044,"userId":"633e5224-f829-40fe-9ed3-758ec58b00fc","fromUserProfileId":"140177"},"subscriptionId":"srmYpQWiLis56vOpAAAW"}]}
+2019-05-08 13:03:09 info: {"socketconnected":"OQFYh57alLJtNV1iAAAf"}
+2019-05-08 13:03:17 info: {"chatUsers":[{"userinfo":{"toUserProfileId":130044,"userId":"633e5224-f829-40fe-9ed3-758ec58b00fc","fromUserProfileId":"140177"},"subscriptionId":"srmYpQWiLis56vOpAAAW"},{"userinfo":{"toUserProfileId":140177,"fromUserProfileId":"130044","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"},"subscriptionId":"OQFYh57alLJtNV1iAAAf"}]}
+2019-05-08 15:46:49 info: {"chat_users_disconnect":[{"userinfo":{"toUserProfileId":130044,"userId":"633e5224-f829-40fe-9ed3-758ec58b00fc","fromUserProfileId":"140177"},"subscriptionId":"srmYpQWiLis56vOpAAAW"}]}
+2019-05-08 15:50:08 info: {"socketconnected":"MGpyBT99pfimpnogAAAg"}
+2019-05-08 15:52:08 info: {"chatUsers":[{"userinfo":{"toUserProfileId":130044,"userId":"633e5224-f829-40fe-9ed3-758ec58b00fc","fromUserProfileId":"140177"},"subscriptionId":"srmYpQWiLis56vOpAAAW"},{"userinfo":{"fromUserProfileId":"130044","toUserProfileId":140177,"userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"},"subscriptionId":"MGpyBT99pfimpnogAAAg"}]}
+2019-05-08 16:04:21 info: {"chat_users_disconnect":[{"userinfo":{"toUserProfileId":130044,"userId":"633e5224-f829-40fe-9ed3-758ec58b00fc","fromUserProfileId":"140177"},"subscriptionId":"srmYpQWiLis56vOpAAAW"}]}
+2019-05-08 16:29:22 info: {"chat_users_disconnect":[]}
+2019-05-08 16:30:17 info: {"socketconnected":"CWILG8GwYAj5w6UcAAAh"}
+2019-05-08 16:30:52 info: {"chatUsers":[{"userinfo":{"fromUserProfileId":"140177","userId":"633e5224-f829-40fe-9ed3-758ec58b00fc","toUserProfileId":130044},"subscriptionId":"CWILG8GwYAj5w6UcAAAh"}]}
+2019-05-08 16:34:43 info: {"chat_users_disconnect":[]}
+2019-05-08 16:35:36 info: {"socketconnected":"p6Sf1t17R0MYWQ2TAAAi"}
+2019-05-08 16:36:00 info: {"chatUsers":[{"userinfo":{"toUserProfileId":130044,"fromUserProfileId":"140177","userId":"633e5224-f829-40fe-9ed3-758ec58b00fc"},"subscriptionId":"p6Sf1t17R0MYWQ2TAAAi"}]}
+2019-05-08 16:36:27 info: {"chatUsers":[{"userinfo":{"toUserProfileId":130044,"fromUserProfileId":"140177","userId":"633e5224-f829-40fe-9ed3-758ec58b00fc"},"subscriptionId":"p6Sf1t17R0MYWQ2TAAAi"}]}
+2019-05-08 16:36:34 info: {"loginInfo":{"UserProfileId":"140177"}}
+2019-05-08 16:36:34 info: {"globalUsers":[{"UserProfileId":"140177","subscriptionId":"p6Sf1t17R0MYWQ2TAAAi"}]}
+2019-05-08 16:39:11 info: {"chatUsers":[{"userinfo":{"toUserProfileId":130044,"fromUserProfileId":"140177","userId":"633e5224-f829-40fe-9ed3-758ec58b00fc"},"subscriptionId":"p6Sf1t17R0MYWQ2TAAAi"}]}
+2019-05-08 16:39:23 info: {"chat_users_disconnect":[]}
+2019-05-08 16:39:23 info: {"globalUsers":[]}
+2019-05-08 16:39:33 info: {"socketconnected":"n84z3sXF9U6mGtegAAAj"}
+2019-05-08 16:42:51 info: {"chatUsers":[{"userinfo":{"userId":"633e5224-f829-40fe-9ed3-758ec58b00fc","toUserProfileId":130044,"fromUserProfileId":"140177"},"subscriptionId":"n84z3sXF9U6mGtegAAAj"}]}
+2019-05-08 16:45:55 info: {"chat_users_disconnect":[]}
+2019-05-08 16:47:03 info: {"socketconnected":"HbtEkhCMFiTJ6iN3AAAk"}
+2019-05-08 16:47:27 info: {"chatUsers":[{"userinfo":{"userId":"633e5224-f829-40fe-9ed3-758ec58b00fc","toUserProfileId":130044,"fromUserProfileId":"140177"},"subscriptionId":"HbtEkhCMFiTJ6iN3AAAk"}]}
+2019-05-08 16:47:50 info: {"chat_users_disconnect":[]}
+2019-05-08 16:48:45 info: {"socketconnected":"_YWoFagFexk_m-lvAAAl"}
+2019-05-08 17:20:15 info: {"chatUsers":[{"userinfo":{"toUserProfileId":130044,"userId":"633e5224-f829-40fe-9ed3-758ec58b00fc","fromUserProfileId":"140177"},"subscriptionId":"_YWoFagFexk_m-lvAAAl"}]}
+2019-05-08 17:20:21 info: {"chat_users_disconnect":[]}
+2019-05-09 10:47:37 info: {"socketconnected":"s62i2HM4aZ9_W6M2AAAm"}
+2019-05-09 10:50:19 info: {"chatUsers":[{"userinfo":{"toUserProfileId":140177,"fromUserProfileId":"130044","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"},"subscriptionId":"s62i2HM4aZ9_W6M2AAAm"}]}
+2019-05-09 11:37:45 info: {"chat_users_disconnect":[]}
+2019-05-09 11:38:49 info: {"socketconnected":"zl0OGwU8uYywYJLIAAAn"}
+2019-05-09 11:39:33 info: {"chatUsers":[{"userinfo":{"toUserProfileId":140177,"userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b","fromUserProfileId":"130044"},"subscriptionId":"zl0OGwU8uYywYJLIAAAn"}]}
+2019-05-09 11:41:57 info: {"chatUsers":[{"userinfo":{"toUserProfileId":140177,"userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b","fromUserProfileId":"130044"},"subscriptionId":"zl0OGwU8uYywYJLIAAAn"}]}
+2019-05-09 11:52:43 info: {"chat_users_disconnect":[]}
+2019-05-09 11:53:38 info: {"socketconnected":"nklrKsUdSBWCyA3-AAAo"}
+2019-05-09 11:55:00 info: {"chatUsers":[{"userinfo":{"fromUserProfileId":"130044","toUserProfileId":140177,"userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"},"subscriptionId":"nklrKsUdSBWCyA3-AAAo"}]}
+2019-05-09 11:56:24 info: {"loginInfo":{"UserProfileId":"130044"}}
+2019-05-09 11:56:24 info: {"globalUsers":[{"UserProfileId":"130044","subscriptionId":"nklrKsUdSBWCyA3-AAAo"}]}
+2019-05-09 11:59:18 info: {"chatUsers":[{"userinfo":{"fromUserProfileId":"130044","toUserProfileId":140177,"userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"},"subscriptionId":"nklrKsUdSBWCyA3-AAAo"}]}
+2019-05-09 12:07:48 info: {"chatUsers":[{"userinfo":{"fromUserProfileId":"130044","toUserProfileId":140177,"userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"},"subscriptionId":"nklrKsUdSBWCyA3-AAAo"}]}
+2019-05-09 12:08:18 info: {"chat_users_disconnect":[]}
+2019-05-09 12:08:18 info: {"globalUsers":[]}
+2019-05-09 12:10:44 info: {"socketconnected":"lepSuAWwOSZIYbqfAAAp"}
+2019-05-09 12:10:54 info: {"socketconnected":"VWXXP2YL2GYIlMQZAAAq"}
+2019-05-09 12:11:04 info: {"socketconnected":"ABsVKcri8BkilEeGAAAr"}
+2019-05-09 12:11:14 info: {"socketconnected":"kS_izl0n8m5cCaYqAAAs"}
+2019-05-09 12:11:24 info: {"socketconnected":"vy0Q0AV2Afj4dtDOAAAt"}
+2019-05-09 12:11:35 info: {"socketconnected":"iR5SC3JTzBl9W7njAAAu"}
+2019-05-09 12:11:45 info: {"socketconnected":"bU29y9Z890JvX5kVAAAv"}
+2019-05-09 12:11:55 info: {"socketconnected":"CAdzBCoqskfI3NERAAAw"}
+2019-05-09 12:12:05 info: {"socketconnected":"buYRjPKinQVx38dEAAAx"}
+2019-05-09 12:12:15 info: {"socketconnected":"AyUPpbioHjTc4sYuAAAy"}
+2019-05-09 12:12:25 info: {"socketconnected":"jATKsCaG_xIGdBeEAAAz"}
+2019-05-09 12:12:35 info: {"socketconnected":"oBObrMZlfkfsRn6wAAA0"}
+2019-05-09 12:12:45 info: {"socketconnected":"bWMvo7Iz_MbGi8ilAAA1"}
+2019-05-09 12:12:55 info: {"socketconnected":"59OipQCZhC532UT7AAA2"}
+2019-05-09 12:13:05 info: {"socketconnected":"DVg2MsMpfmnoDU_cAAA3"}
+2019-05-09 12:13:15 info: {"socketconnected":"HvADHZeHkbAImc2SAAA4"}
+2019-05-09 12:13:25 info: {"socketconnected":"1eyQ_FpJKCin6TcPAAA5"}
+2019-05-09 12:13:35 info: {"socketconnected":"FPgxl-8HHjr1_TO8AAA6"}
+2019-05-09 12:13:45 info: {"socketconnected":"ge_R2t6Z8P993AHuAAA7"}
+2019-05-09 12:13:55 info: {"socketconnected":"T77568XzI_TSK_1zAAA8"}
+2019-05-09 12:14:05 info: {"socketconnected":"d5bztBVs-w4oUA_UAAA9"}
+2019-05-09 12:15:22 info: {"socketconnected":"CK-dYqYmDCeT99UHAAA-"}
+2019-05-09 12:21:32 info: {"chatUsers":[{"userinfo":{"toUserProfileId":140177,"userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b","fromUserProfileId":"130044"},"subscriptionId":"CK-dYqYmDCeT99UHAAA-"}]}
+2019-05-09 12:26:44 info: {"chat_users_disconnect":[]}
+2019-05-09 12:28:56 info: {"socketconnected":"meIx-H-W49C-DwYrAAA_"}
+2019-05-09 12:29:56 info: {"chatUsers":[{"userinfo":{"userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b","toUserProfileId":140177,"fromUserProfileId":"130044"},"subscriptionId":"meIx-H-W49C-DwYrAAA_"}]}
+2019-05-09 12:39:16 info: {"chat_users_disconnect":[]}
+2019-05-09 12:40:34 info: {"socketconnected":"SiwzwsuGwAUzUMaiAABA"}
+2019-05-09 12:41:59 info: {"chatUsers":[{"userinfo":{"fromUserProfileId":"130044","toUserProfileId":140177,"userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"},"subscriptionId":"SiwzwsuGwAUzUMaiAABA"}]}
+2019-05-09 12:43:27 info: {"chat_users_disconnect":[]}
+2019-05-09 12:44:10 info: {"socketconnected":"3rDAh2RmXxJ8d9VHAABB"}
+2019-05-09 12:45:41 info: {"chatUsers":[{"userinfo":{"fromUserProfileId":"130044","toUserProfileId":140177,"userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"},"subscriptionId":"3rDAh2RmXxJ8d9VHAABB"}]}
+2019-05-09 13:31:33 info: {"chat_users_disconnect":[]}
+2019-05-09 13:33:50 info: {"socketconnected":"Z-vo3mwQRHxbC__tAABC"}
+2019-05-09 15:07:48 info: {"socketconnected":"3Ydby4DfA0utPIwjAABD"}
+2019-05-09 15:09:53 info: {"chatUsers":[{"userinfo":{"toUserProfileId":140177,"userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b","fromUserProfileId":"130044"},"subscriptionId":"3Ydby4DfA0utPIwjAABD"}]}
+2019-05-09 15:11:22 info: {"chat_users_disconnect":[]}
+2019-05-09 15:13:15 info: {"socketconnected":"5UZkOwr_lbXDc6hpAABE"}
+2019-05-09 15:16:40 info: {"chatUsers":[{"userinfo":{"fromUserProfileId":"130044","toUserProfileId":140177,"userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"},"subscriptionId":"5UZkOwr_lbXDc6hpAABE"}]}
+2019-05-09 15:52:03 info: {"chat_users_disconnect":[]}
+2019-05-09 15:53:36 info: {"socketconnected":"p1RP9NeXNoqjfXG4AABF"}
+2019-05-09 17:11:20 info: {"chatUsers":[{"userinfo":{"userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b","fromUserProfileId":"130044","toUserProfileId":140177},"subscriptionId":"p1RP9NeXNoqjfXG4AABF"}]}
+2019-05-09 17:12:58 info: {"sendmessage":{"userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b","fromUserProfileId":"130044","message":"Hi","toUserProfileId":140177}}
+2019-05-09 17:12:58 info: {"messagesaved":[[{"Status":1,"data":"297","Message":"Chat inserted successfully."}],[{"Id":"297","FromUserProfileId":"130044","ToUserProfileId":"140177","ChatText":"Hi","ParentMediaId":null,"CreatedDate":"2019-05-09T11:39:49.840Z","IsDeleted":false,"IsMessage":true,"IsNotificationSend":false,"IsMedia":false,"MediaType":"TEXT","MediaPath":null}]]}
+2019-05-09 17:13:03 info: {"chatUsers":[{"userinfo":{"userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b","fromUserProfileId":"130044","toUserProfileId":140177},"subscriptionId":"p1RP9NeXNoqjfXG4AABF"}]}
+2019-05-09 17:13:09 info: {"sendmessage":{"userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b","fromUserProfileId":"130044","message":"Test","toUserProfileId":140177}}
+2019-05-09 17:13:09 info: {"messagesaved":[[{"Status":1,"data":"298","Message":"Chat inserted successfully."}],[{"Id":"298","FromUserProfileId":"130044","ToUserProfileId":"140177","ChatText":"Test","ParentMediaId":null,"CreatedDate":"2019-05-09T11:40:01.130Z","IsDeleted":false,"IsMessage":true,"IsNotificationSend":false,"IsMedia":false,"MediaType":"TEXT","MediaPath":null}]]}
+2019-05-09 17:13:24 info: {"chatUsers":[{"userinfo":{"userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b","fromUserProfileId":"130044","toUserProfileId":140177},"subscriptionId":"p1RP9NeXNoqjfXG4AABF"}]}
+2019-05-09 17:13:44 info: {"sendmessage":{"userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b","fromUserProfileId":"130044","message":"Yes","toUserProfileId":140177}}
+2019-05-09 17:13:44 info: {"messagesaved":[[{"Status":1,"data":"299","Message":"Chat inserted successfully."}],[{"Id":"299","FromUserProfileId":"130044","ToUserProfileId":"140177","ChatText":"Yes","ParentMediaId":null,"CreatedDate":"2019-05-09T11:40:35.343Z","IsDeleted":false,"IsMessage":true,"IsNotificationSend":false,"IsMedia":false,"MediaType":"TEXT","MediaPath":null}]]}
+2019-05-09 17:13:51 info: {"chatUsers":[{"userinfo":{"userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b","fromUserProfileId":"130044","toUserProfileId":140177},"subscriptionId":"p1RP9NeXNoqjfXG4AABF"}]}
+2019-05-09 17:16:04 info: {"socketconnected":"Q0vb8_H_hD3EjP51AAAA"}
+2019-05-09 17:18:27 info: {"socketconnected":"OvSNNEv4uc84XmZBAAAA"}
+2019-05-09 17:18:59 info: {"chatUsers":[{"userinfo":{"userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b","toUserProfileId":140177,"fromUserProfileId":"130044"},"subscriptionId":"OvSNNEv4uc84XmZBAAAA"}]}
+2019-05-09 17:19:06 info: {"sendmessage":{"message":"Test","fromUserProfileId":"130044","toUserProfileId":140177,"userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"}}
+2019-05-09 17:19:06 info: {"messagesaved":[[{"Status":1,"data":"300","Message":"Chat inserted successfully."}],[{"Id":"300","FromUserProfileId":"130044","ToUserProfileId":"140177","ChatText":"Test","ParentMediaId":null,"CreatedDate":"2019-05-09T11:45:58.053Z","IsDeleted":false,"IsMessage":true,"IsNotificationSend":false,"IsMedia":false,"MediaType":"TEXT","MediaPath":null}]]}
+2019-05-09 17:19:12 info: {"chatUsers":[{"userinfo":{"userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b","toUserProfileId":140177,"fromUserProfileId":"130044"},"subscriptionId":"OvSNNEv4uc84XmZBAAAA"}]}
+2019-05-09 17:20:30 info: {"socketconnected":"SrgUtfW_BYTYQyKHAAAA"}
+2019-05-09 17:27:21 info: {"socketconnected":"4uR5PocxbM5QajbgAAAA"}
+2019-05-09 17:27:50 info: {"socketconnected":"I3P1J8tIFbW1K_IdAAAA"}
+2019-05-09 17:29:45 info: {"socketconnected":"5xk3p_jhhPeEtDeaAAAB"}
+2019-05-09 17:29:57 info: {"socketconnected":"BfNTyy8WyqmEt-kAAAAC"}
+2019-05-09 17:30:02 info: {"socketconnected":"22085ptaJZPhjNN2AAAD"}
+2019-05-09 17:30:04 info: {"socketconnected":"rzf1rcOgMDrfmHxvAAAE"}
+2019-05-09 17:32:03 info: {"chatUsers":[{"userinfo":{"fromUserProfileId":"130044","toUserProfileId":"140177","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"},"subscriptionId":"5xk3p_jhhPeEtDeaAAAB"}]}
+2019-05-09 17:32:05 info: {"chatUsers":[{"userinfo":{"fromUserProfileId":"130044","toUserProfileId":"140177","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"},"subscriptionId":"5xk3p_jhhPeEtDeaAAAB"},{"userinfo":{"fromUserProfileId":"130044","toUserProfileId":"140178","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"},"subscriptionId":"BfNTyy8WyqmEt-kAAAAC"}]}
+2019-05-09 17:32:08 info: {"chatUsers":[{"userinfo":{"fromUserProfileId":"130044","toUserProfileId":"140177","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"},"subscriptionId":"5xk3p_jhhPeEtDeaAAAB"},{"userinfo":{"fromUserProfileId":"130044","toUserProfileId":"140178","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"},"subscriptionId":"BfNTyy8WyqmEt-kAAAAC"},{"userinfo":{"fromUserProfileId":"140177","toUserProfileId":"130044","userId":"633e5224-f829-40fe-9ed3-758ec58b00fc"},"subscriptionId":"22085ptaJZPhjNN2AAAD"}]}
+2019-05-09 17:32:10 info: {"chatUsers":[{"userinfo":{"fromUserProfileId":"130044","toUserProfileId":"140177","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"},"subscriptionId":"5xk3p_jhhPeEtDeaAAAB"},{"userinfo":{"fromUserProfileId":"130044","toUserProfileId":"140178","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"},"subscriptionId":"BfNTyy8WyqmEt-kAAAAC"},{"userinfo":{"fromUserProfileId":"140177","toUserProfileId":"130044","userId":"633e5224-f829-40fe-9ed3-758ec58b00fc"},"subscriptionId":"22085ptaJZPhjNN2AAAD"},{"userinfo":{"fromUserProfileId":"140177","toUserProfileId":"130044","userId":"633e5224-f829-40fe-9ed3-758ec58b00fc"},"subscriptionId":"rzf1rcOgMDrfmHxvAAAE"}]}
+2019-05-09 17:32:16 info: {"sendmessage":{"fromUserProfileId":"130044","toUserProfileId":"140177","message":"test","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"}}
+2019-05-09 17:32:17 info: {"chatsaved":[[{"Status":1,"data":"302","Message":"Chat inserted successfully."}],[{"Id":"302","FromUserProfileId":"130044","ToUserProfileId":"140177","ChatText":"test","ParentMediaId":null,"CreatedDate":"2019-05-09T11:59:08.100Z","IsDeleted":false,"IsMessage":false,"IsNotificationSend":false,"IsMedia":false,"MediaType":"TEXT","MediaPath":null}]]}
+2019-05-09 17:33:30 info: {"socketconnected":"ERE6oiWSb6MEog1EAAAA"}
+2019-05-09 17:33:30 info: {"socketconnected":"v-yejourGUZZlrxYAAAB"}
+2019-05-09 17:33:30 info: {"socketconnected":"evaqV89H4LcJppvfAAAC"}
+2019-05-09 17:33:30 info: {"socketconnected":"HAtr19iP9X1WdLWDAAAD"}
+2019-05-09 17:33:46 info: {"socketconnected":"gtarcjCpknt57wmdAAAA"}
+2019-05-09 17:33:49 info: {"socketconnected":"oVHIT4klKZOygqn2AAAB"}
+2019-05-09 17:33:50 info: {"socketconnected":"923vYqH-MIJR7x9QAAAC"}
+2019-05-09 17:33:51 info: {"socketconnected":"jbIfzzqL1h6zHS1pAAAD"}
+2019-05-09 17:33:52 info: {"chatUsers":[{"userinfo":{"fromUserProfileId":"130044","toUserProfileId":"140177","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"},"subscriptionId":"923vYqH-MIJR7x9QAAAC"}]}
+2019-05-09 17:33:55 info: {"chatUsers":[{"userinfo":{"fromUserProfileId":"130044","toUserProfileId":"140177","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"},"subscriptionId":"923vYqH-MIJR7x9QAAAC"},{"userinfo":{"fromUserProfileId":"130044","toUserProfileId":"140178","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"},"subscriptionId":"oVHIT4klKZOygqn2AAAB"}]}
+2019-05-09 17:33:56 info: {"chatUsers":[{"userinfo":{"fromUserProfileId":"130044","toUserProfileId":"140177","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"},"subscriptionId":"923vYqH-MIJR7x9QAAAC"},{"userinfo":{"fromUserProfileId":"130044","toUserProfileId":"140178","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"},"subscriptionId":"oVHIT4klKZOygqn2AAAB"},{"userinfo":{"fromUserProfileId":"140177","toUserProfileId":"130044","userId":"633e5224-f829-40fe-9ed3-758ec58b00fc"},"subscriptionId":"jbIfzzqL1h6zHS1pAAAD"}]}
+2019-05-09 17:33:58 info: {"chatUsers":[{"userinfo":{"fromUserProfileId":"130044","toUserProfileId":"140177","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"},"subscriptionId":"923vYqH-MIJR7x9QAAAC"},{"userinfo":{"fromUserProfileId":"130044","toUserProfileId":"140178","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"},"subscriptionId":"oVHIT4klKZOygqn2AAAB"},{"userinfo":{"fromUserProfileId":"140177","toUserProfileId":"130044","userId":"633e5224-f829-40fe-9ed3-758ec58b00fc"},"subscriptionId":"jbIfzzqL1h6zHS1pAAAD"},{"userinfo":{"fromUserProfileId":"140177","toUserProfileId":"130044","userId":"633e5224-f829-40fe-9ed3-758ec58b00fc"},"subscriptionId":"gtarcjCpknt57wmdAAAA"}]}
+2019-05-09 17:34:05 info: {"sendmessage":{"fromUserProfileId":"130044","toUserProfileId":"140177","message":"test101","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"}}
+2019-05-09 17:34:06 info: {"chatsaved":[[{"Status":1,"data":"303","Message":"Chat inserted successfully."}],[{"Id":"303","FromUserProfileId":"130044","ToUserProfileId":"140177","ChatText":"test101","ParentMediaId":null,"CreatedDate":"2019-05-09T12:00:57.333Z","IsDeleted":false,"IsMessage":false,"IsNotificationSend":false,"IsMedia":false,"MediaType":"TEXT","MediaPath":null}]]}
+2019-05-09 17:34:13 info: {"socketconnected":"NBTF9Pc4Nx9tRyFdAAAE"}
+2019-05-09 17:35:25 info: {"socketconnected":"FcwgTggyx8BWhwvfAAAA"}
+2019-05-09 17:35:26 info: {"socketconnected":"raacWIXndR5KEVy4AAAB"}
+2019-05-09 17:35:26 info: {"socketconnected":"G5eDoMSh6p8TXFvTAAAC"}
+2019-05-09 17:35:26 info: {"socketconnected":"L4fWviiywiaETV1TAAAD"}
+2019-05-09 17:35:42 info: {"socketconnected":"HMyKNNncuauwGVG3AAAA"}
+2019-05-09 17:35:42 info: {"socketconnected":"Y2rc8qd4rND24tA6AAAB"}
+2019-05-09 17:35:42 info: {"socketconnected":"jzE3WWhjHdsuZnnyAAAC"}
+2019-05-09 17:35:42 info: {"socketconnected":"vOdI6jadeKLYOuDGAAAD"}
+2019-05-09 17:35:42 info: {"socketconnected":"iLq3ztSrhuwR8CvyAAAE"}
+2019-05-09 17:35:49 info: {"socketconnected":"-DIzvcbol2PnB2OnAAAA"}
+2019-05-09 17:35:49 info: {"socketconnected":"da-aNaLVy3d5nxoPAAAB"}
+2019-05-09 17:35:49 info: {"socketconnected":"TMRjqp2JXZA7mm5qAAAC"}
+2019-05-09 17:35:49 info: {"socketconnected":"sO8Hbg7Oa6pBTuNUAAAD"}
+2019-05-09 17:35:57 info: {"socketconnected":"flv_ne53qoGlPuPUAAAE"}
+2019-05-09 18:13:36 info: {"chatUsers":[{"userinfo":{"fromUserProfileId":"130044","toUserProfileId":"140177","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"},"subscriptionId":"TMRjqp2JXZA7mm5qAAAC"}]}
+2019-05-09 18:13:38 info: {"chatUsers":[{"userinfo":{"fromUserProfileId":"130044","toUserProfileId":"140177","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"},"subscriptionId":"TMRjqp2JXZA7mm5qAAAC"},{"userinfo":{"fromUserProfileId":"130044","toUserProfileId":"140178","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"},"subscriptionId":"-DIzvcbol2PnB2OnAAAA"}]}
+2019-05-09 18:13:40 info: {"chatUsers":[{"userinfo":{"fromUserProfileId":"130044","toUserProfileId":"140177","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"},"subscriptionId":"TMRjqp2JXZA7mm5qAAAC"},{"userinfo":{"fromUserProfileId":"130044","toUserProfileId":"140178","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"},"subscriptionId":"-DIzvcbol2PnB2OnAAAA"},{"userinfo":{"fromUserProfileId":"140177","toUserProfileId":"130044","userId":"633e5224-f829-40fe-9ed3-758ec58b00fc"},"subscriptionId":"da-aNaLVy3d5nxoPAAAB"}]}
+2019-05-09 18:13:42 info: {"chatUsers":[{"userinfo":{"fromUserProfileId":"130044","toUserProfileId":"140177","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"},"subscriptionId":"TMRjqp2JXZA7mm5qAAAC"},{"userinfo":{"fromUserProfileId":"130044","toUserProfileId":"140178","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"},"subscriptionId":"-DIzvcbol2PnB2OnAAAA"},{"userinfo":{"fromUserProfileId":"140177","toUserProfileId":"130044","userId":"633e5224-f829-40fe-9ed3-758ec58b00fc"},"subscriptionId":"da-aNaLVy3d5nxoPAAAB"},{"userinfo":{"fromUserProfileId":"140177","toUserProfileId":"130044","userId":"633e5224-f829-40fe-9ed3-758ec58b00fc"},"subscriptionId":"sO8Hbg7Oa6pBTuNUAAAD"}]}
+2019-05-09 18:14:34 info: {"sendmessage":{"fromUserProfileId":"130044","toUserProfileId":"140177","message":"test1013","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"}}
+2019-05-09 18:14:35 info: {"chatsaved":[[{"Status":1,"data":"304","Message":"Chat inserted successfully."}],[{"Id":"304","FromUserProfileId":"130044","ToUserProfileId":"140177","ChatText":"test1013","ParentMediaId":null,"CreatedDate":"2019-05-09T12:41:28.756Z","IsDeleted":false,"IsMessage":false,"IsNotificationSend":false,"IsMedia":false,"MediaType":"TEXT","MediaPath":null}]]}
+2019-05-09 18:15:06 info: {"sendmessage":{"fromUserProfileId":"140177","toUserProfileId":"130044","message":"test 7458415","userId":"633e5224-f829-40fe-9ed3-758ec58b00fc"}}
+2019-05-09 18:15:06 info: {"chatsaved":[[{"Status":1,"data":"305","Message":"Chat inserted successfully."}],[{"Id":"305","FromUserProfileId":"140177","ToUserProfileId":"130044","ChatText":"test 7458415","ParentMediaId":null,"CreatedDate":"2019-05-09T12:42:00.100Z","IsDeleted":false,"IsMessage":false,"IsNotificationSend":false,"IsMedia":false,"MediaType":"TEXT","MediaPath":null}]]}
+2019-05-09 18:17:14 info: {"chat_users_disconnect":[{"userinfo":{"fromUserProfileId":"130044","toUserProfileId":"140177","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"},"subscriptionId":"TMRjqp2JXZA7mm5qAAAC"},{"userinfo":{"fromUserProfileId":"130044","toUserProfileId":"140178","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"},"subscriptionId":"-DIzvcbol2PnB2OnAAAA"},{"userinfo":{"fromUserProfileId":"140177","toUserProfileId":"130044","userId":"633e5224-f829-40fe-9ed3-758ec58b00fc"},"subscriptionId":"sO8Hbg7Oa6pBTuNUAAAD"}]}
+2019-05-09 18:17:14 info: {"chat_users_disconnect":[{"userinfo":{"fromUserProfileId":"130044","toUserProfileId":"140177","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"},"subscriptionId":"TMRjqp2JXZA7mm5qAAAC"},{"userinfo":{"fromUserProfileId":"130044","toUserProfileId":"140178","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"},"subscriptionId":"-DIzvcbol2PnB2OnAAAA"}]}
+2019-05-09 18:17:19 info: {"sendmessage":{"fromUserProfileId":"130044","toUserProfileId":"140177","message":"test1013","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"}}
+2019-05-09 18:17:19 info: {"messagesaved":[[{"Status":1,"data":"306","Message":"Chat inserted successfully."}],[{"Id":"306","FromUserProfileId":"130044","ToUserProfileId":"140177","ChatText":"test1013","ParentMediaId":null,"CreatedDate":"2019-05-09T12:44:13.033Z","IsDeleted":false,"IsMessage":true,"IsNotificationSend":false,"IsMedia":false,"MediaType":"TEXT","MediaPath":null}]]}
+2019-05-09 18:18:03 info: {"socketconnected":"lSY2paxMMf8q4goMAAAA"}
+2019-05-09 18:18:03 info: {"socketconnected":"bfxRDCoL0xlG2iMjAAAB"}
+2019-05-09 18:18:09 info: {"socketconnected":"m8ea3Q3yOsWDbg_gAAAC"}
+2019-05-09 18:18:09 info: {"socketconnected":"q9t91tmQr4v-FgseAAAD"}
+2019-05-09 18:18:18 info: {"socketconnected":"6Sc-YSA-uWdwF7DdAAAE"}
+2019-05-09 18:18:20 info: {"socketconnected":"TUpaZzscoTGwaYqaAAAF"}
+2019-05-09 18:18:23 info: {"socketconnected":"vsmuZ0j-XivLq6cSAAAG"}
+2019-05-09 18:18:30 info: {"socketconnected":"RcE4sqxobJRIEke4AAAA"}
+2019-05-09 18:18:31 info: {"socketconnected":"Uzs3Ap20fIk4Cm1WAAAB"}
+2019-05-09 18:18:31 info: {"socketconnected":"6G2bbF_Qf1Noh5DMAAAC"}
+2019-05-09 18:18:31 info: {"socketconnected":"p8DeSFArQHdspJXAAAAD"}
+2019-05-09 18:18:45 info: {"socketconnected":"SC2FUk3crV0-Z8UGAAAE"}
+2019-05-09 18:19:21 info: {"chatUsers":[{"userinfo":{"fromUserProfileId":"130044","toUserProfileId":"140177","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"},"subscriptionId":"RcE4sqxobJRIEke4AAAA"}]}
+2019-05-09 18:19:24 info: {"chatUsers":[{"userinfo":{"fromUserProfileId":"130044","toUserProfileId":"140177","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"},"subscriptionId":"RcE4sqxobJRIEke4AAAA"},{"userinfo":{"fromUserProfileId":"130044","toUserProfileId":"140178","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"},"subscriptionId":"6G2bbF_Qf1Noh5DMAAAC"}]}
+2019-05-09 18:19:25 info: {"chatUsers":[{"userinfo":{"fromUserProfileId":"130044","toUserProfileId":"140177","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"},"subscriptionId":"RcE4sqxobJRIEke4AAAA"},{"userinfo":{"fromUserProfileId":"130044","toUserProfileId":"140178","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"},"subscriptionId":"6G2bbF_Qf1Noh5DMAAAC"},{"userinfo":{"fromUserProfileId":"140177","toUserProfileId":"130044","userId":"633e5224-f829-40fe-9ed3-758ec58b00fc"},"subscriptionId":"p8DeSFArQHdspJXAAAAD"}]}
+2019-05-09 18:19:27 info: {"chatUsers":[{"userinfo":{"fromUserProfileId":"130044","toUserProfileId":"140177","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"},"subscriptionId":"RcE4sqxobJRIEke4AAAA"},{"userinfo":{"fromUserProfileId":"130044","toUserProfileId":"140178","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"},"subscriptionId":"6G2bbF_Qf1Noh5DMAAAC"},{"userinfo":{"fromUserProfileId":"140177","toUserProfileId":"130044","userId":"633e5224-f829-40fe-9ed3-758ec58b00fc"},"subscriptionId":"p8DeSFArQHdspJXAAAAD"},{"userinfo":{"fromUserProfileId":"140177","toUserProfileId":"130044","userId":"633e5224-f829-40fe-9ed3-758ec58b00fc"},"subscriptionId":"Uzs3Ap20fIk4Cm1WAAAB"}]}
+2019-05-09 18:19:30 info: {"sendmessage":{"fromUserProfileId":"130044","toUserProfileId":"140177","message":"test1013","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"}}
+2019-05-09 18:19:30 info: {"chatsaved":[[{"Status":1,"data":"307","Message":"Chat inserted successfully."}],[{"Id":"307","FromUserProfileId":"130044","ToUserProfileId":"140177","ChatText":"test1013","ParentMediaId":null,"CreatedDate":"2019-05-09T12:46:24.443Z","IsDeleted":false,"IsMessage":false,"IsNotificationSend":false,"IsMedia":false,"MediaType":"TEXT","MediaPath":null}]]}
+2019-05-09 18:24:17 info: {"socketconnected":"KJQo_ZWdSsnZTS48AAAA"}
+2019-05-09 18:24:17 info: {"socketconnected":"QKD1GcoRDppt7BqBAAAB"}
+2019-05-09 18:24:17 info: {"socketconnected":"QkYvw1KNzvr_zi_bAAAC"}
+2019-05-09 18:24:17 info: {"socketconnected":"4JSTc5h2CcDR0oi5AAAD"}
+2019-05-09 18:24:32 info: {"socketconnected":"1WZMl-iJBtoQAhZUAAAE"}
+2019-05-09 18:28:10 info: {"chatUsers":[{"userinfo":{"fromUserProfileId":"130044","toUserProfileId":"140177","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"},"subscriptionId":"4JSTc5h2CcDR0oi5AAAD"}]}
+2019-05-09 18:28:12 info: {"chatUsers":[{"userinfo":{"fromUserProfileId":"130044","toUserProfileId":"140177","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"},"subscriptionId":"4JSTc5h2CcDR0oi5AAAD"},{"userinfo":{"fromUserProfileId":"130044","toUserProfileId":"140178","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"},"subscriptionId":"QkYvw1KNzvr_zi_bAAAC"}]}
+2019-05-09 18:28:14 info: {"chatUsers":[{"userinfo":{"fromUserProfileId":"130044","toUserProfileId":"140177","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"},"subscriptionId":"4JSTc5h2CcDR0oi5AAAD"},{"userinfo":{"fromUserProfileId":"130044","toUserProfileId":"140178","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"},"subscriptionId":"QkYvw1KNzvr_zi_bAAAC"},{"userinfo":{"fromUserProfileId":"140177","toUserProfileId":"130044","userId":"633e5224-f829-40fe-9ed3-758ec58b00fc"},"subscriptionId":"KJQo_ZWdSsnZTS48AAAA"}]}
+2019-05-09 18:28:16 info: {"chatUsers":[{"userinfo":{"fromUserProfileId":"130044","toUserProfileId":"140177","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"},"subscriptionId":"4JSTc5h2CcDR0oi5AAAD"},{"userinfo":{"fromUserProfileId":"130044","toUserProfileId":"140178","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"},"subscriptionId":"QkYvw1KNzvr_zi_bAAAC"},{"userinfo":{"fromUserProfileId":"140177","toUserProfileId":"130044","userId":"633e5224-f829-40fe-9ed3-758ec58b00fc"},"subscriptionId":"KJQo_ZWdSsnZTS48AAAA"},{"userinfo":{"fromUserProfileId":"140177","toUserProfileId":"130044","userId":"633e5224-f829-40fe-9ed3-758ec58b00fc"},"subscriptionId":"QKD1GcoRDppt7BqBAAAB"}]}
+2019-05-09 18:28:18 info: {"sendmessage":{"fromUserProfileId":"130044","toUserProfileId":"140177","message":"test1013","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"}}
+2019-05-09 18:28:18 info: {"chatsaved":[[{"Status":1,"data":"308","Message":"Chat inserted successfully."}],[{"Id":"308","FromUserProfileId":"130044","ToUserProfileId":"140177","ChatText":"test1013","ParentMediaId":null,"CreatedDate":"2019-05-09T12:55:12.416Z","IsDeleted":false,"IsMessage":false,"IsNotificationSend":false,"IsMedia":false,"MediaType":"TEXT","MediaPath":null}]]}
+2019-05-09 18:28:29 info: {"chat_users_disconnect":[{"userinfo":{"fromUserProfileId":"130044","toUserProfileId":"140177","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"},"subscriptionId":"4JSTc5h2CcDR0oi5AAAD"},{"userinfo":{"fromUserProfileId":"140177","toUserProfileId":"130044","userId":"633e5224-f829-40fe-9ed3-758ec58b00fc"},"subscriptionId":"KJQo_ZWdSsnZTS48AAAA"},{"userinfo":{"fromUserProfileId":"140177","toUserProfileId":"130044","userId":"633e5224-f829-40fe-9ed3-758ec58b00fc"},"subscriptionId":"QKD1GcoRDppt7BqBAAAB"}]}
+2019-05-09 18:28:32 info: {"chat_users_disconnect":[{"userinfo":{"fromUserProfileId":"130044","toUserProfileId":"140177","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"},"subscriptionId":"4JSTc5h2CcDR0oi5AAAD"},{"userinfo":{"fromUserProfileId":"140177","toUserProfileId":"130044","userId":"633e5224-f829-40fe-9ed3-758ec58b00fc"},"subscriptionId":"QKD1GcoRDppt7BqBAAAB"}]}
+2019-05-09 18:28:32 info: {"chat_users_disconnect":[{"userinfo":{"fromUserProfileId":"130044","toUserProfileId":"140177","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"},"subscriptionId":"4JSTc5h2CcDR0oi5AAAD"}]}
+2019-05-09 18:28:36 info: {"sendmessage":{"fromUserProfileId":"130044","toUserProfileId":"140177","message":"test101321","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"}}
+2019-05-09 18:28:36 info: {"messagesaved":[[{"Status":1,"data":"309","Message":"Chat inserted successfully."}],[{"Id":"309","FromUserProfileId":"130044","ToUserProfileId":"140177","ChatText":"test101321","ParentMediaId":null,"CreatedDate":"2019-05-09T12:55:29.826Z","IsDeleted":false,"IsMessage":true,"IsNotificationSend":false,"IsMedia":false,"MediaType":"TEXT","MediaPath":null}]]}
+2019-05-09 18:28:48 info: {"socketconnected":"17xl4q78DsooFHIkAAAF"}
+2019-05-09 18:28:57 info: {"socketconnected":"cYNJk67-i0TvaVVWAAAG"}
+2019-05-09 18:28:58 info: {"socketconnected":"4_uQHSIo6AVqBWb4AAAH"}
+2019-05-09 18:29:22 info: {"socketconnected":"jo4fUTWG8A19wqsdAAAA"}
+2019-05-09 18:29:22 info: {"socketconnected":"edY2c90AHXA2JYwyAAAB"}
+2019-05-09 18:29:23 info: {"socketconnected":"tvm-OJp4WZaWtzDrAAAC"}
+2019-05-09 18:29:25 info: {"socketconnected":"TRkVlfFPZi3lVLcwAAAD"}
+2019-05-09 18:29:28 info: {"socketconnected":"E5XBtOAA6aI4TuZxAAAE"}
+2019-05-09 18:31:00 info: {"chatUsers":[{"userinfo":{"fromUserProfileId":"130044","toUserProfileId":"140177","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"},"subscriptionId":"TRkVlfFPZi3lVLcwAAAD"}]}
+2019-05-09 18:31:02 info: {"chatUsers":[{"userinfo":{"fromUserProfileId":"130044","toUserProfileId":"140177","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"},"subscriptionId":"TRkVlfFPZi3lVLcwAAAD"},{"userinfo":{"fromUserProfileId":"130044","toUserProfileId":"140177","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"},"subscriptionId":"tvm-OJp4WZaWtzDrAAAC"}]}
+2019-05-09 18:31:04 info: {"chatUsers":[{"userinfo":{"fromUserProfileId":"130044","toUserProfileId":"140177","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"},"subscriptionId":"TRkVlfFPZi3lVLcwAAAD"},{"userinfo":{"fromUserProfileId":"130044","toUserProfileId":"140177","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"},"subscriptionId":"tvm-OJp4WZaWtzDrAAAC"},{"userinfo":{"fromUserProfileId":"140177","toUserProfileId":"130044","userId":"633e5224-f829-40fe-9ed3-758ec58b00fc"},"subscriptionId":"jo4fUTWG8A19wqsdAAAA"}]}
+2019-05-09 18:31:06 info: {"chatUsers":[{"userinfo":{"fromUserProfileId":"130044","toUserProfileId":"140177","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"},"subscriptionId":"TRkVlfFPZi3lVLcwAAAD"},{"userinfo":{"fromUserProfileId":"130044","toUserProfileId":"140177","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"},"subscriptionId":"tvm-OJp4WZaWtzDrAAAC"},{"userinfo":{"fromUserProfileId":"140177","toUserProfileId":"130044","userId":"633e5224-f829-40fe-9ed3-758ec58b00fc"},"subscriptionId":"jo4fUTWG8A19wqsdAAAA"},{"userinfo":{"fromUserProfileId":"140177","toUserProfileId":"130044","userId":"633e5224-f829-40fe-9ed3-758ec58b00fc"},"subscriptionId":"edY2c90AHXA2JYwyAAAB"}]}
+2019-05-09 18:31:09 info: {"chatUsers":[{"userinfo":{"fromUserProfileId":"130044","toUserProfileId":"140177","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"},"subscriptionId":"TRkVlfFPZi3lVLcwAAAD"},{"userinfo":{"fromUserProfileId":"130044","toUserProfileId":"140177","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"},"subscriptionId":"tvm-OJp4WZaWtzDrAAAC"},{"userinfo":{"fromUserProfileId":"140177","toUserProfileId":"130044","userId":"633e5224-f829-40fe-9ed3-758ec58b00fc"},"subscriptionId":"jo4fUTWG8A19wqsdAAAA"},{"userinfo":{"fromUserProfileId":"140177","toUserProfileId":"130044","userId":"633e5224-f829-40fe-9ed3-758ec58b00fc"},"subscriptionId":"edY2c90AHXA2JYwyAAAB"}]}
+2019-05-09 18:31:14 info: {"sendmessage":{"fromUserProfileId":"130044","toUserProfileId":"140177","message":"test101321","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"}}
+2019-05-09 18:31:15 info: {"chatsaved":[[{"Status":1,"data":"310","Message":"Chat inserted successfully."}],[{"Id":"310","FromUserProfileId":"130044","ToUserProfileId":"140177","ChatText":"test101321","ParentMediaId":null,"CreatedDate":"2019-05-09T12:58:08.830Z","IsDeleted":false,"IsMessage":false,"IsNotificationSend":false,"IsMedia":false,"MediaType":"TEXT","MediaPath":null}]]}
+2019-05-09 18:31:38 info: {"sendmessage":{"fromUserProfileId":"140177","toUserProfileId":"130044","message":"test recieved","userId":"633e5224-f829-40fe-9ed3-758ec58b00fc"}}
+2019-05-09 18:31:38 info: {"chatsaved":[[{"Status":1,"data":"311","Message":"Chat inserted successfully."}],[{"Id":"311","FromUserProfileId":"140177","ToUserProfileId":"130044","ChatText":"test recieved","ParentMediaId":null,"CreatedDate":"2019-05-09T12:58:32.463Z","IsDeleted":false,"IsMessage":false,"IsNotificationSend":false,"IsMedia":false,"MediaType":"TEXT","MediaPath":null}]]}
+2019-05-09 18:35:47 info: {"sendmessage":{"fromUserProfileId":"130044","toUserProfileId":"140177","message":"test101321vsd","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"}}
+2019-05-09 18:35:47 info: {"chatsaved":[[{"Status":1,"data":"312","Message":"Chat inserted successfully."}],[{"Id":"312","FromUserProfileId":"130044","ToUserProfileId":"140177","ChatText":"test101321vsd","ParentMediaId":null,"CreatedDate":"2019-05-09T13:02:41.186Z","IsDeleted":false,"IsMessage":false,"IsNotificationSend":false,"IsMedia":false,"MediaType":"TEXT","MediaPath":null}]]}
+2019-05-09 18:35:56 info: {"chat_users_disconnect":[{"userinfo":{"fromUserProfileId":"130044","toUserProfileId":"140177","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"},"subscriptionId":"TRkVlfFPZi3lVLcwAAAD"},{"userinfo":{"fromUserProfileId":"130044","toUserProfileId":"140177","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"},"subscriptionId":"tvm-OJp4WZaWtzDrAAAC"},{"userinfo":{"fromUserProfileId":"140177","toUserProfileId":"130044","userId":"633e5224-f829-40fe-9ed3-758ec58b00fc"},"subscriptionId":"edY2c90AHXA2JYwyAAAB"}]}
+2019-05-09 18:35:56 info: {"chat_users_disconnect":[{"userinfo":{"fromUserProfileId":"130044","toUserProfileId":"140177","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"},"subscriptionId":"TRkVlfFPZi3lVLcwAAAD"},{"userinfo":{"fromUserProfileId":"130044","toUserProfileId":"140177","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"},"subscriptionId":"tvm-OJp4WZaWtzDrAAAC"}]}
+2019-05-09 18:36:01 info: {"sendmessage":{"fromUserProfileId":"130044","toUserProfileId":"140177","message":"test101321vsddfbrdfvb","userId":"f88f8c82-45b6-4936-b16d-a4cb3a46329b"}}
+2019-05-09 18:36:01 info: {"messagesaved":[[{"Status":1,"data":"313","Message":"Chat inserted successfully."}],[{"Id":"313","FromUserProfileId":"130044","ToUserProfileId":"140177","ChatText":"test101321vsddfbrdfvb","ParentMediaId":null,"CreatedDate":"2019-05-09T13:02:54.736Z","IsDeleted":false,"IsMessage":true,"IsNotificationSend":false,"IsMedia":false,"MediaType":"TEXT","MediaPath":null}]]}
