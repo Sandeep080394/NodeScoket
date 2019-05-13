@@ -212,10 +212,8 @@ io.on('connection', function(socket) {
               message: stringify({ messagesaved: res })
             });
 
-            if (res[0][0].Status) {
-              console.log('send to self', socket.id);
-              socket.emit('getmessage', res[1][0]);
-            }
+            console.log('send to self', socket.id);
+            socket.emit('getmessage', res[1][0]);
 
             // // modify here send a basic message
             // console.log('usersArrFrom', usersArrFrom);
@@ -261,11 +259,7 @@ io.on('connection', function(socket) {
 
   const getTargettedFromUser = (FromUserId, ToUserId) => {
     var chatUser = chatUsers.filter(user => {
-      return (
-        user.userinfo &&
-        user.userinfo.fromUserProfileId == FromUserId &&
-        user.userinfo.toUserProfileId == ToUserId
-      );
+      return user.userinfo && user.userinfo.fromUserProfileId == FromUserId;
     });
     return chatUser;
   };
@@ -382,26 +376,26 @@ http.listen(process.env.PORT || 3100, function() {
   console.log('listening on *:3100');
 });
 
-// Live
-var config = {
-  server: 'trenderalert.database.windows.net',
-  database: 'trendalertappdb',
-  user: 'trenderalertadmin',
-  password: 'Newalert190',
-  port: 1433,
-  options: {
-    encrypt: true
-  }
-};
-
-// // Local
+// // Live
 // var config = {
-//   server: '172.16.1.2',
+//   server: 'trenderalert.database.windows.net',
 //   database: 'trendalertappdb',
-//   user: 'dotnet',
-//   password: '@sp@2020',
-//   port: 1433
+//   user: 'trenderalertadmin',
+//   password: 'Newalert190',
+//   port: 1433,
+//   options: {
+//     encrypt: true
+//   }
 // };
+
+// Local
+var config = {
+  server: '172.16.1.2',
+  database: 'trendalertappdb',
+  user: 'dotnet',
+  password: '@sp@2020',
+  port: 1433
+};
 
 const executeStoredProc = async (purpose, params) => {
   var dbConn = new sql.Connection(config);
