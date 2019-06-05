@@ -108,14 +108,17 @@ io.on('connection', function(socket) {
   // --------- chat start ---------- //
   socket.on('chatinitiate', userinfo => {
     if (userinfo) {
-      console.log('chatUsers before obj push', chatUsers);
-      let obj = { userinfo: userinfo, subscriptionId: socket.id };
-      console.log('obj user chat', obj);
-      if (!chatUsers.includes(obj)) {
-        chatUsers.push(obj);
+      let insertRequired = true;
+      for (let i = 0; i < chatUsers.length; i++) {
+        if (chatUsers[i].subscriptionId == socket.id) {
+          insertRequired = false;
+        }
+      }
+      if (insertRequired) {
+        chatUsers.push({ userinfo: userinfo, subscriptionId: socket.id });
       }
 
-      console.log('chatUsers after obj push', chatUsers);
+      console.log('chatUsers', chatUsers);
 
       logger.log({
         level: 'info',
@@ -133,6 +136,11 @@ io.on('connection', function(socket) {
     });
 
     var usersArr = getTargettedToUser(data.toUserProfileId);
+    var usersArrFrom = getTargettedFromUser(
+      data.fromUserProfileId,
+      data.toUserProfileId
+    );
+
     console.log('userarray', usersArr);
     if (usersArr && usersArr.length > 0) {
       // insert the data into DB, regardless of the reciepient is online or not
@@ -160,6 +168,31 @@ io.on('connection', function(socket) {
                   }
                 }
               }
+
+              console.log('send to self', socket.id);
+              socket.emit('getmessage', res[1][0]);
+
+              // console.log('usersArrFrom', usersArrFrom);
+
+              //   // after insertion to db send the message to sender itself other then current sending device
+              //   for (let k = 0; k < usersArrFrom.length; k++) {
+              //     var user = usersArrFrom[k];
+              //     var fromProfileSubscriptionId = user
+              //       ? user.subscriptionId
+              //       : null;
+              //     console.log('user_' + k, user);
+              //     console.log(
+              //       'fromProfileSubscriptionId',
+              //       fromProfileSubscriptionId
+              //     );
+              //     if (fromProfileSubscriptionId) {
+              //       if (res[0][0].Status) {
+              //         socket.broadcast
+              //           .to(fromProfileSubscriptionId)
+              //           .emit('getmessage', res[1][0]);
+              //       }
+              //     }
+              //   }
             }
           }
         },
@@ -178,6 +211,35 @@ io.on('connection', function(socket) {
               level: 'info',
               message: stringify({ messagesaved: res })
             });
+
+            if (res[0][0].Status) {
+              console.log('send to self', socket.id);
+              socket.emit('getmessage', res[1][0]);
+            }
+
+            // // modify here send a basic message
+            // console.log('usersArrFrom', usersArrFrom);
+            // if (res.length > 0 && res[0].length > 0) {
+            //   // after insertion to db send the message to recipient
+            //   for (let k = 0; k < usersArrFrom.length; k++) {
+            //     var user = usersArrFrom[k];
+            //     var fromProfileSubscriptionId = user
+            //       ? user.subscriptionId
+            //       : null;
+            //     console.log('user_' + k, user);
+            //     console.log(
+            //       'fromProfileSubscriptionId',
+            //       fromProfileSubscriptionId
+            //     );
+            //     if (fromProfileSubscriptionId) {
+            //       if (res[0][0].Status) {
+            //         socket.broadcast
+            //           .to(fromProfileSubscriptionId)
+            //           .emit('getmessage', res[1][0]);
+            //       }
+            //     }
+            //   }
+            // }
           }
         },
         err => {
@@ -196,6 +258,18 @@ io.on('connection', function(socket) {
     });
     return chatUser;
   };
+
+  const getTargettedFromUser = (FromUserId, ToUserId) => {
+    var chatUser = chatUsers.filter(user => {
+      return (
+        user.userinfo &&
+        user.userinfo.fromUserProfileId == FromUserId &&
+        user.userinfo.toUserProfileId == ToUserId
+      );
+    });
+    return chatUser;
+  };
+
   // --------- chat end ----------
 
   // --------- comment start ----------
@@ -308,6 +382,7 @@ http.listen(process.env.PORT || 3100, function() {
   console.log('listening on *:3100');
 });
 
+// // Live
 // var config = {
 //   server: 'trenderalert.database.windows.net',
 //   database: 'trendalertappdb',
@@ -318,7 +393,8 @@ http.listen(process.env.PORT || 3100, function() {
 //     encrypt: true
 //   }
 // };
-
+ 
+// Local
 var config = {
   server: '172.16.1.2',
   database: 'trendalertappdb',
@@ -336,43 +412,45 @@ const executeStoredProc = async (purpose, params) => {
 
   if (purpose == 'commentsbytrends') {
     recordset = await request
-      .input('trend_id', sql.Int, params.trendId)
+      .input('trend_id', sql.BigInt, params.trendId)
       .execute('usp_getcommentsbytrends');
   } else if (purpose == 'userchat') {
     recordset = await request
-      .input('FromUserProfileId', sql.Int, params.FromUserProfileId)
-      .input('ToUserProfileId', sql.Int, params.ToUserProfileId)
+      .input('FromUserProfileId', sql.BigInt, params.FromUserProfileId)
+      .input('ToUserProfileId', sql.BigInt, params.ToUserProfileId)
       .execute('UserChatList');
   } else if (purpose == 'chatsave') {
     recordset = await request
-      .input('FromUserProfileId', sql.Int, params.fromUserProfileId)
-      .input('ToUserProfileId', sql.Int, params.toUserProfileId)
+      .input('FromUserProfileId', sql.BigInt, params.fromUserProfileId)
+      .input('ToUserProfileId', sql.BigInt, params.toUserProfileId)
       .input('UserId', sql.VarChar(200), params.userId)
-      .input('ChatText', sql.VarChar(500), params.message)
+      .input('ChatText', sql.NVarChar(500), params.message)
+      .input('ParentMediaId', sql.BigInt, params.ParentMediaId)
       .execute('SaveChat');
   } else if (purpose == 'commentreply') {
     recordset = await request
-      .input('Id', sql.Int, params.Id)
-      .input('UserProfileId', sql.Int, params.UserProfileId)
+      .input('Id', sql.BigInt, params.Id)
+      .input('UserProfileId', sql.BigInt, params.UserProfileId)
       .input('IsReply', sql.Bit, params.IsReply)
       .execute('GetCommentReply');
   } else if (purpose == 'updateuseronlinestatus') {
     recordset = await request
-      .input('UserProfileId', sql.Int, params.UserProfileId)
+      .input('UserProfileId', sql.BigInt, params.UserProfileId)
       .input('IsOnline', sql.Bit, params.IsOnline)
       .execute('SetUserOnlineStatus');
   } else if (purpose == 'messagesave') {
     recordset = await request
-      .input('FromUserProfileId', sql.Int, params.fromUserProfileId)
-      .input('ToUserProfileId', sql.Int, params.toUserProfileId)
+      .input('FromUserProfileId', sql.BigInt, params.fromUserProfileId)
+      .input('ToUserProfileId', sql.BigInt, params.toUserProfileId)
       .input('UserId', sql.VarChar(200), params.userId)
       .input('ChatText', sql.VarChar(500), params.message)
       .input('IsMessage', sql.Bit, 1)
+      .input('ParentMediaId', sql.BigInt, params.ParentMediaId)
       .execute('SaveChat');
   } else if (purpose == 'getchat') {
     recordset = await request
-      .input('FromUserProfileId', sql.Int, params.fromUserProfileId)
-      .input('ToUserProfileId', sql.Int, params.toUserProfileId)
+      .input('FromUserProfileId', sql.BigInt, params.fromUserProfileId)
+      .input('ToUserProfileId', sql.BigInt, params.toUserProfileId)
       .input('UserId', sql.VarChar(200), params.userId)
       .execute('GetChat');
   }
