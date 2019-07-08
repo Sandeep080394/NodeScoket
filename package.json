@@ -15,6 +15,7 @@
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.16.4",
+    "fcm-node": "^1.5.1",
     "json-stringify-safe": "^5.0.1",
     "mssql": "^3.3.0",
     "request": "^2.88.0",
