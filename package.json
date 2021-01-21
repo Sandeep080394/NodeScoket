@@ -19,7 +19,7 @@
     "json-stringify-safe": "^5.0.1",
     "mssql": "^3.3.0",
     "request": "^2.88.0",
-    "socket.io": "^2.2.0",
+    "socket.io": "^2.4.0",
     "winston": "^3.2.1"
   }
 }
