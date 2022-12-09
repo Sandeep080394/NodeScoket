@@ -14,7 +14,7 @@
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "fcm-node": "^1.5.1",
     "json-stringify-safe": "^5.0.1",
     "mssql": "^3.3.0",
